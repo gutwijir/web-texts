@@ -6,10 +6,12 @@
     "en"
   ],
   "pages": {
+    ":name": "Podstranky",
     "index":{
       ":name": "Uvodni stranka",
       ":description": "https://www.uniqway.cz",
       "sections":{
+        ":name": "Sekce",
         "hero":{
           ":name": "Hero",
           ":description": "Uvodni obrazovka s mottem",
