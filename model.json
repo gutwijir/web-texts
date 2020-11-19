@@ -1,6 +1,10 @@
 {
   ":name": "Uniqway Web",
   ":description": "Texty hlavniho webu https://www.uniqway.cz",
+  ":locales": [
+    "cs",
+    "en"
+  ],
   "custom-field": {
     ":description": "This example text is used as a description.",
     ":type": "line"
@@ -19,5 +23,9 @@
         ":type": "line"
       }
     }
+  },
+  "exampleObject": {
+    "exampleField1": {":type": "line"},
+    "exampleField2": {":type": "text"}
   }
 }
