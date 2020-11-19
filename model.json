@@ -7,14 +7,34 @@
   ],
   "pages": {
     "index":{
+      ":name": "Uvodni stranka",
+      ":description": "https://www.uniqway.cz",
       "sections":{
         "hero":{
-          ":description": "Uvodni obrazovka webu",
+          ":name": "Hero",
+          ":description": "Uvodni obrazovka s mottem",
           "motto": {
+            ":name": "Motto",
+            ":description": "napr. Rozjed se s nami!",
+            ":type": "line"
+          },
+          "description": {
+            ":name": "Popis",
+            ":description": "napr. První český carsharing pro studenty a zaměstnance vysokých škol.",
             ":type": "line"
           }
         },
-        "howDoesItWork":{}
+        "map":{
+          ":name": "Mapa",
+          "title":{
+            ":name": "Nadpis",
+            ":type": "line"
+          },
+          "about":{
+            ":name": "O nas",
+            ":type": "text"
+          }
+        }
       }
     },
     "about":{},
