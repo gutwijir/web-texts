@@ -264,6 +264,33 @@
           }
         }
       }
+    },
+    "navigation": {
+      ":name": "Navigace",
+      ":description": "horní navigační lišta",
+      "options": {
+        ":name": "Možnosti",
+        ":description": "prvky navigace vlevo",
+        ":items": {
+          "to": {
+            ":name": "Odkaz",
+            ":type": "line"
+          },
+          "scroll": {
+            ":name": "Kotva ke scrollnutí",
+            ":description": "pokud vyplněno, po kliku bude web odscrollován na uvedenou kotvu",
+            ":type": "line"
+          },
+          "label": {
+            ":name": "Nápis",
+            ":type": "line"
+          }
+        }
+      },
+      "signupButton": {
+        ":name": "Registrační tlačítko",
+        ":type": "line"
+      }
     }
   }
 }
