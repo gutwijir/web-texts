@@ -69,6 +69,37 @@
             "monthName": "Prosinec"
           }
         ]
+      },
+      "navigation": {
+        "options": [
+          {
+            "label": "Jak to funguje?",
+            "to": "index",
+            "scroll": "jak_to_funguje"
+          },
+          {
+            "label": "Cena",
+            "to": "index",
+            "scroll": "cena"
+          },
+          {
+            "label": "Kontakty",
+            "scroll": "contacts"
+          },
+          {
+            "label": "O nás",
+            "to": "about"
+          },
+          {
+            "label": "Tým",
+            "to": "team"
+          },
+          {
+            "label": "Novinky",
+            "to": "news"
+          }
+        ],
+        "signupButton": "Registrovat"
       }
     }
   },
@@ -168,6 +199,36 @@
             "monthName": "December"
           }
         ]
+      },
+      "navigation": {
+        "options": [
+          {
+            "label": "How does it work?",
+            "to": "index",
+            "scroll": "jak_to_funguje"
+          },
+          {
+            "label": "Pricing",
+            "to": "index",
+            "scroll": "cena"
+          },
+          {
+            "scroll": "contacts"
+          },
+          {
+            "label": "About us",
+            "to": "about"
+          },
+          {
+            "label": "Team",
+            "to": "team"
+          },
+          {
+            "label": "News",
+            "to": "news"
+          }
+        ],
+        "signupButton": "Register"
       }
     }
   }
