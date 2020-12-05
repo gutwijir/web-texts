@@ -75,16 +75,16 @@
           {
             "label": "Jak to funguje?",
             "to": "index",
-            "scroll": "jak_to_funguje"
+            "scroll": "#jak_to_funguje"
           },
           {
             "label": "Cena",
             "to": "index",
-            "scroll": "cena"
+            "scroll": "#cena"
           },
           {
             "label": "Kontakty",
-            "scroll": "contacts"
+            "scroll": "#contacts"
           },
           {
             "label": "O nás",
@@ -205,15 +205,15 @@
           {
             "label": "How does it work?",
             "to": "index",
-            "scroll": "jak_to_funguje"
+            "scroll": "#jak_to_funguje"
           },
           {
             "label": "Pricing",
             "to": "index",
-            "scroll": "cena"
+            "scroll": "#cena"
           },
           {
-            "scroll": "contacts"
+            "scroll": "#contacts"
           },
           {
             "label": "About us",
