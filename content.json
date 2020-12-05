@@ -1,1 +1,24 @@
-{}
+{
+  "cs": {
+    "pages": {
+      "index": {
+        "sections": {
+          "hero": {
+            "motto": "test"
+          }
+        }
+      }
+    }
+  },
+  "en": {
+    "pages": {
+      "index": {
+        "sections": {
+          "hero": {
+            "motto": "test ang"
+          }
+        }
+      }
+    }
+  }
+}
