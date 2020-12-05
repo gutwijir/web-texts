@@ -25,6 +25,51 @@
           }
         }
       }
+    },
+    "components": {
+      "datePicker": {
+        "day": "Den",
+        "month": "Měsíc",
+        "year": "Rok",
+        "months": [
+          {
+            "monthName": "Leden"
+          },
+          {
+            "monthName": "Únor"
+          },
+          {
+            "monthName": "Březen"
+          },
+          {
+            "monthName": "Duben"
+          },
+          {
+            "monthName": "Květen"
+          },
+          {
+            "monthName": "Červen"
+          },
+          {
+            "monthName": "Červenec"
+          },
+          {
+            "monthName": "Srpen"
+          },
+          {
+            "monthName": "Září"
+          },
+          {
+            "monthName": "Říjen"
+          },
+          {
+            "monthName": "Listopad"
+          },
+          {
+            "monthName": "Prosinec"
+          }
+        ]
+      }
     }
   },
   "en": {
@@ -78,6 +123,51 @@
           }
         },
         "title": "The first Czech university carsharing"
+      }
+    },
+    "components": {
+      "datePicker": {
+        "day": "Day",
+        "month": "Month",
+        "year": "Year",
+        "months": [
+          {
+            "monthName": "January"
+          },
+          {
+            "monthName": "February"
+          },
+          {
+            "monthName": "March"
+          },
+          {
+            "monthName": "April"
+          },
+          {
+            "monthName": "May"
+          },
+          {
+            "monthName": "June"
+          },
+          {
+            "monthName": "July"
+          },
+          {
+            "monthName": "August"
+          },
+          {
+            "monthName": "September"
+          },
+          {
+            "monthName": "October"
+          },
+          {
+            "monthName": "November"
+          },
+          {
+            "monthName": "December"
+          }
+        ]
       }
     }
   }
