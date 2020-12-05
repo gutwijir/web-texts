@@ -1,17 +1,23 @@
 {
   ":name": "Uniqway Web",
-  ":description": "Texty hlavniho webu https://www.uniqway.cz",
+  ":description": "Texty hlavního webu https://www.uniqway.cz",
   ":locales": [
     "cs",
     "en"
   ],
   "pages": {
-    ":name": "Podstranky",
+    ":name": "Podstránky",
     "index":{
       ":name": "Uvodni stranka",
       ":description": "https://www.uniqway.cz",
+      "title": {
+        ":name": "Titulek",
+        ":description": "Nadpis stránky v tabu prohlížeče, | Uniqway bude doplněno",
+        ":type": "line"
+      },
       "meta": {
         ":name": "Meta",
+        ":description": "Data pro SEO optimalizaci",
         "title": {
           ":type": "line"
         },
@@ -23,15 +29,44 @@
         ":name": "Sekce",
         "hero":{
           ":name": "Hero",
-          ":description": "Uvodni obrazovka s mottem",
+          ":description": "Úvodní obrazovka s mottem",
           "motto": {
             ":name": "Motto",
-            ":description": "napr. Rozjed se s nami!",
+            ":description": "např. Rozjeď se s námi!",
             ":type": "line"
           },
           "description": {
             ":name": "Popis",
-            ":description": "napr. První český carsharing pro studenty a zaměstnance vysokých škol.",
+            ":description": "např. První český carsharing pro studenty a zaměstnance vysokých škol.",
+            ":type": "line"
+          },
+          "button": {
+            ":name": "Tlačítko",
+            ":description": "např. Chci jezdit",
+            ":type": "line"
+          }
+        },
+        "news":{
+          ":name": "Poslední novinky",
+          ":description": "Box se čtyřmi posledními aktualitami",
+          "title": {
+            ":name": "Nadpis",
+            ":description": "např. Novinky",
+            ":type": "line"
+          },
+          "latest": {
+            ":name": "Aktuální",
+            ":description": "slovo zvýrazňující poslední novinku",
+            ":type": "line"
+          },
+          "moreInfo": {
+            ":name": "Další informace",
+            ":description": "text odkazu vedoucí na zbytek novinky",
+            ":type": "line"
+          },
+          "showAll": {
+            ":name": "Všechny novinky",
+            ":description": "text odkazu vedoucí na všechny novinky",
             ":type": "line"
           }
         },
@@ -39,19 +74,157 @@
           ":name": "Mapa",
           "title":{
             ":name": "Nadpis",
+            ":description": "nadpis sekce s mapou",
             ":type": "line"
           },
           "about":{
-            ":name": "O nas",
+            ":description": "krátký popis projektu pod nadpisem",
+            ":name": "O nás",
             ":type": "text"
+          },
+          "mapIntro":{
+            ":description": "krátký text předchazející mapě",
+            ":name": "Mapa vozidel",
+            ":type": "text"
+          },
+          "partnersIntro":{
+            ":description": "na vývoji služby se podílejí:",
+            ":name": "Představení partnerů",
+            ":type": "text"
+          }
+        },
+        "howDoesItWork":{
+          ":name": "Jak to funguje?",
+          "title":{
+            ":name": "Nadpis",
+            ":description": "nadpis sekce Jak to funguje?",
+            ":type": "line"
+          },
+          "steps": {
+            ":items": {
+              "img": {
+                ":type": "line"
+              },
+              "title": {
+                ":type": "line",
+                ":description": "Nadpis kroku"
+              },
+              "content": {
+                ":description": "Obsah kroku",
+                ":type": "text"
+              },
+              "showBadges": {
+                ":type": "line"
+              },
+              "officeLinkText": {
+                ":type": "line"
+              }
+            }
           }
         }
       }
     },
-    "about":{},
-    "team":{},
-    "news":{},
-    "registrace":{},
-    "verification":{}
+    "about":{
+      "title": {
+        ":name": "Titulek",
+        ":description": "Nadpis stránky v tabu prohlížeče, | Uniqway bude doplněno",
+        ":type": "line"
+      },
+      "meta": {
+        ":name": "Meta",
+        ":description": "Data pro SEO optimalizaci",
+        "title": {
+          ":type": "line"
+        },
+        "description": {
+          ":type": "text"
+        }
+      }
+    },
+    "team":{
+      "title": {
+        ":name": "Titulek",
+        ":description": "Nadpis stránky v tabu prohlížeče, | Uniqway bude doplněno",
+        ":type": "line"
+      },
+      "meta": {
+        ":name": "Meta",
+        ":description": "Data pro SEO optimalizaci",
+        "title": {
+          ":type": "line"
+        },
+        "description": {
+          ":type": "text"
+        }
+      }
+    },
+    "news":{
+      "title": {
+        ":name": "Titulek",
+        ":description": "Nadpis stránky v tabu prohlížeče, | Uniqway bude doplněno",
+        ":type": "line"
+      },
+      "meta": {
+        ":name": "Meta",
+        ":description": "Data pro SEO optimalizaci",
+        "title": {
+          ":type": "line"
+        },
+        "description": {
+          ":type": "text"
+        }
+      }
+    },
+    "registrace":{
+      "title": {
+        ":name": "Titulek",
+        ":description": "Nadpis stránky v tabu prohlížeče, | Uniqway bude doplněno",
+        ":type": "line"
+      },
+      "meta": {
+        ":name": "Meta",
+        ":description": "Data pro SEO optimalizaci",
+        "title": {
+          ":type": "line"
+        },
+        "description": {
+          ":type": "text"
+        }
+      }
+    },
+    "verification":{
+      "title": {
+        ":name": "Titulek",
+        ":description": "Nadpis stránky v tabu prohlížeče, | Uniqway bude doplněno",
+        ":type": "line"
+      },
+      "meta": {
+        ":name": "Meta",
+        ":description": "Data pro SEO optimalizaci",
+        "title": {
+          ":type": "line"
+        },
+        "description": {
+          ":type": "text"
+        }
+      }
+    },
+    "corporate-governance": {
+      "title": {
+        ":name": "Titulek",
+        ":description": "Nadpis stránky v tabu prohlížeče, | Uniqway bude doplněno",
+        ":type": "line"
+      },
+      "meta": {
+        ":name": "Meta",
+        ":description": "Data pro SEO optimalizaci",
+        "title": {
+          ":type": "line"
+        },
+        "description": {
+          ":type": "text"
+        }
+      }
+    }
   }
 }
