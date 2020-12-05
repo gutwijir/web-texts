@@ -10,6 +10,15 @@
     "index":{
       ":name": "Uvodni stranka",
       ":description": "https://www.uniqway.cz",
+      "meta": {
+        ":name": "Meta",
+        "title": {
+          ":type": "line"
+        },
+        "description": {
+          ":type": "text"
+        }
+      },
       "sections":{
         ":name": "Sekce",
         "hero":{
