@@ -213,7 +213,8 @@
             "scroll": "#cena"
           },
           {
-            "scroll": "#contacts"
+            "scroll": "#contacts",
+            "label": "Contacts"
           },
           {
             "label": "About us",
