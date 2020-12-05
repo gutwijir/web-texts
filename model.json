@@ -103,20 +103,25 @@
           "steps": {
             ":items": {
               "img": {
+                ":name": "Obrázek",
                 ":type": "line"
               },
               "title": {
                 ":type": "line",
-                ":description": "Nadpis kroku"
+                ":name": "Nadpis kroku"
               },
               "content": {
-                ":description": "Obsah kroku",
+                ":name": "Obsah kroku",
                 ":type": "text"
               },
               "showBadges": {
+                ":name": "Odkazy do stores",
+                ":description": "neprázdné (nebo 1), pokud mají být u tohoto kroku zobrazeny odkazy na stažení aplikace, prázdné pokud ne",
                 ":type": "line"
               },
               "officeLinkText": {
+                ":name": "Odkaz na registrační místa",
+                ":description": "pokud vyplněné, bude to text odkazu vedoucího na registrační místa, pokud prázdné, tak se odkaz nezobrazí",
                 ":type": "line"
               }
             }
