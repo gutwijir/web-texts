@@ -85,12 +85,12 @@
           "mapIntro":{
             ":description": "krátký text předchazející mapě",
             ":name": "Mapa vozidel",
-            ":type": "text"
+            ":type": "line"
           },
           "partnersIntro":{
             ":description": "na vývoji služby se podílejí:",
             ":name": "Představení partnerů",
-            ":type": "text"
+            ":type": "line"
           }
         },
         "howDoesItWork":{
