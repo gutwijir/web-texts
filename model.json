@@ -236,5 +236,32 @@
         }
       }
     }
+  },
+  "components": {
+    "datePicker": {
+      ":name": "DatePicker",
+      ":description": "Komponent pro dropdown volbu datumu, použitý např. v registraci",
+      "day": {
+        ":name": "Den",
+        ":type": "line"
+      },
+      "month": {
+        ":name": "Měsíc",
+        ":type": "line"
+      },
+      "year": {
+        ":name": "Rok",
+        ":type": "line"
+      },
+      "months": {
+        ":name": "Měsíce",
+        ":items": {
+          "monthName": {
+            ":name": "Název měsíce",
+            ":type": "line"
+          }
+        }
+      }
+    }
   }
 }
