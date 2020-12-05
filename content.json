@@ -1,1 +1,13 @@
-{}
+{
+  "cs": {
+    "pages": {
+      "index": {
+        "sections": {
+          "hero": {
+            "motto": "test"
+          }
+        }
+      }
+    }
+  }
+}
