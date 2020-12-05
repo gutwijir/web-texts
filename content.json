@@ -4,7 +4,24 @@
       "index": {
         "sections": {
           "hero": {
-            "motto": "test"
+            "motto": "Rozjeď se s námi!"
+          },
+          "howDoesItWork": {
+            "steps": [
+              {
+                "img": "/img/steps/step1.jpg"
+              },
+              {
+                "showBadges": "1",
+                "img": "/img/steps/step2.jpg"
+              },
+              {
+                "img": "/img/steps/step3.jpg"
+              },
+              {
+                "img": "/img/steps/step4.jpg"
+              }
+            ]
           }
         }
       }
@@ -15,9 +32,52 @@
       "index": {
         "sections": {
           "hero": {
-            "motto": "test ang"
+            "motto": "Move off with us!",
+            "description": "The first Czech carsharing for students and employees of universities.",
+            "button": "I want to start"
+          },
+          "news": {
+            "title": "News",
+            "latest": "Latest",
+            "moreInfo": "More info >",
+            "showAll": "All news >"
+          },
+          "map": {
+            "title": "Who is Uniqway?",
+            "about": "Uniqway is carsharing made by students of CTU, CULS and VŠE for students and employees of all universities. We share cars. In our fleet there are 23 cars - 19 ŠKODA FABIA, 3 ŠKODA SCALA and 2 ŠKODA CITIGOᵉ iV. You can borrow and return them at mentioned universities and their dormitories as well as in other zones, which are visible in the map below. Because we are student carsharing, you don’t have to pay registration fees.",
+            "mapIntro": "The map of our cars and parking zones:",
+            "partnersIntro": "Behind the development stand:"
+          },
+          "howDoesItWork": {
+            "title": "How does it work?",
+            "subtitle": "Quickly and without worries. Just in few steps!",
+            "steps": [
+              {
+                "title": "1. Register",
+                "content": "Registration is done through the online registration form on our website. After filling in, you will be directed to the activation form, where you will upload photos of documents and RFID number of the student card. The whole process takes no more than 15 minutes. We will then verify your documents and activate your account.",
+                "officeLinkText": "Addresses of our offices",
+                "img": "/img/steps/step1.jpg"
+              },
+              {
+                "title": "2. Download the app",
+                "showBadges": "1",
+                "content": "When you complete the registration, you will download and install the app into your mobile phone. Then you can use our service via the app.",
+                "img": "/img/steps/step2.jpg"
+              },
+              {
+                "img": "/img/steps/step3.jpg",
+                "title": "3. Choose a car",
+                "content": "The app will take you through all the necessary steps for renting a car. You will see which cars are available and where they are. Then you will choose one of them and book it."
+              },
+              {
+                "content": "After reserving the car, you have 15 minutes free of charge to pick up the car. After exceeding the 15 minutes the reservation won’t end, the tariff will be calculated according to the valid price list, as it is after unlocking the vehicle. To unlock the vehicle, simply hit the button “Unlock” in the app and hold the student card to the reader behind the windshield.",
+                "title": "4. You can take off!",
+                "img": "/img/steps/step4.jpg"
+              }
+            ]
           }
-        }
+        },
+        "title": "The first Czech university carsharing"
       }
     }
   }
