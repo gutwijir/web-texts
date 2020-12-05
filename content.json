@@ -9,5 +9,16 @@
         }
       }
     }
+  },
+  "en": {
+    "pages": {
+      "index": {
+        "sections": {
+          "hero": {
+            "motto": "test ang"
+          }
+        }
+      }
+    }
   }
 }
