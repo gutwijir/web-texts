@@ -238,9 +238,11 @@
     }
   },
   "components": {
+    ":name": "Komponenty",
+    ":description": "texty pro recyklované komponenty",
     "datePicker": {
       ":name": "DatePicker",
-      ":description": "Komponent pro dropdown volbu datumu, použitý např. v registraci",
+      ":description": "komponenta pro dropdown volbu datumu, použitý např. v registraci",
       "day": {
         ":name": "Den",
         ":type": "line"
