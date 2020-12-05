@@ -100,6 +100,11 @@
             ":description": "nadpis sekce Jak to funguje?",
             ":type": "line"
           },
+          "subtitle":{
+            ":name": "Podnadpis",
+            ":description": "podnadpis sekce Jak to funguje?",
+            ":type": "line"
+          },
           "steps": {
             ":items": {
               "img": {
