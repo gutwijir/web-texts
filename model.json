@@ -5,20 +5,41 @@
     "cs",
     "en"
   ],
+  "meta": {
+    ":name": "Výchozí informace pro vyhledávače",
+    ":description": "Použity budou jen české verze, na jednotlivých stránkách budou tyto informace nahrazeny. Zde jde jen o tzv. fallback.",
+    "title": {
+      ":name": "Nadpis okna / karty",
+      ":type": "line"
+    },
+    "keywords": {
+      ":name": "Klíčová slova",
+      ":type": "line"
+    },
+    "description": {
+      ":name": "Popis",
+      ":type": "text"
+    },
+    "image": {
+      ":name": "Obrázek při sdílení",
+      ":type": "line"
+    },
+    "noscript": {
+      ":name": "Zpráva při vypnutém JavaScriptu",
+      ":type": "text"
+    }
+  },
   "pages": {
     ":name": "Podstránky",
     "index":{
       ":name": "Uvodni stranka",
       ":description": "https://www.uniqway.cz",
-      "title": {
-        ":name": "Titulek",
-        ":description": "Nadpis stránky v tabu prohlížeče, | Uniqway bude doplněno",
-        ":type": "line"
-      },
       "meta": {
         ":name": "Meta",
         ":description": "Data pro SEO optimalizaci",
         "title": {
+          ":name": "Titulek",
+          ":description": "Nadpis stránky v tabu prohlížeče, | Uniqway bude doplněno",
           ":type": "line"
         },
         "description": {
