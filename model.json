@@ -17,10 +17,6 @@
       ":description": "Místo %s bude dosazen specifický nadpis pro každou subpage, případně bude dosazen výchozí nadpis výše.",
       ":type": "line"
     },
-    "keywords": {
-      ":name": "Klíčová slova",
-      ":type": "line"
-    },
     "description": {
       ":name": "Popis",
       ":type": "text"
