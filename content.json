@@ -24,6 +24,12 @@
                 "img": "/img/steps/step4.jpg"
               }
             ]
+          },
+          "map": {
+            "title": "Kdo je Uniqway?",
+            "about": "sme carsharing vytvořený studenty z ČVUT, ČZU a VŠE pro studenty a zaměstnance všech vysokých škol. Sdílíme vozidla. V našem vozovém parku máme 27 vozidel – 19 ŠKODA FABIA, 6 ŠKODA SCALA a 2 ŠKODA CITIGOᵉ iV. Auto je možné si vypůjčit a vrátit nejen u zmíněných univerzit a jejich kolejí, ale i v mnoha dalších zónách. Ty jsou vidět na mapě níže. Jelikož jsme studentský carsharing - u nás to máš bez registračních poplatků.",
+            "mapIntro": "Mapa našich vozidel s parkovacími zónami:",
+            "partnersIntro": "Na vývoji služby se podílejí:"
           }
         }
       }
@@ -129,7 +135,7 @@
           },
           "map": {
             "title": "Who is Uniqway?",
-            "about": "Uniqway is carsharing made by students of CTU, CULS and VŠE for students and employees of all universities. We share cars. In our fleet there are 23 cars - 19 ŠKODA FABIA, 3 ŠKODA SCALA and 2 ŠKODA CITIGOᵉ iV. You can borrow and return them at mentioned universities and their dormitories as well as in other zones, which are visible in the map below. Because we are student carsharing, you don’t have to pay registration fees.",
+            "about": "Uniqway is carsharing made by students of CTU, CULS and VŠE for students and employees of all universities. We share cars. In our fleet there are 27 cars - 19 ŠKODA FABIA, 6 ŠKODA SCALA and 2 ŠKODA CITIGOᵉ iV. You can borrow and return them at mentioned universities and their dormitories as well as in other zones, which are visible in the map below. Because we are student carsharing, you don’t have to pay registration fees.",
             "mapIntro": "The map of our cars and parking zones:",
             "partnersIntro": "Behind the development stand:"
           },
