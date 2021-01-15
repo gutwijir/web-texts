@@ -113,6 +113,30 @@
             ":description": "na vývoji služby se podílejí:",
             ":name": "Představení partnerů",
             ":type": "line"
+          },
+          "noCars": {
+            ":nama": "Hláška pro žádná volná vozidla",
+            ":description": "Bude zobrazena v rohu mapy, pokud budou všechna auta zabrána."
+          },
+          "cvutAlt": {
+            ":name": "Popis loga ČVUT",
+            ":type": "line"
+          },
+          "vseAlt": {
+            ":name": "Popis loga VŠE",
+            ":type": "line"
+          },
+          "czuAlt": {
+            ":name": "Popis loga ČZU",
+            ":type": "line"
+          },
+          "skodaAlt": {
+            ":name": "Popis loga Škoda",
+            ":type": "line"
+          },
+          "digilabAlt": {
+            ":name": "Popis loga DigiLabu",
+            ":type": "line"
           }
         },
         "howDoesItWork":{
