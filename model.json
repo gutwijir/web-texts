@@ -9,7 +9,12 @@
     ":name": "Výchozí informace pro vyhledávače",
     ":description": "Použity budou jen české verze, na jednotlivých stránkách budou tyto informace nahrazeny. Zde jde jen o tzv. fallback.",
     "title": {
-      ":name": "Nadpis okna / karty",
+      ":name": "Výchozí nadpis okna / karty",
+      ":type": "line"
+    },
+    "titleTemplate": {
+      ":name": "Šablona nadpisu okna / karty",
+      ":description": "Místo %s bude dosazen specifický nadpis pro každou subpage, případně bude dosazen výchozí nadpis výše.",
       ":type": "line"
     },
     "keywords": {
@@ -39,7 +44,7 @@
         ":description": "Data pro SEO optimalizaci",
         "title": {
           ":name": "Titulek",
-          ":description": "Nadpis stránky v tabu prohlížeče, | Uniqway bude doplněno",
+          ":description": "Nadpis stránky v tabu prohlížeče, (| Uniqway bude doplněno)",
           ":type": "line"
         },
         "description": {
