@@ -106,7 +106,8 @@
       "noscript": "This website requires JavaScript.",
       "image": "https://www.uniqway.cz/img/uniqway_social.png",
       "description": "Jsme studentský tým spojující trojici univerzit ČVUT, ČZU a VŠE, který společně se ŠKODA AUTO DigiLab za podpory ŠKODA AUTO a dalších partnerů vytváří unikátní cool službu.",
-      "title": "Uniqway"
+      "title": "První český univerzitní carsharing",
+      "titleTemplate": "%s | Uniqway"
     }
   },
   "en": {
