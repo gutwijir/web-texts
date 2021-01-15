@@ -4,7 +4,9 @@
       "index": {
         "sections": {
           "hero": {
-            "motto": "Rozjeď se s námi!"
+            "motto": "Rozjeď se s námi!",
+            "description": "První český carsharing pro studenty a zaměstnance vysokých škol.",
+            "button": "Chci jezdit"
           },
           "howDoesItWork": {
             "steps": [
