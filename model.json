@@ -283,10 +283,10 @@
           },
           "faq": {
             ":items": {
-              ":question": {
+              "question": {
                 ":type": "line"
               },
-              ":answer": {
+              "answer": {
                 ":type": "line"
               },
               "sub": {
