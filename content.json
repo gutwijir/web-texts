@@ -48,6 +48,14 @@
             "vseAlt": "Logo Vysoké školy Ekonomické Praha",
             "skodaAlt": "Logo ŠKODA AUTO",
             "digilabAlt": "Logo ŠKODA AUTO DigiLab"
+          },
+          "pricing": {
+            "faq": [
+              {
+                "question": "Jak funguje Stropování?",
+                "answer": "Stropování, neboli maximální cena za 24 hodin rezervace funguje tak, že Ti garantujeme maximální cenu za Tvůj čas rezervace z každých 24 hodin právě probíhající rezervace. Maximální ceny za čas rezervace jsou uvedeny u jednotlivých modelů v popisu \"24 hodinového balíčku\"."
+              }
+            ]
           }
         }
       }
@@ -191,6 +199,11 @@
               "imageAlt": "todo",
               "text": "After reserving the car, you have 15 minutes free of charge to pick up the car. After exceeding the 15 minutes the reservation won’t end, the tariff will be calculated according to the valid price list, as it is after unlocking the vehicle. To unlock the vehicle, simply hit the button “Unlock” in the app and hold the student card to the reader behind the windshield."
             }
+          },
+          "pricing": {
+            "faq": [
+              {}
+            ]
           }
         },
         "title": "The first Czech university carsharing"
