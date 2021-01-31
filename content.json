@@ -55,6 +55,21 @@
                 "question": "Jak funguje Stropování?",
                 "answer": "Stropování, neboli maximální cena za 24 hodin rezervace funguje tak, že Ti garantujeme maximální cenu za Tvůj čas rezervace z každých 24 hodin právě probíhající rezervace. Maximální ceny za čas rezervace jsou uvedeny u jednotlivých modelů v popisu \"24 hodinového balíčku\"."
               }
+            ],
+            "priceLists": [
+              {
+                "id": "1",
+                "img": "test",
+                "imgWidth": "250",
+                "paddingTop": "10",
+                "shortTitle": "aaa",
+                "fullTitle": "bbb",
+                "minutePriceDriving": "1",
+                "minutePriceParking": "2",
+                "freeMinutes": "3",
+                "perKilometer": "4",
+                "dayMax": "5"
+              }
             ]
           }
         }
@@ -202,6 +217,9 @@
           },
           "pricing": {
             "faq": [
+              {}
+            ],
+            "priceLists": [
               {}
             ]
           }
