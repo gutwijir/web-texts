@@ -115,7 +115,7 @@
             ":type": "line"
           },
           "noCars": {
-            ":nama": "Hláška pro žádná volná vozidla",
+            ":name": "Hláška pro žádná volná vozidla",
             ":description": "Bude zobrazena v rohu mapy, pokud budou všechna auta zabrána.",
             ":type": "line"
           },
@@ -170,7 +170,8 @@
               ":type": "text"
             },
             "signupLink": {
-              ":name": "Text odkazu na registraci"
+              ":name": "Text odkazu na registraci",
+              ":type": "line"
             }
           },
           "step2": {
