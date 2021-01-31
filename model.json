@@ -32,7 +32,7 @@
   },
   "pages": {
     ":name": "Podstránky",
-    "index":{
+    "index": {
       ":name": "Uvodni stranka",
       ":description": "https://www.uniqway.cz",
       "meta": {
@@ -47,9 +47,9 @@
           ":type": "text"
         }
       },
-      "sections":{
+      "sections": {
         ":name": "Sekce",
-        "hero":{
+        "hero": {
           ":name": "Hero",
           ":description": "Úvodní obrazovka s mottem",
           "motto": {
@@ -68,7 +68,7 @@
             ":type": "line"
           }
         },
-        "news":{
+        "news": {
           ":name": "Poslední novinky",
           ":description": "Box se čtyřmi posledními aktualitami",
           "title": {
@@ -92,24 +92,24 @@
             ":type": "line"
           }
         },
-        "map":{
+        "map": {
           ":name": "Mapa",
-          "title":{
+          "title": {
             ":name": "Nadpis",
             ":description": "nadpis sekce s mapou",
             ":type": "line"
           },
-          "about":{
+          "about": {
             ":description": "krátký popis projektu pod nadpisem",
             ":name": "O nás",
             ":type": "text"
           },
-          "mapIntro":{
+          "mapIntro": {
             ":description": "krátký text předchazející mapě",
             ":name": "Mapa vozidel",
             ":type": "line"
           },
-          "partnersIntro":{
+          "partnersIntro": {
             ":description": "na vývoji služby se podílejí:",
             ":name": "Představení partnerů",
             ":type": "line"
@@ -123,12 +123,12 @@
             ":name": "Popis loga ČVUT",
             ":type": "line"
           },
-          "vseAlt": {
-            ":name": "Popis loga VŠE",
-            ":type": "line"
-          },
           "czuAlt": {
             ":name": "Popis loga ČZU",
+            ":type": "line"
+          },
+          "vseAlt": {
+            ":name": "Popis loga VŠE",
             ":type": "line"
           },
           "skodaAlt": {
@@ -140,48 +140,173 @@
             ":type": "line"
           }
         },
-        "howDoesItWork":{
+        "howDoesItWork": {
           ":name": "Jak to funguje?",
-          "title":{
+          "title": {
             ":name": "Nadpis",
             ":description": "nadpis sekce Jak to funguje?",
             ":type": "line"
           },
-          "subtitle":{
+          "subtitle": {
             ":name": "Podnadpis",
             ":description": "podnadpis sekce Jak to funguje?",
             ":type": "line"
           },
-          "steps": {
+          "step1": {
+            "title": {
+              ":name": "Nadpis prvního kroku",
+              ":type": "line"
+            },
+            "image": {
+              ":name": "Cesta k obrázku",
+              ":type": "line"
+            },
+            "imageAlt": {
+              ":name": "Popis obrázku",
+              ":type": "line"
+            },
+            "text": {
+              ":name": "Text k obrázku",
+              ":type": "text"
+            },
+            "signupLink": {
+              ":name": "Text odkazu na registraci"
+            }
+          },
+          "step2": {
+            "title": {
+              ":name": "Nadpis",
+              ":type": "line"
+            },
+            "imageAlt": {
+              ":name": "Popisek obrázku",
+              ":type": "line"
+            },
+            "text": {
+              ":name": "Text",
+              ":type": "text"
+            },
+            "googlePlayBadgeLink": {
+              ":name": "Odkaz na aplikaci v Google Play",
+              ":type": "line"
+            },
+            "googlePlayBadgeLinkAlt": {
+              ":name": "Popisek Google Play štítku",
+              ":type": "line"
+            },
+            "appStoreBadgeLink": {
+              ":name": "Odkaz na aplikaci v Apple App Store",
+              ":type": "line"
+            },
+            "appStoreBadgeLinkAlt": {
+              ":name": "Popisek Apple App Store štítku",
+              ":type": "line"
+            }
+          },
+          "step3": {
+            "title": {
+              ":name": "Nadpis",
+              ":type": "line"
+            },
+            "imageAlt": {
+              ":name": "Popisek obrázku",
+              ":type": "line"
+            },
+            "text": {
+              ":name": "Text",
+              ":type": "text"
+            },
+            "signupLink": {
+              ":name": "Text odkazu na registraci",
+              ":type": "line"
+            }
+          },
+          "step4": {
+            "title": {
+              ":name": "Nadpis",
+              ":type": "line"
+            },
+            "imageAlt": {
+              ":name": "Popisek obrázku",
+              ":type": "line"
+            },
+            "text": {
+              ":name": "Text",
+              ":type": "text"
+            }
+          }
+        },
+        "pricing": {
+          "priceLists": {
             ":items": {
+              "id": {
+                ":type": "line"
+              },
               "img": {
-                ":name": "Obrázek",
                 ":type": "line"
               },
-              "title": {
-                ":type": "line",
-                ":name": "Nadpis kroku"
-              },
-              "content": {
-                ":name": "Obsah kroku",
-                ":type": "text"
-              },
-              "showBadges": {
-                ":name": "Odkazy do stores",
-                ":description": "neprázdné (nebo 1), pokud mají být u tohoto kroku zobrazeny odkazy na stažení aplikace, prázdné pokud ne",
+              "imgWidth": {
                 ":type": "line"
               },
-              "officeLinkText": {
-                ":name": "Odkaz na registrační místa",
-                ":description": "pokud vyplněné, bude to text odkazu vedoucího na registrační místa, pokud prázdné, tak se odkaz nezobrazí",
+              "paddingTop": {
                 ":type": "line"
+              },
+              "shortTitle": {
+                ":type": "line"
+              },
+              "fullTitle": {
+                ":type": "line"
+              },
+              "minutePriceDriving": {
+                ":type": "line"
+              },
+              "minutePriceParking": {
+                ":type": "line"
+              },
+              "freeMinutes": {
+                ":type": "line"
+              },
+              "perKilometer": {
+                ":type": "line"
+              },
+              "dayMax": {
+                ":type": "line"
+              }
+            }
+          },
+          "features": {
+            ":items": {
+              "text": {
+                ":type": "line"
+              }
+            }
+          },
+          "faq": {
+            ":items": {
+              ":question": {
+                ":type": "line"
+              },
+              ":answer": {
+                ":type": "line"
+              },
+              "sub": {
+                ":items": {
+                  "question": {
+                    ":items": {
+                      ":type":"line"
+                    }
+                  },
+                  "answer": {
+                    ":type": "text"
+                  }
+                }
               }
             }
           }
         }
       }
     },
-    "about":{
+    "about": {
       "title": {
         ":name": "Titulek",
         ":description": "Nadpis stránky v tabu prohlížeče, | Uniqway bude doplněno",
@@ -198,7 +323,7 @@
         }
       }
     },
-    "team":{
+    "team": {
       "title": {
         ":name": "Titulek",
         ":description": "Nadpis stránky v tabu prohlížeče, | Uniqway bude doplněno",
@@ -215,7 +340,7 @@
         }
       }
     },
-    "news":{
+    "news": {
       "title": {
         ":name": "Titulek",
         ":description": "Nadpis stránky v tabu prohlížeče, | Uniqway bude doplněno",
@@ -232,7 +357,7 @@
         }
       }
     },
-    "registrace":{
+    "registrace": {
       "title": {
         ":name": "Titulek",
         ":description": "Nadpis stránky v tabu prohlížeče, | Uniqway bude doplněno",
@@ -249,7 +374,7 @@
         }
       }
     },
-    "verification":{
+    "verification": {
       "title": {
         ":name": "Titulek",
         ":description": "Nadpis stránky v tabu prohlížeče, | Uniqway bude doplněno",

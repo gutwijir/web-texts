@@ -9,25 +9,37 @@
             "button": "Chci jezdit"
           },
           "howDoesItWork": {
-            "steps": [
-              {
-                "img": "/img/steps/step1.jpg"
-              },
-              {
-                "showBadges": "1",
-                "img": "/img/steps/step2.jpg"
-              },
-              {
-                "img": "/img/steps/step3.jpg"
-              },
-              {
-                "img": "/img/steps/step4.jpg"
-              }
-            ]
+            "title": "How does it work?",
+            "subtitle": "Quickly and without worries. Just in few steps!",
+            "step1": {
+              "title": "1. Register",
+              "imageAlt": "todo",
+              "text": "Registration is done through the online registration form on our website. After filling in, you will be directed to the activation form, where you will upload photos of documents and RFID number of the student card. The whole process takes no more than 15 minutes. We will then verify your documents and activate your account.",
+              "signupLink": "Register online"
+            },
+            "step2": {
+              "title": "2. Download the app",
+              "imageAlt": "todo",
+              "text": "When you complete the registration, you will download and install the app into your mobile phone. Then you can use our service via the app.",
+              "googlePlayBadgeLink": "https://play.google.com/store/apps/details?id=cz.uniqway.uniqway",
+              "googlePlayBadgeLinkAlt": "todo",
+              "appStoreBadgeLink": "https://itunes.apple.com/cz/app/uniqway/id1444585149?mt=8",
+              "appStoreBadgeLinkAlt": "todo"
+            },
+            "step3": {
+              "title": "3. Download the app",
+              "imageAlt": "todo",
+              "text": "The app will take you through all the necessary steps for renting a car. You will see which cars are available and where they are. Then you will choose one of them and book it."
+            },
+            "step4": {
+              "title": "4. You can take off!",
+              "imageAlt": "todo",
+              "text": "After reserving the car, you have 15 minutes free of charge to pick up the car. After exceeding the 15 minutes the reservation won’t end, the tariff will be calculated according to the valid price list, as it is after unlocking the vehicle. To unlock the vehicle, simply hit the button “Unlock” in the app and hold the student card to the reader behind the windshield."
+            }
           },
           "map": {
             "title": "Kdo je Uniqway?",
-            "about": "sme carsharing vytvořený studenty z ČVUT, ČZU a VŠE pro studenty a zaměstnance všech vysokých škol. Sdílíme vozidla. V našem vozovém parku máme 27 vozidel – 19 ŠKODA FABIA, 6 ŠKODA SCALA a 2 ŠKODA CITIGOᵉ iV. Auto je možné si vypůjčit a vrátit nejen u zmíněných univerzit a jejich kolejí, ale i v mnoha dalších zónách. Ty jsou vidět na mapě níže. Jelikož jsme studentský carsharing - u nás to máš bez registračních poplatků.",
+            "about": "Jsme carsharing vytvořený studenty z ČVUT, ČZU a VŠE pro studenty a zaměstnance všech vysokých škol. Sdílíme vozidla. V našem vozovém parku máme 27 vozidel – 19 ŠKODA FABIA, 6 ŠKODA SCALA a 2 ŠKODA CITIGOᵉ iV. Auto je možné si vypůjčit a vrátit nejen u zmíněných univerzit a jejich kolejí, ale i v mnoha dalších zónách. Ty jsou vidět na mapě níže. Jelikož jsme studentský carsharing - u nás to máš bez registračních poplatků.",
             "mapIntro": "Mapa našich vozidel s parkovacími zónami:",
             "partnersIntro": "Na vývoji služby se podílejí:",
             "noCars": "Omlouváme se, všechna Uniqway auta jsou právě na cestě. Zkus to prosím za chvíli a #rozjedsesnami!",
@@ -154,30 +166,31 @@
           "howDoesItWork": {
             "title": "How does it work?",
             "subtitle": "Quickly and without worries. Just in few steps!",
-            "steps": [
-              {
-                "title": "1. Register",
-                "content": "Registration is done through the online registration form on our website. After filling in, you will be directed to the activation form, where you will upload photos of documents and RFID number of the student card. The whole process takes no more than 15 minutes. We will then verify your documents and activate your account.",
-                "officeLinkText": "Addresses of our offices",
-                "img": "/img/steps/step1.jpg"
-              },
-              {
-                "title": "2. Download the app",
-                "showBadges": "1",
-                "content": "When you complete the registration, you will download and install the app into your mobile phone. Then you can use our service via the app.",
-                "img": "/img/steps/step2.jpg"
-              },
-              {
-                "img": "/img/steps/step3.jpg",
-                "title": "3. Choose a car",
-                "content": "The app will take you through all the necessary steps for renting a car. You will see which cars are available and where they are. Then you will choose one of them and book it."
-              },
-              {
-                "content": "After reserving the car, you have 15 minutes free of charge to pick up the car. After exceeding the 15 minutes the reservation won’t end, the tariff will be calculated according to the valid price list, as it is after unlocking the vehicle. To unlock the vehicle, simply hit the button “Unlock” in the app and hold the student card to the reader behind the windshield.",
-                "title": "4. You can take off!",
-                "img": "/img/steps/step4.jpg"
-              }
-            ]
+            "step1": {
+              "title": "1. Register",
+              "imageAlt": "todo",
+              "text": "Registration is done through the online registration form on our website. After filling in, you will be directed to the activation form, where you will upload photos of documents and RFID number of the student card. The whole process takes no more than 15 minutes. We will then verify your documents and activate your account.",
+              "signupLink": "Register online"
+            },
+            "step2": {
+              "title": "2. Download the app",
+              "imageAlt": "todo",
+              "text": "When you complete the registration, you will download and install the app into your mobile phone. Then you can use our service via the app.",
+              "googlePlayBadgeLink": "https://play.google.com/store/apps/details?id=cz.uniqway.uniqway",
+              "googlePlayBadgeLinkAlt": "todo",
+              "appStoreBadgeLink": "https://itunes.apple.com/cz/app/uniqway/id1444585149?mt=8",
+              "appStoreBadgeLinkAlt": "todo"
+            },
+            "step3": {
+              "title": "3. Download the app",
+              "imageAlt": "todo",
+              "text": "The app will take you through all the necessary steps for renting a car. You will see which cars are available and where they are. Then you will choose one of them and book it."
+            },
+            "step4": {
+              "title": "4. You can take off!",
+              "imageAlt": "todo",
+              "text": "After reserving the car, you have 15 minutes free of charge to pick up the car. After exceeding the 15 minutes the reservation won’t end, the tariff will be calculated according to the valid price list, as it is after unlocking the vehicle. To unlock the vehicle, simply hit the button “Unlock” in the app and hold the student card to the reader behind the windshield."
+            }
           }
         },
         "title": "The first Czech university carsharing"
