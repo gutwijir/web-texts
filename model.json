@@ -293,7 +293,9 @@
                 ":items": {
                   "question": {
                     ":items": {
-                      ":type":"line"
+                      "text": {
+                        ":type": "line"
+                      }
                     }
                   },
                   "answer": {
