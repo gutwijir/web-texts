@@ -59,16 +59,16 @@
             "priceLists": [
               {
                 "id": "1",
-                "img": "test",
-                "imgWidth": "250",
-                "paddingTop": "10",
-                "shortTitle": "aaa",
-                "fullTitle": "bbb",
-                "minutePriceDriving": "1",
-                "minutePriceParking": "2",
-                "freeMinutes": "3",
-                "perKilometer": "4",
-                "dayMax": "5"
+                "img": "/img/citigo.webp",
+                "imgWidth": "233",
+                "paddingTop": "8",
+                "shortTitle": "CITIGOᵉ iV",
+                "fullTitle": "ŠKODA CITIGOᵉ iV",
+                "minutePriceDriving": "3,49",
+                "minutePriceParking": "1,49",
+                "freeMinutes": "80",
+                "perKilometer": "3,90",
+                "dayMax": "890"
               }
             ]
           }
