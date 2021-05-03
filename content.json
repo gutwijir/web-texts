@@ -1,1 +1,30 @@
-{}
+{
+  "cs": {
+    "pages": {
+      "index": {
+        "sections": {
+          "faq": [
+            {
+              "question": "Jak funguje uniqway v dobe covidu",
+              "answer": "<p><strong>nejak</strong></p>"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "en": {
+    "pages": {
+      "index": {
+        "sections": {
+          "faq": [
+            {
+              "question": "How does the service operate during the covid pandemic",
+              "answer": "<p><em>somehow</em></p>"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
