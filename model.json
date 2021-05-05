@@ -5,6 +5,13 @@
     "cs",
     "en"
   ],
+  "navigation": {
+    ":items": {
+      ":name": {
+        ":type": "line"
+      }
+    }
+  },
   "pages": {
     ":name": "Podstránky",
     "index": {
@@ -25,13 +32,18 @@
       "sections": {
         ":name": "Sekce",
         "faq": {
-          ":items": {
-            "question": {
-              ":type": "line"
-            },
-            "answer": {
-              ":type": "text",
-              ":richtext": true
+          "items": {
+            ":items": {
+              "question": {
+                ":type": "line"
+              },
+              "answer": {
+                ":type": "text",
+                ":richtext": true
+              },
+              "id": {
+                ":type": "text"
+              }
             }
           }
         }

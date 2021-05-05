@@ -1,28 +1,273 @@
 {
   "cs": {
+    "navigation": {
+      "entries": [
+        {
+          "label": "Jak to funguje?",
+          "scroll": "#jak_to_funguje"
+        },
+        {
+          "label": "Cena",
+          "scroll": "#cena"
+        },
+        {
+          "label": "Kontakt",
+          "scroll": "#contacts"
+        },
+        {
+          "label": "O nás",
+          "link": "about",
+          "subnavigation": [
+            {
+              "label": "Historie a Vize",
+              "link": "about"
+            },
+            {
+              "label": "Tým",
+              "link": "team"
+            },
+            {
+              "label": "Novinky",
+              "link": "news"
+            }
+          ]
+        }
+      ]
+    },
     "pages": {
       "index": {
         "sections": {
-          "faq": [
-            {
-              "question": "Jak funguje uniqway v dobe covidu",
-              "answer": "<p><strong>nejak</strong></p>"
-            }
-          ]
+          "faq": {
+            "items": [
+              {
+                "question": "Jak Uniqway funguje v době Covid-19?",
+                "answer": "Uniqway můžeš samozřejmě stále využívat, služba funguje beze změn. Respektive se snažíme provádět pouze změny k lepšímu a Uniqway vylepšovat. Po uzavření univerzit a našich kanceláří jsme úspěšně implementovali kompletní online registraci. V současnosti, po dobu mimořádných opatření, máš možnost využívat nového výhodnějšího ANTI-COVID tarifu. Pokud získáš produkt z Obchodu s odměnami, můžeš si jej vyzvednout každý pracovní den v ŠKODA AUTO DigiLab s.r.o.<br/><br/>Všechna naše vozidla pravidelně dezinfikujeme a čistíme ozonem, aby Tvá jízda s Uniqway byla vždy pohodlná a bezpečná. Také nalezneš dezinfekci pro svou potřebu v přihrádce vozidla. Nezapomeň si prosím v autě vždy nasadit roušku nebo respirátor.",
+                "id": "faq-covid19"
+              },
+              {
+                "question": "Mohu dokončit celou registraci online?",
+                "answer": "Ano, je možné dokončit celý proces registrace online, po vyplnění registračního formuláře budeš odkázán na aktivační formulář, do kterého nahraješ své doklady a my je následně zkontrolujeme. Pokud bude vše v pořádku, účet Ti aktivujeme a fotografie dokladů poté smažeme.",
+                "id": "faq-verifikace"
+              },
+              {
+                "question": "Co když jsem studentem jiné školy?",
+                "answer": "V tuto chvíli Uniqway nabízí své služby studentům a zaměstnancům všech vysokých škol.",
+                "id": "faq-jina-skola"
+              },
+              {
+                "question": "Kde si můžu auto půjčit nebo ho vrátit?",
+                "answer": "Auto si můžeš půjčit nebo jej vrátit ve vyhrazených zónách, které nalezneš na mapě v naší mobilní aplikaci nebo zde na <a class=\"helpline\" href=\"#mapa\">webu</a>. Pokud se nacházíš v takové oblasti, tlačítko Uniqway ve vozidle se rozsvítí zeleně. Auto v okamžiku vrácení nesmí stát na místě, kde je zastavení či stání vozidel omezeno nebo zakázáno.",
+                "id": "faq-zony"
+              },
+              {
+                "question": "Parkoviště označené jako zóna je za závorou, jak se na něj dostanu?",
+                "answer": "V palubní přihrádce vozidla jsou parkovací karty pro parkoviště jednotlivých univerzit. Najdi tu správnou, načti kartu a můžeš zaparkovat.",
+                "id": "faq-uzavrene-parkoviste"
+              },
+              {
+                "question": "Může jet někdo se mnou?",
+                "answer": "Ano, může jet jako spolucestující, ale řídit můžeš pouze Ty.",
+                "id": "faq-spolujezdec"
+              },
+              {
+                "question": "Kam můžu s autem jezdit?",
+                "answer": "S autem můžeš jet kamkoliv po České republice, zemích Evropské unie a Schengenského prostoru. V případě cesty mimo ČR je nutné si vozidlo zamluvit minimálně 2 dny předem přes naši <a class=\"helpline\" href=\"#contacts\">infolinku</a> nebo e-mailem na <a class=\"helpline\" href=\"mailto:info@uniqway.cz\">info@uniqway.cz</a> kvůli předání zahraniční tankovací karty UTA a podepsání předávacího protokolu při vyzvednutí vozidla na České zemědělské univerzitě v Praze. Při užívání Uniqway respektuj všechna platná opatření související s COVID-19 pandemií.",
+                "id": "faq-kam-lze-jezdit"
+              },
+              {
+                "question": "Jak probíhá placení?",
+                "answer": "Při registraci platební karty Ti banka zablokuje 1 Kč na Tvém účtu pro její ověření. Banka Ti následně 1 Kč vrátí. Po dokončení jízdy obdržíš fakturu, ve které uvidíš, kolik Tě jízda stála a automaticky se strhne daná částka z Tvého účtu. Pokud by platba neproběhla v pořádku, přijde Ti e-mail s odkazem na platební bránu, kde danou částku uhradíš.",
+                "id": "faq-placeni"
+              },
+              {
+                "question": "Co když dojde benzín?",
+                "answer": "V autech je karta CCS, kterou můžeš využít při placení na vybraných čerpacích stanicích v ČR. Pin nalezneš v aplikaci v sekci Informace o vozidle. Pro tankování v dalších zemích EU a Schengenského prostoru využij UTA kartu, kterou získáš při přebírání vozidla od našich ambasadorů a zároveň se dozvíš pin ke kartě. Při odevzdání vozidla je třeba odevzdat auto nádrž plnou alespoň z jedné poloviny.",
+                "id": "faq-tankovani"
+              },
+              {
+                "question": "Jak je to s dodržováním čistoty interiéru vozidla?",
+                "answer": "O čistotu našich vozů se stará tým ambasadorů, který pravidelně kontroluje jejich stav. Auto vždy nech v takovém stavu, v jakém bys ho chtěl sám převzít.",
+                "id": "faq-cistota"
+              },
+              {
+                "question": "Co mám dělat, když nebude auto před jízdou v pořádku (bude odřené, nabourané, extrémně špinavé apod.)?",
+                "answer": "Kontaktuj prosím naši <a class=\"helpline\" href=\"#contacts\">infolinku</a>.",
+                "id": "faq-poskozeni"
+              },
+              {
+                "question": "Zaparkoval jsem v podzemních garážích a auto mi nejde přes aplikaci zavřít nebo otevřít. Co mám dělat?",
+                "answer": "Auto jde bohužel zatím ovládat přes aplikaci pouze tam, kde je pokrytí mobilním GSM signálem. Nejjednodušším řešením je zkusit přejet například do vyššího patra, kde pokrytí signálem bude, nebo na venkovní parkoviště. Pokud se povedlo auto zavřít, ale už nejde otevřít, tak mohlo ztratit signál až po uzavření. V tomto případě prosím zavolej na naší <a class=\"helpline\" href=\"#contacts\">infolinku</a> a domluvíme se na dalším řešení.",
+                "id": "faq-mimo-signal"
+              },
+              {
+                "question": "Je auto pojištěné? Kolik zaplatím, když způsobím škodu?",
+                "answer": "Naše auta jsou havarijně pojištěna a spoluúčast činí 1% způsobené škody, minimálně však 1000 Kč.",
+                "id": "faq-pojisteni"
+              },
+              {
+                "question": "Co když se mi něco stane?",
+                "answer": "Vždy zavolej na naši <a class=\"helpline\" href=\"#contacts\">infolinku</a>, která Ti poradí, co dělat v takových situacích.",
+                "id": "faq-nehoda"
+              },
+              {
+                "question": "Co když budu potřebovat odvézt lyže, nebo věci na dovolenou v létě?",
+                "answer": "Na cestu Ti zdarma zapůjčíme střešní box na vůz Fabia. Zjistit dostupnost a objednat si jej můžeš na naší Infolince nebo přes e-mail <a class=\"helpline\" href=\"mailto:info@uniqway.cz\">info@uniqway.cz</a>. Prosíme, abys nám dal vědět alespoň 48 hodin před plánovanou jízdou, abychom stihli vše nachystat. Příslušenství půjčujeme na jízdu plánovanou minimálně na 2 dny, tudíž 48 hodin.",
+                "id": "faq-box"
+              },
+              {
+                "question": "Kde mohu zaparkovat?",
+                "answer": "V průběhu rezervace můžeš zaparkovat zdarma na všech modrých a fialových zónách po celé Praze. Při vrácení vozidla musíš stát v některé z našich Uniqway zón. Dej si pozor na správné zaparkování, nikdy neparkuj na zákazech, vyhrazených parkovacích místech, která nejsou pro Uniqway, a dalších.",
+                "id": "faq-parking"
+              },
+              {
+                "question": "Jak se jezdí s plně elektrickým vozidlem?",
+                "answer": "Kromě pár maličkostí je to stejné, jako klasický spalovací vůz. Při startu neuslyšíš motor, ani jeho následný chod, budeš jen upozorněn zvukovým signálem a nápisem “Připraveno / READY” na displeji tachometru.Naše elektrické CITIGOᵉ iV má pouze jeden rychlostní stupeň. Takže za jízdy neřadíš a máš pouze dva pedály - Brzdu a Plyn. Na řadící páce máš jako u automatické převodovky tyto možnosti: P - Parking, R - Reverse (zpátečka), N - Neutrál, D - Drive (Jízda), oproti klasickému vozu je zde možnost B - Brake (Nejvyšší stupeň rekuperace). Při zvolení B se rekuperuje elektrická energie z kol zpět do baterie a vozidlo tím samo výrazně zpomaluje a brzdí (vždy se rozsvítí brzdová světla). Jezdit na tento režim se vyplatí převážně ve městě, kde se omezí používání brzd a zvýší nejvíce množství energie vrácené do baterie díky rekuperaci. Nabíjení je možné na stanicích ČEZ a PRE. Nabíjecí čip nalezneš u dokladů k vozidlu. V černých deskách v přihrádce u spolujezdce. Při nabíjení nejprve odemkni nabíjecí konektor ve voze, pomocí tlačítka pro odemknutí vozu na řidičových dveřích. Otevři víčko k nabíjecí zásuvce a vyjmi krytky zásuvky. Připoj k vozidlu příslušný kabel z dobíjecí stanice, případně použij kabel z kufru vozidla. Na panel dobíjecí stanice přilož čip na čtečku, a postupuj dle instrukcí na panelu. Vozidlo se nabíjí, když u zásuvky bliká zelená dioda a na přístrojové desce se ukáže symbol kabelu a zástrčky. Při ukončení nabíjení nejdříve na panelu dobíjecí stanice nabíjení ukonči, poté zmáčkni tlačítko pro odemknutí vozidla, na dveřích řidiče (tím uvolníš kabel), vyjmi kabel a nasaď zpět krytky na zásuvku vozidla.",
+                "id": "electric-car"
+              },
+              {
+                "question": "Co je minimální cena rezervace?",
+                "answer": "Minimální cena každé rezervace je stanovena na 99 Kč. Při rezervaci kratší, kde by cena výpůjčky nepřesáhla 99 Kč Ti bude zaúčtována cena 99 Kč. Při rezervaci delší se bude počítat klasicky dle platného ceníku.",
+                "id": "faq-minimal-price"
+              }
+            ]
+          }
         }
       }
     }
   },
   "en": {
+    "navigation": {
+      "entries": [
+        {
+          "label": "How does it work?",
+          "scroll": "#jak_to_funguje"
+        },
+        {
+          "label": "Pricing",
+          "scroll": "#cena"
+        },
+        {
+          "label": "Contact",
+          "scroll": "#contacts"
+        },
+        {
+          "label": "About",
+          "link": "about",
+          "subnavigation": [
+            {
+              "label": "History and Vision",
+              "link": "about"
+            },
+            {
+              "label": "Team",
+              "link": "team"
+            },
+            {
+              "label": "News",
+              "link": "news"
+            }
+          ]
+        }
+      ]
+    },
     "pages": {
       "index": {
         "sections": {
-          "faq": [
-            {
-              "question": "How does the service operate during the covid pandemic",
-              "answer": "<p><em>somehow</em></p>"
-            }
-          ]
+          "faq": {
+            "items": [
+              {
+                "question": "How does Uniqway functions in Covid-19 time?",
+                "answer": "You can still use Uniqway of course, the service functions without any changes. In other words, we only try to make changes for the better and improve Uniqway. After the closure of universities and our offices, we have successfully implemented a complete online registration and currently, for the duration of the emergency measures, you have the opportunity to try a new more favourable ANTI-COVID tariff. If you get a product from the Reward Shop, you can pick it up every working day at ŠKODA AUTO DigiLab s.r.o.<br/><br/>All our vehicles are disinfected and cleaned with ozone so that your ride with Uniqway is always comfortable and safe. You can also find disinfection for your needs in the vehicle compartment. Please do not forget to always wear a mask or respirator in the car.",
+                "id": "faq-covid19"
+              },
+              {
+                "question": "Is it possible to finish the registration online?",
+                "answer": "Of course, it is possible to go through the whole registration process online. After filling in the registration form, you will be redirected to the activation form where you upload photos of your documents and we will check them. If everything will be ok, we will activate your account.",
+                "id": "faq-verification"
+              },
+              {
+                "question": "What if I am a student from different school?",
+                "answer": "At this moment, Uniqway offers its service to all university students and employees.",
+                "id": "faq-different-school"
+              },
+              {
+                "question": "Where can I rent or return a car?",
+                "answer": "You can rent and return a car only in the assigned zones that are visible on the map in our mobile app or here on the <a class=\"helpline\" href=\"#mapa\">website</a>. When you see the Uniqway button lighting green, it means that you are in this area. When you want to return the car, it can't be in the place, where stopping and parking is restricted or forbidden.",
+                "id": "faq-zones"
+              },
+              {
+                "question": "The parking is signed as a zone and is behind the barrier. How can I get there?",
+                "answer": "In the passenger compartment are parking cards for all universities. Find the right one, load the card and you can park the car.",
+                "id": "faq-closed-zone"
+              },
+              {
+                "question": "Can someone go with me?",
+                "answer": "Of course, other people can go as fellow-passengers but only you can drive.",
+                "id": "faq-co-driver"
+              },
+              {
+                "question": "Where can I drive?",
+                "answer": "You can drive across the Czech Republic, EU states and Schengen countries. If you want to drive outside of the Czech Republic, you have to call our <a class=\"helpline\" href=\"#contacts\">infoline</a> or write us at <a class=\"helpline\" href=\"mailto:info@uniqway.cz\">info@uniqway.cz</a> 2 days before your trip to book a car with the foreign refuelling card UTA and to sign the handover certificate when picking up the car at Czech University of Life Sciences Prague. Follow all regulations related to the COVID-19 pandemic when using Uniqway.",
+                "id": "faq-where-can-i-drive"
+              },
+              {
+                "question": "How do I pay?",
+                "answer": "When you register your payment card, the bank will block 1 CZK on your account to verify your card. The bank will subsequently return the 1 CZK. You will receive an invoice after finishing your ride, where you can see how much your ride costs. This amount will be automatically deducted from your account. If there is anything wrong with the payment, you will receive an e-mail with the link to the payment gateway, where you can pay for your ride. ",
+                "id": "faq-payment"
+              },
+              {
+                "question": "What should I do if my car runs out of gas?",
+                "answer": "In each car is a CCS card placed, which can be used for paying at selected gas stations in the Czech Republic. PIN is available in the app in section Information about the vehicle. For refuelling in another EU countries and Schengen Area you have to use UTA card, which you will receive when you pick up the car from our ambassador, they will as well tell you the pin for the UTA card. When returning the car, the fuel tank has to be at least half full.",
+                "id": "faq-refueling"
+              },
+              {
+                "question": "How does it work with cleanliness observance of vehicle interior?",
+                "answer": "Our ambassador team looks after the cleanliness of vehicles, who checks regularly the condition. Leave a car in a condition, in which you would like to borrow it.",
+                "id": "faq-tidiness"
+              },
+              {
+                "question": "What should I do if the car won't be alright before my drive? (scraped, crashed, extremely dirty etc.)?",
+                "answer": "Please contact our <a class=\"helpline\" href=\"#contacts\">infoline</a>.",
+                "id": "faq-damage"
+              },
+              {
+                "question": "I parked the car in an underground parking and I am not able to lock or unlock the car. What should I do?",
+                "answer": "Unfortunately, the car is still controllable only over the app where is coverage of a GSM mobile signal. The easiest solution is to try repark for example in a higher floor with better signal coverage or in outdoor parking. If the car is closed, but could not be opened, it could have lost the signal after locking. In this case, please call our <a class=\"helpline\" href=\"#contacts\">infoline</a> and they will find a solution.",
+                "id": "faq-no-signal"
+              },
+              {
+                "question": "Is the car insured? How much will I pay for the damage I have caused?",
+                "answer": "Our cars are insured and the participation is 1% of the damage caused, at least 1000 CZK.",
+                "id": "faq-insurance"
+              },
+              {
+                "question": "What am I supposed to do in the case of accident?",
+                "answer": "Always call our <a class=\"helpline\" href=\"#contacts\">infoline</a>, that will help you in these cases.",
+                "id": "faq-accident"
+              },
+              {
+                "question": "What if I need to transport skis or luggage for the holidays in summer?",
+                "answer": "We will rent you roof box for the Fabia car for free. To get information about availability or renting, please contact us via Infoline or via e-mail <a class=\"helpline\" href=\"mailto:info@uniqway.cz\">info@uniqway.cz</a>. Please let us know at least 48 hours before your ride so we can prepare everything in time. We rent accessories only for rides planned for at least 2 days - 48 hours.",
+                "id": "faq-roof-box"
+              },
+              {
+                "question": "Where can I park?",
+                "answer": "During the reservation you can park at all blue and purple parking zones in Prague for free. When finishing the ride and reservation, you have to be in one of ours Uniqway zones. Don’t park in no parking zones, dedicated parking zones that are not specially dedicated to Uniqway, and others.",
+                "id": "faq-parking"
+              },
+              {
+                "question": "How to drive a fully electric car?",
+                "answer":
+                  "Except for a few little things, it's the same as a classic combustion car. At the start you will not hear the engine or its subsequent operation, you will only be alerted by an audible signal and the word \"READY\" on the dashboard display. Our electric CITIGOᵉ iV has only one gear. So you don't shift while driving and you only have two pedals - Brake and Accelerator. As with the automatic transmission, you have the following options gear lever: P - Parking, R - Reverse, N - Neutral, D - Drive, compared to a classic car, there is a B - Brake (maximum recuperation level). When B is selected, electrical energy is recovered from the wheels back to the battery and the vehicle itself decelerates and brakes significantly (the brake lights always come on). Driving in this mode pays off mostly in the city, where the use of brakes is reduced and the amount of energy returned to the battery due to recuperation is increased the most. Charging is possible at ČEZ and PRE stations. Charging chip is located in the black folder with car documents in the glove box.. When charging, first, unlock the charging connector in the car, using the car unlock button on the driver's door. Open the lid to the charging socket and remove the socket covers. Connect the appropriate cable from the charging station to the vehicle, or use the cable from the trunk of the vehicle. Place the chip on the reader on the charging station panel, and follow the instructions on the panel. The vehicle is charging when the green diode flashes next to the socket and cable and plug symbol appears on the dashboard. When the charging is complete, first stop charging on the charging station panel, then unlock the vehicle, using the car unlock button on the driver’s door (this will release the cable), remove the cable and place the covers on the vehicle charging socket.\n",
+                "id": "electric-car"
+              },
+              {
+                "question": "What is the minimum price of reservation?",
+                "answer": "The minimum price of each reservation is set at 99 CZK. Shorter reservation, where the price would not exceed 99 CZK, will be charged with the price of 99 CZK. Price for longer reservation will be calculated according to the valid price list.",
+                "id": "faq-minimal-price"
+              }
+            ]
+          }
         }
       }
     }
