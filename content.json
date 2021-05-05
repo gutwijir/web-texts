@@ -542,6 +542,14 @@
             ]
           }
         ]
+      },
+      "aboutUs": {
+        "timeline": {
+          "heading": "Náš příběh",
+          "entries": [
+            {}
+          ]
+        }
       }
     }
   },
@@ -1096,6 +1104,14 @@
             ]
           }
         ]
+      },
+      "aboutUs": {
+        "timeline": {
+          "heading": "Our Story",
+          "entries": [
+            {}
+          ]
+        }
       }
     }
   }
