@@ -165,7 +165,7 @@
         "entries": {
           ":items": {
             "date": {
-              ":type": "date"
+              ":type": "line"
             },
             "description": {
               ":type": "text"
