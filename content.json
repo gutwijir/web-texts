@@ -138,6 +138,17 @@
             "texts": [
               {}
             ]
+          },
+          "mobileApp": {
+            "texts": [
+              {}
+            ]
+          },
+          "pricing": {
+            "cars": [
+              {},
+              {}
+            ]
           }
         }
       },
@@ -619,6 +630,17 @@
             "description": "Via the mobile app you can easily find the car, rent it and find out the specific information.\", \"After finishing your ride, the app will enable you to return the car and pay for the ride.",
             "options": "With Uniqway app you are able to:",
             "texts": [
+              {}
+            ]
+          },
+          "mobileApp": {
+            "texts": [
+              {}
+            ]
+          },
+          "pricing": {
+            "cars": [
+              {},
               {}
             ]
           }
