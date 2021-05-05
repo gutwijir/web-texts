@@ -152,7 +152,10 @@
                 "shortTitle": "CITIGOᵉ iV",
                 "img": "citigo.png",
                 "minutePriceDriving": "3,49",
-                "minutePriceParking": "1,49"
+                "minutePriceParking": "1,49",
+                "freeMinutes": "80",
+                "perKilometer": "3,90",
+                "dayMax": "890"
               },
               {}
             ]
@@ -653,7 +656,10 @@
                 "shortTitle": "CITIGOᵉ iV",
                 "img": "citigo.png",
                 "minutePriceDriving": "3,49",
-                "minutePriceParking": "1,49"
+                "minutePriceParking": "1,49",
+                "freeMinutes": "80",
+                "perKilometer": "3,90",
+                "dayMax": "890"
               },
               {}
             ]
