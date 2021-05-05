@@ -32,6 +32,9 @@
       "sections": {
         ":name": "Sekce",
         "faq": {
+          "heading": {
+            ":type": "text"
+          },
           "items": {
             ":items": {
               "question": {
@@ -42,6 +45,34 @@
                 ":richtext": true
               },
               "id": {
+                ":type": "text"
+              }
+            }
+          }
+        },
+        "mobileapp": {
+          "heading": {
+            ":type": "text"
+          },
+          "description": {
+            ":type": "text"
+          },
+          "options": {
+            ":type": "text"
+          },
+          "screens": {
+            ":items": {
+              "path": {
+                ":type": "text"
+              },
+              "alt": {
+                ":type": "text"
+              }
+            }
+          },
+          "texts": {
+            ":items": {
+              "text": {
                 ":type": "text"
               }
             }
