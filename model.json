@@ -50,30 +50,68 @@
             }
           }
         },
-        "mobileapp": {
+        "mobileApp": {
           "heading": {
-            ":type": "text"
+            ":type": "line"
           },
           "description": {
             ":type": "text"
           },
           "options": {
-            ":type": "text"
+            ":type": "line"
           },
-          "screens": {
+          "screenImages": {
             ":items": {
               "path": {
-                ":type": "text"
+                ":type": "line"
               },
               "alt": {
-                ":type": "text"
+                ":type": "line"
               }
             }
           },
           "texts": {
             ":items": {
-              "text": {
-                ":type": "text"
+              ":items": {
+                "heading": {
+                  ":type": "text"
+                },
+                "paragraph": {
+                  ":type": "text"
+                }
+              }
+            }
+          }
+        },
+        "pricing": {
+          "cars": {
+            ":items": {
+              "id": {
+                ":type": "line"
+              },
+              "carTitle": {
+                ":type": "line"
+              },
+              "shortTitle": {
+                ":type": "line"
+              },
+              "img": {
+                ":type": "line"
+              },
+              "minutePriceDriving": {
+                ":type": "line"
+              },
+              "minutePriceParking": {
+                ":type": "line"
+              },
+              "freeMinutes": {
+                ":type": "line"
+              },
+              "perKilometer": {
+                ":type": "line"
+              },
+              "dayMax": {
+                ":type": "line"
               }
             }
           }
