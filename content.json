@@ -157,7 +157,28 @@
                 "perKilometer": "3,90",
                 "dayMax": "890"
               },
-              {}
+              {
+                "id": "1",
+                "carTitle": "ŠKODA FABIA",
+                "shortTitle": "FABIA",
+                "img": "fabia_profil.png",
+                "minutePriceDriving": "2,99",
+                "minutePriceParking": "1,49",
+                "freeMinutes": "80",
+                "perKilometer": "3,90",
+                "dayMax": "890"
+              },
+              {
+                "id": "2",
+                "carTitle": "ŠKODA SCALA",
+                "shortTitle": "SCALA",
+                "img": "scala_profil.png",
+                "minutePriceDriving": "3,99",
+                "minutePriceParking": "1,49",
+                "freeMinutes": "80",
+                "perKilometer": "4,90",
+                "dayMax": "1090"
+              }
             ]
           }
         }
@@ -661,7 +682,28 @@
                 "perKilometer": "3,90",
                 "dayMax": "890"
               },
-              {}
+              {
+                "id": "1",
+                "carTitle": "ŠKODA FABIA",
+                "shortTitle": "FABIA",
+                "img": "fabia_profil.png",
+                "minutePriceDriving": "2,99",
+                "minutePriceParking": "1,49",
+                "freeMinutes": "80",
+                "perKilometer": "3,90",
+                "dayMax": "890"
+              },
+              {
+                "id": "2",
+                "carTitle": "ŠKODA SCALA",
+                "shortTitle": "SCALA",
+                "img": "scala_profil.png",
+                "minutePriceDriving": "3,99",
+                "minutePriceParking": "1,49",
+                "freeMinutes": "80",
+                "perKilometer": "4,90",
+                "dayMax": "1090"
+              }
             ]
           }
         }
