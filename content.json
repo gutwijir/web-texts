@@ -141,7 +141,35 @@
           },
           "mobileApp": {
             "texts": [
-              {}
+              {
+                "heading": "Najít a rezervovat jedno z našich vozidel",
+                "paragraph": "Na mapě nalezneš dostupná vozidla a parkovací zóny, do kterých lze vozidla vracet. U každého auta je dostupný přesný popis jeho stavu."
+              },
+              {
+                "heading": "Zkontrolovat svou aktivitu v Uniqway",
+                "paragraph": "Historie jízd ti nabídne přehledných výpis všech tvých jízd."
+              },
+              {
+                "heading": "Mít přehled o naší službě a novinkách",
+                "paragraph": "Zavolej na naší hotline. Zjisti, co můžeš dělat v případě nehody. Přečti si novinky o Uniqway."
+              }
+            ],
+            "heading": "Mobilní aplikace",
+            "description": "Přes mobilní aplikaci auto snadno najdeš, půjčíš a zjistíš přesné informace o jeho stavu.",
+            "options": "V aplikaci Uniqway máš možnost:",
+            "screenImages": [
+              {
+                "path": "car1.png",
+                "alt": "Snímek obrazovky mobilní aplikace Uniqway zachycující mapu vozidel dostupných k zapůjčení."
+              },
+              {
+                "path": "car2.png",
+                "alt": "Snímek obrazovky mobilní aplikace Uniqway zachycující uživatelskou historii jízd v rámci služby (Data a časy počátku a ukončení jízd, použitá vozidla, konečné částky)."
+              },
+              {
+                "path": "car3.png",
+                "alt": "Snímek obrazovky mobilní aplikace Uniqway zachycující informace, které jsou v aplikaci dostupné (Krizové situace, asistenční linka, výbava vozidla, komunikační kanály, kontaktní místa, o aplikaci)."
+              }
             ]
           },
           "pricing": {
@@ -666,7 +694,35 @@
           },
           "mobileApp": {
             "texts": [
-              {}
+              {
+                "heading": "Find and book one of our cars",
+                "paragraph": "You will find the available cars and the parking zones on the map. Next to every car is a specific description of it's state."
+              },
+              {
+                "heading": "Check your activity within Uniqway",
+                "paragraph": "History of rides will give you a detailed list of your previous rides."
+              },
+              {
+                "heading": "Keep up with our service and the news",
+                "paragraph": "Call our hotline. Learn what to do in case of an accident. Read the news about Uniqway."
+              }
+            ],
+            "heading": "Mobile application",
+            "description": "Via the mobile app you can easily find the car, rent it and find out the specific information.\", \"After finishing your ride, the app will enable you to return the car and pay for the ride.",
+            "options": "With Uniqway app you are able to:",
+            "screenImages": [
+              {
+                "path": "car1.png",
+                "alt": "Screenshot of Uniqway mobile application containing map of vehicles available for rent."
+              },
+              {
+                "path": "car2.png",
+                "alt": "Screenshot of Uniqway mobile application containing personal history of rides within Uniqway. (Times of starts and ends of rides, used vehicles, final prices)."
+              },
+              {
+                "path": "car3.png",
+                "alt": "Screenshot of Uniqway mobile application containing information available in the appliaction. (Crisis situations, helpline, vehicle equipment, communication channels, contact places, about the application)."
+              }
             ]
           },
           "pricing": {
