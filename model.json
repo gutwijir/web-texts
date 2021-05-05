@@ -156,6 +156,23 @@
           }
         }
       }
+    },
+    "aboutUs": {
+      "timeline": {
+        "heading": {
+          ":type": "line"
+        },
+        "entries": {
+          ":items": {
+            "date": {
+              ":type": "date"
+            },
+            "description": {
+              ":type": "text"
+            }
+          }
+        }
+      }
     }
   }
 }
