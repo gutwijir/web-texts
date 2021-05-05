@@ -132,14 +132,6 @@
             ],
             "heading": "FAQ"
           },
-          "mobileapp": {
-            "heading": "Mobilní aplikace",
-            "description": "Přes mobilní aplikaci auto snadno najdeš, půjčíš a zjistíš přesné informace o jeho stavu. Po dokončení jízdy Ti aplikace umožní vozidlo vrátit a za jízdu zaplatit.",
-            "options": "V aplikaci Uniqway máš možnost:",
-            "texts": [
-              {}
-            ]
-          },
           "mobileApp": {
             "texts": [
               {
