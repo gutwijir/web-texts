@@ -132,6 +132,331 @@
             ]
           }
         }
+      },
+      "team": {
+        "universities":
+      [
+        {
+          "short": "ČVUT",
+          "title": "České vysoké učení technické",
+          "description": [
+            "ČVUT se zabývá mnoha tématy v oblasti techniky, ze kterých stále větší počet vede ke spolupráci mezi jednotlivými disciplínami. Jedním z nejvýznamnějších je doprava. Dochází k realizaci různých výzkumných a vývojových projektů, jelikož témata moderní mobility jsou v rámci univerzity řešena již více než deset let.",
+            "Projekt Uniqway tak ideálně zapadá do schématu jejich aktivit. Nabízí studentům praktické uplatnění znalostí získaných během studia, neboť veškerý hardware a software vyvíjejí právě sami studenti.",
+            "Systém vyvinutý na ČVUT umožňuje sbírat a analyzovat velké množství dat, neboť jedním z cílů u služby Uniqway je porozumění technickému pozadí řízení vozidel, zvláště u začínajících řidičů, ke kterým studenti univerzit bezpochyby patří."
+          ],
+          "divisions": [
+            {
+              "title": "Hardware",
+              "members": [
+                {
+                  "photo": "ČVUT_Tomlain.png",
+                  "name": "Ján Tomlain",
+                  "role": "Profík přes elektroniku",
+                  "description": "Na projektu Uniqway intenzivně pracuji od jeho samého počátku. V úvodních fázích jsem se věnoval technickým vizím systému a jeho možným směrováním. V poslední době intenzivně pracujeme v rámci HW skupiny technického týmu na modulech systému pro vozidla. Jsem hlavním návrhářem elektroniky a programového vybavení zařízení pro Uniqway."
+                },
+                {
+                  "photo": "ČVUT_Tereň.png",
+                  "name": "Ondrej Tereň",
+                  "role": "Vizionář vozidel",
+                  "description": "Na projektu Uniqway pracujeme od roku 2016. Mojí úlohou je kooperovat v rámci hardwarového týmu na vývoji, výrobě a montáži elektronických modulů pro vozidla umožňujících jim začlenění do systému Uniqway. Ve volném čase se věnuji cyklistice a motorovému létání."
+                }
+              ]
+            },
+            {
+              "title": "Software",
+              "members": [
+                {
+                  "photo": "ČVUT_Šidlovský.png",
+                  "name": "Marko Šidlovský",
+                  "role": "Koordinátor projektu",
+                  "description": "V projektu Uniqway jsem vyrůstal v technickém týmu, kde dodnes navrhuji a implementuji webovou správcovskou aplikaci. Aktuálně jsem na pozici studentského CEO, většinu času trávím koordinací spolupráce mezi všemi týmy. Uniqway mi dalo hodně, hlavně profesní zkušenosti, odborné znalosti a partu kamarádů."
+                },
+                {
+                  "photo": "ČVUT_Vachula.png",
+                  "name": "Richard Vachula",
+                  "role": "Správce backendu",
+                  "description": "Stál jsem u zrodu Uniqway a spolu s dalšími členy týmu jsme přetavili ideu do podoby funkčního systému. Vyvíjím zejména jeho backendovou část a současně zodpovídám za práci našeho technického týmu."
+                },
+                {
+                  "photo": "ČVUT_Ravas.png",
+                  "name": "Filip Ravas",
+                  "role": "Správce backendu",
+                  "description": "V prvních fázích projektu jsem zodpovídal za infrastrukturu a vývoj mobilní aplikace. Tu jsem přenechal novým členům a kromě infrastruktury se soustředím na backend naší služby."
+                },
+                {
+                  "photo": "ČVUT_Švec.png",
+                  "name": "Václav Švec",
+                  "role": "Vývojář backendu",
+                  "description": "K Uniqway týmu jsem se připojil na jaře v roce 2018. Pomáhám s vývojem backendu. Díky Uniqway jsem se naučil spoustu nových věcí, které často využívám i ve škole. V týmu jsem poznal partu skvělých lidí."
+                },
+                {
+                  "photo": "ČVUT_Černý.png",
+                  "name": "Michal Černý",
+                  "role": "Vývojář iOS aplikace",
+                  "description": "V Uniqway týmu jsem zodpovědný za vývoj iOS aplikace. Pro jablečná zařízení vyvíjím již delší dobu a jsem rád, že mohu své znalosti uplatnit právě v tomhle skvělém a unikátním projektu."
+                },
+                {
+                  "photo": "ČVUT_Jun.png",
+                  "name": "Jakub Jun",
+                  "role": "Vývojář webového frontendu",
+                  "description": "K Uniqway jsem se připojil na začátku roku 2019, jsem tedy naprostý nováček. Na starosti mám programování tváře webu Uniqway.cz. Mezi mé koníčky patří fitness a rekreační volejbal s přáteli."
+                },
+                {
+                  "photo": "ČVUT_Osvald.png",
+                  "name": "Rostislav Osvald",
+                  "role": "Vývojář Android aplikace",
+                  "description": "Součástí Uniqway jsem se stal na konci léta 2018. Jsem zapojen do vývoje Android aplikace, což mi nejen přináší osobní i profesní růst, ale také mě velmi baví. Uniqway je pro mě zajímavý projekt s ještě zajímavějšími lidmi."
+                },
+                {
+                  "photo": "ČVUT_Severa.png",
+                  "name": "Štěpán Severa",
+                  "role": "Vývojář backendu",
+                  "description": "K Uniqway jsem se připojil v létě 2018 a od té doby se podílím na vývoji Android aplikace. V současné době se převážně věnuji vývoji backendu a také tvorbě klientské webové aplikace. Ve volném čase se věnuji cyklistice a lukostřelbě."
+                },
+                {
+                  "photo": "ČVUT_Bondarev.png",
+                  "name": "Nikita Bondarev",
+                  "role": "Vývojář Backendu",
+                  "description": "V Uniqway se zabývám softwarovou, zejména backendovou, částí. Připojil jsem se k projektu ne tak dávno, hned po prvním ročníku vysoké školy, a doufám, že můj přínos pro něj bude stejně velký, jako je přínos projektu pro mě."
+                }
+              ]
+            },
+            {
+              "title": "Design",
+              "members": [
+                {
+                  "photo": "ČVUT_Hámek.png",
+                  "name": "Filip Hámek",
+                  "role": "Designér",
+                  "description": "V Uniqway pracuji jako designér. Náš tým připravil grafiku a vizuální identitu webových stránek a mobilní aplikace Uniqway. Navrhli jsme také reklamní předměty. Tvorba grafiky k novým a neokoukaným start-upům mě baví a Uniqway mi přesně toto umožňuje."
+                },
+                {
+                  "photo": "ČVUT_Ondroušek.png",
+                  "name": "David Ondroušek",
+                  "role": "Designér",
+                  "description": "Do projektu Uniqway jsem se zapojil rok po spuštění služby. A za tu dobu jsem poznal partu super lidí, naučil se hodně nových věcí a zjistil, jak to v praxi vlastně chodí. Jsem součástí týmu designérů, kde pracuji převážně na vzhledu mobilní aplikace a webových stránek. Také se podílím na grafice pro marketing."
+                }
+              ]
+            },
+            {
+              "title": "Alumni",
+              "members": [
+                {
+                  "photo": "ČVUT_Horáček.png",
+                  "name": "Marek Horáček",
+                  "role": "Designér",
+                  "description": "Uniqway vizuální identita prošla dlouhým vývojem, během kterého jsme vytvořili unikátní brand. Moje práce se promítala ve vytvořené značce až po UX/UI design. V myšlence carsharingu vidím velký potenciál a do budoucna bych chtěl dál rozvíjet dnešní novou etapu transportu."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "short": "ČZU",
+          "title": "Česká zemědělská univerzita",
+          "description": [
+            "ČZU k projektu významně přispěla návrhem fungování komunity, cílem které je propojovat studenty v rámci zapojených univerzit. V současnosti zpracovává ekonomickou a provozní stránku fungování služby.",
+            "Uniqway se stalo jednou z možných cest k řešení problému s kapacitami parkovacích míst, což se týče Prahy jako celku, ale také zejména ČZU samotné. Ta je svou polohou poměrně vzdálená centru a většina studentů preferuje dopravu do areálu vlastními automobily. Sdílení vozidel výrazně napomáhá ke snížení počtu aut v areálu univerzity.",
+            "Z pohledu ČZU je Uniqway projektem, který nabízí studentům unikátní možnost k nahlédnutí do oblasti fungování projektu a fungování vnitropodnikových procesů. Kromě toho přispívá ke změně smýšlení lidí o individuální dopravě a o její efektivnosti."
+          ],
+          "divisions": [
+            {
+              "title": "Provoz a Finance",
+              "members": [
+                {
+                  "photo": "ČZU_Brecklová.png",
+                  "name": "Veronika Brecklová",
+                  "role": "Ekonomická analytička",
+                  "description": "Do týmu Uniqway jsem se přidala s vidinou tvorby unikátní studentské služby, která sdílením aut přispívá ke zlepšení dopravy po Praze a také snižuje ekologickou zátěž. V projektu se zabývám finanční analýzou a ekonomickými modely, které jsou potřeba k fungování Uniqway. Ve svém volném čase ráda jezdím na kole a hraji na bicí."
+                },
+                {
+                  "photo": "ČZU_Kluger.png",
+                  "name": "Vít Kluger",
+                  "role": "Provoz a marketing",
+                  "description": "Do projektu jsem se nejdříve zapojil jako tester v prvotní fázi, kdy mě Uniqway nesmírně nadchlo a rozhodl jsem se, že bych se rád na vývoji podílel i nadále. Starám se o činnosti spojené s provozem a podílím se na marketingu za ČZU. Oddychem je pro mě čas strávený na golfovém hřišti, nebo v přírodě, zejména na horách."
+                }
+              ]
+            },
+            {
+              "title": "Ambassadoři",
+              "members": [
+                {
+                  "photo": "ČZU_Pilch.png",
+                  "name": "Ondřej Pilch",
+                  "role": "Koordinátor ambasadorů",
+                  "description": "Možnost spolupráce na Uniqway mě velice zaujala, protože se jedná o projekt, který má svou budoucnost a pracovat na něm je zábava. V našem carsharingu se podílím na pravidelných kontrolách aut. Zajišťuji, aby byla vždy připravena k jízdě. Zčásti dělám telefonickou podporu a registruji nové uživatele. Volný čas trávím hlavně s přáteli, rád hraji na kytaru a posiluji."
+                },
+                {
+                  "photo": "ČZU_Nezbedová.png",
+                  "name": "Klára Nezbedová",
+                  "role": "Technická ambasadorka",
+                  "description": "Automotive mě vždy zajímal. Když se naskytla příležitost stát se členem Uniqway týmu, tak jsem neváhala. Je skvělé, že můžu trávit volný čas v mladém kolektivu s ostatními studenty. Jako technická ambasadorka provádím kontroly aut, ale uvidíte mě také v kanceláři, kde pomáhám s registracemi. Ráda cestuji a sportuji."
+                },
+                {
+                  "photo": "ČZU_Krhoun.png",
+                  "name": "Lukáš Krhoun",
+                  "role": "Technický ambasador",
+                  "description": "Podílení se na tomto unikátním studentském projektu mi umožňuje získat spoustu nových znalostí spojených s automobily a provozem carsharingové služby. Kromě kontroly a údržby aut také pomáhám našim uživatelům prostřednictvím Infolinky. Ve volném čase si zahraju s kamarády fotbal, v zimě si rád zajezdím na prkně."
+                },
+                {
+                  "photo": "ČZU_Tůma.png",
+                  "name": "Vlastislav Tůma",
+                  "role": "Technický ambasador",
+                  "description": "Jelikož mne baví moderní trendy a mezi ně patří i sdílená ekonomika, viděl jsem v Uniqway příležitost se na ní podílet, a proto jsem se přidal k týmu. Starám se o flotilu aut a jsem k dispozici uživatelům na Infolince. Je pro mě důležité, aby byli spokojeni při každé jízdě. Rád cestuji a ve volném čase si zahraji fotbal."
+                },
+                {
+                  "photo": "ČZU_Vondráček.png",
+                  "name": "Martin Vondráček",
+                  "role": "Technický ambasador",
+                  "description": "V Uniqway patřím do týmu ambasadorů, který má na starost týdenní péči o naši flotilu. Dbáme na to, aby byla auta vždy připravená a dotankovaná pro cesty našich uživatelů. Podílím se také na podpoře Infolinky. Ve volném čase je ze mě hudebník, rekreační fotbalista na pražské Hanspaulské lize a občas si zahraji i squash."
+                },
+                {
+                  "photo": "ČZU_Babinský.png",
+                  "name": "Lukáš Babinský",
+                  "role": "Technický ambasador",
+                  "description": "Práce v Uniqway mě zaujala svou unikátností a hlavně tím, že se dokážeme domluvit a spolupracovat mezi univerzitami. Starám se primárně o naši flotilu, aby si uživatel vždy půjčil připravené auto na jakoukoli cestu. Přispívám také na podpoře Infolinky, která řeší veškeré uživatelské trable až po nehody a malé ťukance. Ve volném čase rád čtu, baví mě IT a cestování."
+                },
+                {
+                  "photo": "ČZU_Janoušek.png",
+                  "name": "Pavel Janoušek",
+                  "role": "Technický ambasador",
+                  "description": "Vždy jsem rád sedl do auta a s rádiem na plné pecky vyrazil kamkoliv mě jen napadlo. V Praze jsem zjistil že mít vlastní auto je spíše zbytečný výdaj, a tak můj oprýskaný koráb šel do světa. Na projektu Uniqway mám rád ten pocit, že mohu být kdekoliv a kdykoliv bez toho, abych musel řešit starosti, které se s vlastnictvím auta pojí."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "short": "VŠE",
+          "title": "Vysoká škola ekonomická",
+          "description": [
+            "Vysoká škola ekonomická v Praze klade ve své vzdělávací i výzkumné činnosti důraz na sledování a implementaci nových trendů v řízení ekonomických aktivit. Sdílená ekonomika je jedním z nich.",
+            "Studentský tým VŠE v rámci projektu pracuje především na manažerských, ekonomických a marketingových stránkách projektu. Provádí výzkumy směřující k  úspěšnému fungování služby na trhu, buduje značku a zajišťuje její propagaci mezi studenty všech tří partnerských univerzit. VŠE se snaží svým studentům nabídnout praxi ke studiu, která jim přinese zkušenosti.",
+            "Díky Uniqway mají studenti možnost podílet se na reálném projektu a získat tím praktické zkušenosti v rozvoji start-upu. Učí se nacházet inovativní řešení, pracovat a komunikovat v  týmech."
+          ],
+          "divisions": [
+            {
+              "title": "Marketing & PR",
+              "members": [
+                {
+                  "photo": "VŠE_Svárovská.png",
+                  "name": "Dominika Svárovská",
+                  "role": "Markeťačka",
+                  "description": "Rok po svém zapojení jsem dostala v Uniqway na starost koordinaci marketingu a PR celého projektu. Nejvíce mě naplňuje, že jsem součástí skvělého studentského projektu a unique týmu. Díky Uniqway jsem získala cenné profesní zkušenosti nejen v marketingu, ale i v jiných oblastech projektu."
+                },
+                {
+                  "photo": "VŠE_Sucháček.png",
+                  "name": "Radek Sucháček",
+                  "role": "Auťák",
+                  "description": "V Uniqway patřím do marketingového týmu a také pomáhám s péčí o naši flotilu. Je to pro mě skvělá kombinace kreativní práce a provozního zapojení. Na projektu mě nejvíce baví nespočet možností a celkové zapojení do služby. Čas mimo Uniqway trávím v práci, s přáteli a také odpočinkem, bez kterého by se to nedalo zvládat."
+                },
+                {
+                  "photo": "VŠE_Stuchlíková.png",
+                  "name": "Marie Stuchlíková",
+                  "role": "Online markeťačka",
+                  "description": "Pracovat na Uniqway je pro mě zkrátka radost. Máme tým skvělých lidí, se kterými je všechna práce vlastně zábava. Z marketingu mám na starosti zejména sponzorování příspěvků, správu Google Ads kampaní a také LinkedInu, ale ráda se podílím i na dalších aktivitách. Když mám volno, vždy nazuju běžecké tenisky a jdu si pár kilometry vyčistit hlavu."
+                },
+                {
+                  "photo": "VŠE_Trinhová.png",
+                  "name": "Kieu Anh Trinhová",
+                  "role": "Holka z mailu",
+                  "description": "Do Uniqway týmu jsem se přihlásila, abych nasbírala cenné zkušenosti, což naplnilo mé očekávání. Díky skvělému VŠE týmu můžu načerpat mnoho inspirace a zároveň přispívat svými nápady. Mým primárním úkolem bylo připravit a následně rozeslat emaily našim uživatelům. Nyní mám na starost správu Uniqway Instagramu.  Ve volném čase ráda kafíčkuji s přáteli anebo relaxuji v posteli u seriálů."
+                },
+                {
+                  "photo": "VŠE_Kalmár.png",
+                  "name": "Jakub Kalmár",
+                  "role": "Kluk přes online a data",
+                  "description": "Do projektu Uniqway jsem se zapojil začátkem roku 2018, kdy sa celý projekt právě připravoval na oficiální spuštění služby. Jsem členem marketingového týmu, ve kterém mám na starosti jak online marketing, převážně sponzorované příspěvky na sociálních médiích a PPC reklamy, tak i účast na různých eventech a analýzu dat. Dále také pomáhám s kontrolou a údržbou našeho vozového parku. Ve volném čase rád cestuji, hraji badminton, jezdím na kole, chodím na turistiku a trávím čas s kamarády."
+                }
+              ]
+            },
+            {
+              "title": "Design",
+              "members": [
+                {
+                  "photo": "VŠE_Moreová.png",
+                  "name": "Barbara Moreová",
+                  "role": "Designérka",
+                  "description": "V projektu Uniqway je mým úkolem připravovat grafiku pro různé reklamní a marketingové projekty. Uniqway není jen skvělá služba, ale hlavně skvělý tým mladých lidí a příležitost se hodně naučit a posouvat své schopnosti. Když se právě nevěnuji grafice, tak ráda plavu, cvičím nebo doháním spánkový deficit."
+                }
+              ]
+            },
+            {
+              "title": "HR & Eventy",
+              "members": [
+                {
+                  "photo": "ČVUT_Motejlová.png",
+                  "name": "Kateřina Motejlová",
+                  "role": "Evenťačka",
+                  "description": "Za možnost připojit se do skvělého marketingového týmu VŠE a tohoto výjimečného projektu jsem opravdu vděčná! Mám na starost zejména organizaci unique akcí, týmové HR a “vidíme” se spolu také každý měsíc prostřednictvím newsletteru. Volné chvíle vyplňuji knihami, přáteli a sportem."
+                }
+              ]
+            },
+            {
+              "title": "Alumni",
+              "members": [
+                {
+                  "photo": "VŠE_Stránská.png",
+                  "name": "Míša Stránská",
+                  "role": "",
+                  "description": "Díky Uniqway jsem se opravdu rozjela. Jsem hrdá na to, že jsem byla členem naprosto unique týmu, který mě toho tolik naučil. Nejen po znalostní stránce, ale hlavně po té lidské. Získané zkušenosti využívám jako projekťák neustále a ačkoliv jsem tým již opustila, neztratila jsem přátele. A to je pro mě nejvíc!"
+                },
+                {
+                  "photo": "VŠE_Dvořák.png",
+                  "name": "Jan Dvořák",
+                  "role": "",
+                  "description": "Uniqway mi přineslo spoustu zkušeností, zážitků a nových přátel. Také ale několik šedivých vlasů a pár bezesných nocí. :-) Uniqway držím moc palce, jezděte dál! #najednegume."
+                }
+              ]
+            }
+
+          ]
+        },
+        {
+          "short": "Mentoři",
+          "title": "Mentoři a ŠKODA AUTO DigiLab",
+          "description": [
+            "Pro správnou interpretaci a převedení teoretických znalostí do praxe tak, aby služba správně fungovala, každou instituci a tým participující na Uniqway zastupují mentoři. Jsou to pánové  prof. Ing. Luboš Smutka, Ph.D., Ing. Václav Jirovský, Ph.D., Ing. Petr Král, Ph.D. a Jakub Gottwald. Společně diskutují na témata společných cílů služby, aktuálního vývoje, a také jsou oporou svým týmům.",
+            "ŠKODA AUTO DigiLab je inovační laboratoř ŠKODA AUTO, která se zaměřuje na vývoj služeb mobility, konektivity a digitalizace. Má za cíl všem poskytnout digitální, propojené, bezpečnější, ekologičtější a chytřejší vozy, produkty a služby z oblasti mobility. Své projekty realizuje v Praze, Tel Avivu a v Pekingu.  Ve více než 40 projektech se zabývá mimo jiné tématy jako je sdílená ekonomika, služby mobility, digitalizace, konektivita a elektromobilita. Rozsah je velký: sahá od vývoje nových myšlenek a konceptů na optimalizace dopravních toků až po řešení mikromobility pro města."
+            ],
+          "divisions": [
+            {
+              "title": "Mentoři",
+              "members": [
+                {
+                  "photo": "vaclav_jirovsky.png",
+                  "name": "Václav Jirovský",
+                  "role": "Mentor ČVUT",
+                  "description": "Oporou technického týmu je Ing. Václav Jirovský, Ph.D., působící na ČVUT v Praze. Toto zázemí přineslo Uniqway spoustu poznatků ve vnímání bezpečnosti dopravního provozu a také myšlenky pro vzdělávání našich uživatelů v oblasti dopravní bezpečnosti. Díky panu Jirovskému se část Uniqway týmu a také uživatelé, kteří vyhráli v soutěži na sociálních sítích, zúčastnili například kurzu první pomoci. Václav Jirovský je oporou svým svěřencům z ČVUT a několik z nich provázel cestou k vysokoškolskému titulu."
+                },
+                {
+                  "photo": "lubos_smutka.png",
+                  "name": "Luboš Smutka",
+                  "role": "Mentor ČZU",
+                  "description": "Tým ČZU se zodpovídá prof. Ing. Luboši Smutkovi, Ph.D., který, jako ostatní mentoři, stojí při svém týmu od počátku projektu a prvotní vyřčené myšlence studentského carsharingu. Pod jeho vedením tým zpracovával první business case, položili základy k budování komunity a nyní mají na starosti reporting, datové analýzy z uživatelských jízd. Také na své svěřence dohlíží s pravidelným obstaráváním služby ve formě kontrol vozidel, správy Infolinky a registrací uživatelů."
+                },
+                {
+                  "photo": "petr_kral.png",
+                  "name": "Petr Král",
+                  "role": "Mentor VŠE",
+                  "description": "VŠE tým, který má na starosti primárně marketing a PR projektu, je veden Ing. Petrem Králem, Ph.D., vedoucím katedry Mezinárodního obchodu a odborníkem na Marketing. Pod jeho vedením vznikla první marketingová strategie celého projektu, důležitá hesla, jako “od studentů pro studenty”, a další. Položili pilíře identity celé značky Uniqway a neustále pracují na jejím zdokonalování a pronikání do povědomí studentů a zaměstnanců nyní již všech vysokých škol."
+                }
+              ]
+            },
+            {
+              "title": "ŠKODA AUTO DigiLab",
+              "members": [
+                {
+                  "photo": "jakub_gottwald.png",
+                  "name": "Jakub Gottwald",
+                  "role": "ŠKODA AUTO DigiLab",
+                  "description": "Vedoucím projektu a zároveň mentorem za stranu hlavního partnera a provozovatele služby je Jakub Gottwald. Je zodpovědný za koordinaci projektu a jeho uvedení do života pod záštitou ŠKODA AUTO DigiLab už od roku 2017. Dohlíží na to, aby byl zajištěn provoz a rozvoj služby a fungovala spolupráce se všemi partnery a dodavateli v projektu. Jakub a tým kolegů ze ŠKODA AUTO DigiLab také předává své cenné zkušenosti z různých oborů se členy studentských týmů a pomáhá jim tak s provozem a rozvojem služby."
+                }
+              ]
+            }
+          ]
+        }
+      ]
       }
     }
   },
@@ -269,6 +594,331 @@
             ]
           }
         }
+      },
+      "team": {
+        "universities":
+        [
+          {
+            "short": "CTU",
+            "title": "Czech Technical University",
+            "description": [
+              "CTU is engaged in many fields of technology. One of the most important is transportation. CTU implements many research and development projects because the theme of modern mobility has been examined at the university for more than ten years.",
+              "The project Uniqway meets the activity scheme ideally. It offers students practical use of their knowledge gained during their studies, as students develop all hardware and software.",
+              "The developed system at CTU enables collecting and analyzation of significant amount of data because one of the goals of Uniqway is understanding the technical background of managing the vehicles, particularly by the driving beginners, to which the university students undoubtedly belongs."
+            ],
+            "divisions": [
+              {
+                "title": "Hardware",
+                "members": [
+                  {
+                    "photo": "ČVUT_Tomlain.png",
+                    "name": "Ján Tomlain",
+                    "role": "Electronics master",
+                    "description": "I have been working on the project Uniqway from the very beginning. In the preliminary phases, I dedicated technical visions of the system and its future routing. Recently, we work intensively within the HW group of tech team on the system modules for vehicles. I am the principal designer of electronics and programmatic equipment for Uniqway."
+                  },
+                  {
+                    "photo": "ČVUT_Tereň.png",
+                    "name": "Ondrej Tereň",
+                    "role": "Vehicle visionary",
+                    "description": "I have been working on the project Uniqway since 2016. My task is the cooperation within the hardware team on development, production and assembly of electronics modules for vehicles so that they can integrate into the system of Uniqway. In my free time, I enjoy cycling and motor flying."
+                  }
+                ]
+              },
+              {
+                "title": "Software",
+                "members": [
+                  {
+                    "photo": "ČVUT_Šidlovský.png",
+                    "name": "Marko Šidlovský",
+                    "role": "Project coordinator",
+                    "description": "In the project Uniqway, I have grown up in the technical team, within I still design and implement the web admin app. Now I work as the student CEO, and I spend most of my time by coordinating all team members and cooperating within all teams."
+                  },
+                  {
+                    "photo": "ČVUT_Vachula.png",
+                    "name": "Richard Vachula",
+                    "role": "Backend administrator",
+                    "description": "I am in Uniqway since her birth. Together with other team members we have transformed the idea into a functional system. I develop mostly the backend part and coordinate our technical team."
+                  },
+                  {
+                    "photo": "ČVUT_Ravas.png",
+                    "name": "Filip Ravas",
+                    "role": "Backend administrator",
+                    "description": "In the first stages of the project, I was responsible for the infrastructure and the development of a mobile app. I have yielded the app to the new members. Now I concentrate on the infrastructure and backend of our service."
+                  },
+                  {
+                    "photo": "ČVUT_Švec.png",
+                    "name": "Václav Švec",
+                    "role": "Backend developer",
+                    "description": "I have joined Uniqway team in the spring of 2018. I help with the development of backend. I have learned a lot of new things, which I often use at school. I met great people thanks to Uniqway."
+                  },
+                  {
+                    "photo": "ČVUT_Černý.png",
+                    "name": "Michal Černý",
+                    "role": "iOS developer",
+                    "description": "In the Uniqway team, I am responsible for the development of the iOS app. I have been developin for the Apple devices for a while and I am glad that I can use my knowledge in this great and unique project."
+                  },
+                  {
+                    "photo": "ČVUT_Jun.png",
+                    "name": "Jakub Jun",
+                    "role": "Web frontend developer",
+                    "description": "I have joined Uniqway at the beginning of 2019, so I am still quite new. I am in charge of programming the face of web Uniqway.cz. My hobbies are fitness and volleyball with my friends."
+                  },
+                  {
+                    "photo": "ČVUT_Osvald.png",
+                    "name": "Rostislav Osvald",
+                    "role": "Android developer",
+                    "description": "I am a member of Uniqway team since summer 2018. I am involved in the development of the Android app, which brings me personal and career growth, but most importantly, I enjoy it a lot. I find Uniqway as an exciting project with great people."
+                  },
+                  {
+                    "photo": "ČVUT_Severa.png",
+                    "name": "Štěpán Severa",
+                    "role": "Backend developer",
+                    "description": "I joined Uniqway in the summer 2018 and since then I am involved in the Android app development. Presently, I mostly engage on developing backend and in the creation of client web app. In my free time, I ride a bike and practice archery."
+                  },
+                  {
+                    "photo": "ČVUT_Bondarev.png",
+                    "name": "Nikita Bondarev",
+                    "role": "Backend developer",
+                    "description": "In Uniqway I work on it’s software, exactly backend, part. I’ve joined the project not so long ago and right after the first year of university. I hope, I will be of benefit for it as much, as it is for me."
+                  }
+                ]
+              },
+              {
+                "title": "Design",
+                "members": [
+                  {
+                    "photo": "ČVUT_Hámek.png",
+                    "name": "Filip Hámek",
+                    "role": "Designer",
+                    "description": "In Uniqway, I work as a designer. Our team has prepared the graphic and visual identity of the websites and mobile app Uniqway. We have designed merchandising products. I enjoy doing the graphics for new startups and Uniqway enables that."
+                  },
+                  {
+                    "photo": "ČVUT_Ondroušek.png",
+                    "name": "David Ondroušek",
+                    "role": "Designer",
+                    "description": "I joined Uniqway one year after the launch. I have met group of amazing people, learnt many new things and found how things work in a real life since that time. I am a part of design team where I mostly work on mobile app design and website design. I also participate in graphics for marketing projects."
+                  }
+                ]
+              },
+              {
+                "title": "Alumni",
+                "members": [
+                  {
+                    "photo": "ČVUT_Horáček.png",
+                    "name": "Marek Horáček",
+                    "role": "Designer",
+                    "description": "Uniqway visual identity has gone through a long development, during which we have created a unique brand. My work consisted of the established brand together with UX/UI design. I see significant potential in carsharing. In the future, I would like to develop a contemporary new phase of transport."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "short": "CULS",
+            "title": "Czech University of Life Sciences",
+            "description": [
+              "CULS has contributed to the project by the draft of community functioning, which aim is to interconnect the students from the partner universities. Students from CULS are now working on the economic and operational side of the service.",
+              "Uniqway became one of the possible ways how to solve the problem with the capacity of the parking spots in Prague and CULS, which is by its location far from the city center and most of the students prefer to travel to school by their own cars. The sharing of vehicles helps to reducing the number of cars at the university campus.",
+              "From the CULS's point of view, Uniqway is a project, which offers students the unique opportunity to see how the project works and to help them understand the interior enterprise processes. Moreover, it encourages people to think about the individual transport and its effectivity."
+            ],
+            "divisions": [
+              {
+                "title": "Operation and Finance",
+                "members": [
+                  {
+                    "photo": "ČZU_Brecklová.png",
+                    "name": "Veronika Brecklová",
+                    "role": "Economical analyst",
+                    "description": "I joined Uniqway because I believed in the creation of unique student service, that will improve the traffic in Prague by sharing cars and will also decrease the ecological load. In the project, I am responsible for the financial analysis and economic models, which are necessary for the function of Uniqway. In my free time, I ride a bike and play drums."
+                  },
+                  {
+                    "photo": "ČZU_Kluger.png",
+                    "name": "Vít Kluger",
+                    "role": "Operation and marketing",
+                    "description": "I joined this project as a tester in the beginning phase, Uniqway amused me and I decided that I am interested in a long term cooperation. I take care of the operational activities and I am engaged in Marketing at CULS. I rest by playing golf or spending my time in nature, mountains."
+                  }
+                ]
+              },
+              {
+                "title": "Ambassadors",
+                "members": [
+                  {
+                    "photo": "ČZU_Pilch.png",
+                    "name": "Ondřej Pilch",
+                    "role": "Coordinator of the ambassadors",
+                    "description": "The opportunity to cooperate with Uniqway interested me because it is a project that has a future and working on it includes even fun. In our carsharing, I am engaged in regular weekly car checks. I prepare them for a ride. I am involved in the phone support and registration of new users. I spend my free time with my friends. I play guitar and workout."
+                  },
+                  {
+                    "photo": "ČZU_Tůma.png",
+                    "name": "Vlastislav Tůma",
+                    "role": "Technical ambassador",
+                    "description": "I like modern trends in which the sharing economy belongs, thanks to Uniqway I am part of it. I take care of our car fleet and I am available for our users at the Infoline. Their satisfaction is important  for me. I like traveling and playing football."
+                  },
+                  {
+                    "photo": "ČZU_Nezbedová.png",
+                    "name": "Klára Nezbedová",
+                    "role": "Technical ambassador",
+                    "description": "I have always been interested in the automotive industry. When the opportunity to join Uniqway team has arisen, I didn't hesitate. It is fantastic that I can spend my time in a young team with other students. As the technical ambassador I carry out the car checks, you can see me in our office where I register new users. I enjoy traveling and doing sports."
+                  },
+                  {
+                    "photo": "ČZU_Krhoun.png",
+                    "name": "Lukáš Krhoun",
+                    "role": "Technical ambassador",
+                    "description": "The participation at this unique student project enables me to gain new knowledge connected with automotive and the carsharing service operation. Besides the car care and checks, I help our users via the Infoline. In my free time, I play football with my friends and during the winter I go snowboarding."
+                  },
+                  {
+                    "photo": "ČZU_Vondráček.png",
+                    "name": "Martin Vondráček",
+                    "role": "Technical ambassador",
+                    "description": "In Uniqway, I am a member of the ambassador team, which takes weekly care of our fleet. We look after the condition of cars and make them ready for the rides of our users. I also participate in the Infoline support. In my free time I am a musician, I play football and squash."
+                  },
+                  {
+                    "photo": "ČZU_Babinský.png",
+                    "name": "Lukáš Babinský",
+                    "role": "Technical ambassador",
+                    "description": "The Uniqway project is exciting, unique and I admire how we can agree and cooperate among the universities. I take care of our fleet, so the user has Uniqway car in a perfect condition. I am available for our users on the Infoline, which solves all the users' issues like small accidents or car damages. I enjoy reading, IT and traveling."
+                  },
+                  {
+                    "photo": "ČZU_Janoušek.png",
+                    "name": "Pavel Janoušek",
+                    "role": "Technical ambassador",
+                    "description": "I have always enjoyed driving, listening to music and exploring. I have found out that in Prague owning a car is an unnecessary cost, so my old car went into the world. I like the idea of carsharing Uniqway so I can be anywhere and anytime without worries."
+                  }
+                ]
+              }
+
+            ]
+          },
+          {
+            "short": "VŠE",
+            "title": "University of Economics",
+            "description": [
+              "As a part of its educational and research activities, The University of Economics, Prague emphasizes the observation and implementation of new trends in economic acitivities management. Sharing economy is one of them.",
+              "The student team of VŠE within the project Uniqway operates in manager, financial and marketing fields. The students perform various researches which lead to successful functioning of the service on the market. They build the brand and ensure its promotion among the students of the universities in the Czech republic. VŠE tries to offer not only studies but also praxis, that allows students to gain practical experience.",
+              "Thanks to Uniqway,  students have the opportunity to participate in a real project and acquire skills they need to have to build a start-up."
+            ],
+            "divisions": [
+              {
+                "title": "Marketing & PR",
+                "members": [
+                  {
+                    "photo": "VŠE_Svárovská.png",
+                    "name": "Dominika Svárovská",
+                    "role": "Marketing specialist",
+                    "description": "After a year in Uniqway, I am on the position as a team leader of the Marketing & PR team. Being a part of an exceptional student project with a unique team, is what I enjoy the most. Thanks to Uniqway, I gain valuable professional experience not only in Marketing but also in other fields of our project."
+                  },
+                  {
+                    "photo": "VŠE_Sucháček.png",
+                    "name": "Radek Sucháček",
+                    "role": "The car guy",
+                    "description": "I am a part of the marketing team in Uniqway and I help with the care of our fleet as well. For me it is an excellent combination of creative and operation work. I admire the number of opportunities in this project. Besides Uniqway, I work, spend time with friends and relax."
+                  },
+                  {
+                    "photo": "VŠE_Stuchlíková.png",
+                    "name": "Marie Stuchlíková",
+                    "role": "Online marketing specialist",
+                    "description": "Working on Uniqway is a joy for me. We have a team of great people, with whom the work is actually a fun. I am responsible for post sponzoring, Google Ads campaigns and LinkedIn, but I love to help with the other stuff. When I am free, I put on the running shoes and clear my head."
+                  },
+                  {
+                    "photo": "VŠE_Trinhová.png",
+                    "name": "Kieu Anh Trinhová",
+                    "role": "The e-mail girl",
+                    "description": "I joined Uniqway to gain valuable experience, which has really happened. The great VŠE team inspires me and I can contribute also with my ideas. My primary task is to prepare and send e-mails to our users. Now I am in charge of Uniqway Instagram. I love to have a coffee with my friends or relax with serials in my bed."
+                  },
+                  {
+                    "photo": "VŠE_Kalmár.png",
+                    "name": "Jakub Kalmár",
+                    "role": "The online & data guy",
+                    "description": "I joined Uniqway project at the beginning of 2018, when the whole project was just being prepared for the official launch of the service. Being a member of a marketing team, I am responsible for both, online marketing, mostly sponsored online marketing posts and CPC advertising, as well as, participation on the various events. Data analysis and maintenance of our fleet are my other subtasks. In case of free time I like travelling, playing badminton, cycling, hiking and chilling with my friends."
+                  }
+                ]
+              },
+              {
+                "title": "Design",
+                "members": [
+                  {
+                    "photo": "VŠE_Moreová.png",
+                    "name": "Barbara Moreová",
+                    "role": "Designer",
+                    "description": "As a member of Uniqway, my job is to prepare graphics for various advertising and marketing projects. Uniqway is not only a great service, but also a great team of young people and an opportunity to learn a lot and improve my skills. When I am not working on graphics, I like to go swimming, to gym or I am repaying my sleep debt."
+                  }
+                ]
+              },
+              {
+                "title": "HR & Events",
+                "members": [
+                  {
+                    "photo": "ČVUT_Motejlová.png",
+                    "name": "Kateřina Motejlová",
+                    "role": "Eventer",
+                    "description": "I am so grateful for the opportunity to join the excellent marketing team VŠE and this fantastic project. I am responsible for  event organization, team HR and you can see me hidden in the newsletter. In my free time I read, I am with friends or do some sport activities."
+                  }
+                ]
+              },
+              {
+                "title": "Alumni",
+                "members": [
+                  {
+                    "photo": "VŠE_Stránská.png",
+                    "name": "Míša Stránská",
+                    "role": "",
+                    "description": "Thanks to Uniqway, I really  moved off. I am proud that I was a member of the unique team, that learned me a lot. Not only the knowledge but also social skills. I still use the gained experience as the project manager. Even though I left the team, I didn't lose my friends. And it means a lot!"
+                  },
+                  {
+                    "photo": "VŠE_Dvořák.png",
+                    "name": "Jan Dvořák",
+                    "role": "",
+                    "description": "Uniqway gave me lots of skills, experience and new friends. However, it also gave me few grey hairs and dreamless nights. I keep my fingers crossed for Uniqway, move off! #ononetyre."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "short": "Mentors",
+            "title": "Mentors and ŠKODA AUTO DigiLab",
+            "description": [
+              "To properly interpret and put theoretical knowledge into practice so the service works properly, each institution and team participating in Uniqway’s development is represented by a mentor. Those are prof. Ing. Luboš Smutka, Ph.D., Ing. Václav Jirovský, Ph.D. Petr Král, Ph.D. and Jakub Gottwald. They discuss the topics of common service goals, current developments and also they support their teams.",
+              "ŠKODA AUTO DigiLab is the innovative laboratory of ŠKODA AUTO, which focuses on the development of mobility, connectivity and digitization services. It aims to provide everyone with digital, connected, safer, greener and smarter mobility products and services. Its projects are being realised in Prague, Tel Aviv and Beijing. DigiLab deals with topics such as shared economy, mobility services, digitization, connectivity and electromobility in more than 40 projects. The range is large: from developing new ideas and concepts for optimizing traffic flows to addressing micro-mobility for cities."
+            ],
+            "divisions": [
+              {
+                "title": "Mentors",
+                "members": [
+                  {
+                    "photo": "vaclav_jirovsky.png",
+                    "name": "Václav Jirovský",
+                    "role": "Mentor CTU",
+                    "description": "The technical team is supported by Ing. Václav Jirovský, Ph.D., working at CTU in Prague. He brought to Uniqway a lot of knowledge in the perception of traffic safety and also ideas for education of our users in this field. Thanks to Mr. Jirovský, part of the Uniqway team as well as the users who won the competition on social media, for example, attended a First Aid course. Václav Jirovský is a support for his CTU team and he has accompanied several of them on their way to a university degree."
+                  },
+                  {
+                    "photo": "lubos_smutka.png",
+                    "name": "Luboš Smutka",
+                    "role": "Mentor CULS",
+                    "description": "The CULS team reports to prof. Ing. Luboš Smutka, Ph.D., who, like other mentors, stands among his team since the initial ideas of our carsharing for students. Under his leadership, the CULS team put together the first business case, laid the foundations for building a community, and is now in charge of reporting, data analysis of the user rides. He also supervises the team with regular weekly car checks, Infoline management and user registration."
+                  },
+                  {
+                    "photo": "petr_kral.png",
+                    "name": "Petr Král",
+                    "role": "Mentor VŠE",
+                    "description": "VŠE team, which is primarily in charge of marketing and PR of the project, is led by Ing. Petr Král, Ph.D., head of the International Trade department and a specialist of Marketing. Under his leadership, the first marketing strategy was laid for the entire project, important slogans such as “from students to students”, and more were created. Together with the students, he has laid the pillars of brand identity for the entire Uniqway brand and are constantly working to improve and raise awareness among students and employees of all universities in the Czech Republic."
+                  }
+                ]
+              },
+              {
+                "title": "ŠKODA AUTO DigiLab",
+                "members": [
+                  {
+                    "photo": "jakub_gottwald.png",
+                    "name": "Jakub Gottwald",
+                    "role": "ŠKODA AUTO DigiLab",
+                    "description": "The project manager and mentor for the main partner and service provider is Jakub Gottwald. He is responsible for coordinating the project and bringing it to life under the auspices of ŠKODA AUTO DigiLab since 2017. He oversees that the operation and development of the service is ensured and that all partners and suppliers work together in the project. Jakub and the team of colleagues at ŠKODA AUTO DigiLab also share their valuable experience in various fields with the members of the student teams, helping them to operate and develop the service."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     }
   }

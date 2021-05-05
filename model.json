@@ -48,6 +48,47 @@
           }
         }
       }
+    },
+    "team": {
+      "universities": {
+        ":items": {
+          "short": {
+            ":type": "line"
+          },
+          "title": {
+            ":type": "line"
+          },
+          "description": {
+            ":type": "text"
+          },
+          "divisions": {
+            ":items": {
+              "title": {
+                ":type": "line"
+              },
+              "members": {
+                ":items": {
+                  "photo": {
+                    ":type": "line"
+                  },
+                  "name": {
+                    ":type": "line"
+                  },
+                  "role": {
+                    ":type": "line"
+                  },
+                  "description": {
+                    ":type": "text"
+                  },
+                  "linkedin": {
+                    ":type": "line"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
     }
   }
 }
