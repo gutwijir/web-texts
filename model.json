@@ -72,14 +72,12 @@
           },
           "texts": {
             ":items": {
-              ":items": {
                 "heading": {
                   ":type": "text"
                 },
                 "paragraph": {
                   ":type": "text"
                 }
-              }
             }
           }
         },
