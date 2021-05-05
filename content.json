@@ -547,7 +547,90 @@
         "timeline": {
           "heading": "Náš příběh",
           "entries": [
-            {}
+            {
+              "date": "13. 3. 2015",
+              "description": "V pátek třináctého vznikla prvotní myšlenka studentského carsharingu."
+            },
+            {
+              "date": "2015",
+              "description": "Vývoj konceptu, sbírání zahraničních zkušeností, průzkum mezi studenty."
+            },
+            {
+              "date": "JARO 2016",
+              "description": "První koncept služby byl hotov."
+            },
+            {
+              "date": "LÉTO 2016",
+              "description": "Budoucí uživatelé vybrali jméno Uniqway."
+            },
+            {
+              "date": "JARO 2017",
+              "description": "Poprvé jsme úspěšně odemkli auto studentskou kartou."
+            },
+            {
+              "date": "LÉTO 2017",
+              "description": "Vývoj Uniqway aplikace pro Android."
+            },
+            {
+              "date": "PROSINEC 2017",
+              "description": "Převzali jsme první nová auta."
+            },
+            {
+              "date": "červen - září 2018",
+              "description": "Zahájili jsme testovací provoz. První uživatelé mimo vývojový tým si vyzkoušeli službu."
+            },
+            {
+              "date": "17. 10. 2018",
+              "description": "Oficiální spuštění služby."
+            },
+            {
+              "date": "leden 2019",
+              "description": "Máme iOS aplikaci."
+            },
+            {
+              "date": "16.5. 2019",
+              "description": "Právě jsme zaregistrovali 1000. uživatele."
+            },
+            {
+              "date": "Červenec 2019",
+              "description": "Otevřeli jsme službu všem studentům a zaměstnancům vysokých škol a také jsme umožnili uživatelům vyjet do zahraničí."
+            },
+            {
+              "date": "Září 2019",
+              "description": "Uniqway se účastní seznamovacích kurzů partnerských univerzit."
+            },
+            {
+              "date": "17.10.2019",
+              "description": "Oslavili jsme první narozeniny služby a přibyl do flotily Chemiq (ŠKODA KAMIQ)."
+            },
+            {
+              "date": "Listopad 2019",
+              "description": "Do flotily se zařadila nová vozidla, celkem 7."
+            },
+            {
+              "date": "Únor 2020",
+              "description": "Týmový hackathon #3 proběhl a posunul službu o skok dále."
+            },
+            {
+              "date": "Březen 2020",
+              "description": "Zapojili jsme se do projektu #SKODAAUTOpomaha pro pomoc v situaci s COVID-19."
+            },
+            {
+              "date": "Duben 2020",
+              "description": "Spustili jsme online verifikaci uživatelů."
+            },
+            {
+              "date": "Květen 2020",
+              "description": "26.5.2020 Jsme do flotily zařadili první elektrické Uniqway Škodu Citigoe iV."
+            },
+            {
+              "date": "Červenec 2020",
+              "description": "7.7.2020 Byl spuštěn Obchod s odměnami pro uživatele."
+            },
+            {
+              "date": "Srpen 2020",
+              "description": "Přidali jsme se na LinkedIn."
+            }
           ]
         }
       }
@@ -1109,7 +1192,90 @@
         "timeline": {
           "heading": "Our Story",
           "entries": [
-            {}
+            {
+              "date": "13.3.2015",
+              "description": "On Friday 13th the first idea of a student carsharing hit us."
+            },
+            {
+              "date": "2015",
+              "description": "Concept development, collecting information from abroad, research among students."
+            },
+            {
+              "date": "Spring 2016",
+              "description": "The first concept of our service was done."
+            },
+            {
+              "date": "Summer 2016",
+              "description": "The future users choose the name Uniqway."
+            },
+            {
+              "date": "Spring 2017",
+              "description": "For the first time, we opened the car successfully by a student card."
+            },
+            {
+              "date": "Summer 2017",
+              "description": "The development of Uniqway app for Android."
+            },
+            {
+              "date": "December 2017",
+              "description": "We took over the first new cars."
+            },
+            {
+              "description": "We inaugurated the testing running of our service. The first users tried Uniqway.",
+              "date": "June - September 2018"
+            },
+            {
+              "date": "17.10.2018",
+              "description": "The official service launch."
+            },
+            {
+              "date": "January 2019",
+              "description": "We have Uniqway iOS app."
+            },
+            {
+              "date": "16.5. 2019",
+              "description": "We have just registered in the 1000. user."
+            },
+            {
+              "date": "July 2019",
+              "description": "We launched the service for all universities and also we allowed our users to take our cars for a trip abroad."
+            },
+            {
+              "date": "September 2019",
+              "description": "Uniqway took part at icebreaking courses for freshmen at partner universities."
+            },
+            {
+              "date": "17.10.2019",
+              "description": "We celebrated first birthday and a new car joined our fleet - Chemiq (ŠKODA KAMIQ)."
+            },
+            {
+              "date": "November 2019",
+              "description": "New cars joined the fleet, 7 at all."
+            },
+            {
+              "date": "February 2020",
+              "description": "#3 team hackathon took place and pushed the service forward."
+            },
+            {
+              "date": "March 2020",
+              "description": "We joined the project #SKODAAUTOhelps to help with the situation around COVID-19."
+            },
+            {
+              "date": "April 2020",
+              "description": "We have launched the online verification of users."
+            },
+            {
+              "date": "May 2020",
+              "description": "26th May 2020 we added the first electric Uniqway to the fleet, the Škoda Citigoe iV."
+            },
+            {
+              "date": "July 2020",
+              "description": "7th July 2020 the Reward Shop for users was launched."
+            },
+            {
+              "date": "August 2020",
+              "description": "We joined LinkedIn."
+            }
           ]
         }
       }
