@@ -1,14 +1,32 @@
 {
   ":name": "Uniqway Web",
   ":description": "Texty hlavního webu https://www.uniqway.cz",
-  ":locales": [
-    "cs",
-    "en"
-  ],
+  ":locales": ["cs", "en"],
   "navigation": {
-    ":items": {
-      ":name": {
-        ":type": "line"
+    "entries": {
+      ":items": {
+        "label": {
+          ":type": "line"
+        },
+        "scroll": {
+          ":type": "line"
+        },
+        "link": {
+          ":type": "line"
+        },
+        "subnavigation": {
+          ":items": {
+            "label": {
+              ":type": "line"
+            },
+            "scroll": {
+              ":type": "line"
+            },
+            "link": {
+              ":type": "line"
+            }
+          }
+        }
       }
     }
   },
@@ -72,12 +90,12 @@
           },
           "texts": {
             ":items": {
-                "heading": {
-                  ":type": "text"
-                },
-                "paragraph": {
-                  ":type": "text"
-                }
+              "heading": {
+                ":type": "text"
+              },
+              "paragraph": {
+                ":type": "text"
+              }
             }
           }
         },
