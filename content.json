@@ -45,6 +45,11 @@
                 "id": "faq-covid19"
               },
               {
+                "question": "Jak funguje Obchod s odměnami?",
+                "answer": "<p>Za každou Tvou jízdu Tě odměníme body! Například za každých projetých 200 Kč získáš 30 bodů, za dokončenou jízdu zase 5 bodů. Za fotku s autem, kterou nám pošleš, získáš 15 bodů a za video až 45 bodů! Tyto body si pak můžeš vyměnit za super odměny, jako je batoh, sluneční brýle nebo termohrnek. Ty si pak můžeš vybrat v aplikaci, v sekci Obchod. Více informací se dozvíš <a href=\"https://www.uniqway.cz/guides/manual-rs-cz.pdf\" rel=\"noopener noreferrer nofollow\">zde</a>.</p>",
+                "id": "faq-reward-shop"
+              },
+              {
                 "question": "Mohu dokončit celou registraci online?",
                 "answer": "Ano, je možné dokončit celý proces registrace online, po vyplnění registračního formuláře budeš odkázán na aktivační formulář, do kterého nahraješ své doklady a my je následně zkontrolujeme. Pokud bude vše v pořádku, účet Ti aktivujeme a fotografie dokladů poté smažeme.",
                 "id": "faq-verifikace"
@@ -680,6 +685,11 @@
                 "question": "How does Uniqway functions in Covid-19 time?",
                 "answer": "You can still use Uniqway of course, the service functions without any changes. In other words, we only try to make changes for the better and improve Uniqway. After the closure of universities and our offices, we have successfully implemented a complete online registration and currently, for the duration of the emergency measures, you have the opportunity to try a new more favourable ANTI-COVID tariff. If you get a product from the Reward Shop, you can pick it up every working day at ŠKODA AUTO DigiLab s.r.o.<br/><br/>All our vehicles are disinfected and cleaned with ozone so that your ride with Uniqway is always comfortable and safe. You can also find disinfection for your needs in the vehicle compartment. Please do not forget to always wear a mask or respirator in the car.",
                 "id": "faq-covid19"
+              },
+              {
+                "question": "How does a Reward shop work?",
+                "answer": "<p>You obtain points with every ride you make. For example, you get 30 points for every spent 200 CZK, or 5 points for every finished ride. If you take a photo with our car and send it to us, you will get 15 points. If you record a short video, you will get 45 points! These points can be used for practical items, e.g. backpack, sunglasses, or thermo mug. You can choose which one you want in our mobile app, in the Shop section. For more information click <a href=\"https://www.uniqway.cz/guides/manual-rs-en.pdf\" rel=\"noopener noreferrer nofollow\">here</a>.</p>",
+                "id": "faq-reward-shop"
               },
               {
                 "question": "Is it possible to finish the registration online?",
