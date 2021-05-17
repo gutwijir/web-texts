@@ -229,6 +229,9 @@
             ":type": "line"
           }
         }
+      },
+      "guideLink": {
+        ":type": "line"
       }
     }
   }
