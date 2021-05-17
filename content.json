@@ -682,7 +682,8 @@
           {
             "value": "Vyhřívaná sedadla, volant a čelní sklo"
           }
-        ]
+        ],
+        "guideLink": "/guides/enyaq_userguide_cz.pdf"
       }
     ]
   },
@@ -1376,7 +1377,8 @@
         "id": "0",
         "name": "ŠKODA ENYAQ iV",
         "image": "/img/cars/enyaq.png",
-        "alt": "ŠKODA ENYAQ iV"
+        "alt": "ŠKODA ENYAQ iV",
+        "guideLink": "/guides/enyaq_userguide_en.pdf"
       }
     ]
   }
