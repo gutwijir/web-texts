@@ -1371,7 +1371,12 @@
           {
             "value": "Heated seats, steering wheel and wind shield"
           }
-        ]
+        ],
+        "code": "enyaq",
+        "id": "0",
+        "name": "ŠKODA ENYAQ iV",
+        "image": "/img/cars/enyaq.png",
+        "alt": "ŠKODA ENYAQ iV"
       }
     ]
   }
