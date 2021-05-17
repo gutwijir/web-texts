@@ -192,5 +192,44 @@
         }
       }
     }
+  },
+  "cars": {
+    ":items": {
+      "code": {
+        ":type": "line"
+      },
+      "id": {
+        ":type": "line"
+      },
+      "name": {
+        ":type": "line"
+      },
+      "image": {
+        ":type": "line"
+      },
+      "alt": {
+        ":type": "line"
+      },
+      "specs": {
+        ":items": {
+          "key": {
+            ":type": "line"
+          },
+          "value": {
+            ":type": "line"
+          }
+        }
+      },
+      "features": {
+        ":items": {
+          "key": {
+            ":type": "line"
+          },
+          "value": {
+            ":type": "line"
+          }
+        }
+      }
+    }
   }
 }
