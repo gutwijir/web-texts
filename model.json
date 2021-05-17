@@ -212,20 +212,20 @@
       },
       "specs": {
         ":items": {
-          "key": {
+          "value": {
             ":type": "line"
           },
-          "value": {
+          "bold": {
             ":type": "line"
           }
         }
       },
       "features": {
         ":items": {
-          "key": {
+          "value": {
             ":type": "line"
           },
-          "value": {
+          "bold": {
             ":type": "line"
           }
         }
