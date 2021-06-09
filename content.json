@@ -1,5 +1,11 @@
 {
   "cs": {
+    "documents": {
+      "priceList": {
+        "link": "/legal/cenik/Cenik_update_Enyaqa.pdf",
+        "label": "cenik"
+      }
+    },
     "navigation": {
       "entries": [
         {
@@ -694,6 +700,12 @@
     ]
   },
   "en": {
+    "documents": {
+      "priceList": {
+        "link": "/legal/cenik/Cenik_update_Enyaq.pdf",
+        "label": "pricelist"
+      }
+    },
     "navigation": {
       "entries": [
         {

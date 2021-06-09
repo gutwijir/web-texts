@@ -3,8 +3,53 @@
   ":description": "Texty hlavního webu https://www.uniqway.cz",
   ":locales": ["cs", "en"],
   "documents": {
-    ":items": {
-      
+    "priceList": {
+      "link": {
+        ":type": "line"
+      },
+      "label": {
+        ":type": "line"
+      }
+    },
+    "dataProcessing": {
+      "link": {
+        ":type": "line"
+      },
+      "label": {
+        ":type": "line"
+      }
+    },
+    "termsAndConditions": {
+      "link": {
+        ":type": "line"
+      },
+      "label": {
+        ":type": "line"
+      }
+    },
+    "rewardShopGuide": {
+      "link": {
+        ":type": "line"
+      },
+      "label": {
+        ":type": "line"
+      }
+    },
+    "enyaqGuide": {
+      "link": {
+        ":type": "line"
+      },
+      "label": {
+        ":type": "line"
+      }
+    },
+    "citigoGuide": {
+      "link": {
+        ":type": "line"
+      },
+      "label": {
+        ":type": "line"
+      }
     }
   },
   "navigation": {
