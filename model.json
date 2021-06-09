@@ -2,6 +2,11 @@
   ":name": "Uniqway Web",
   ":description": "Texty hlavního webu https://www.uniqway.cz",
   ":locales": ["cs", "en"],
+  "documents": {
+    ":items": {
+      
+    }
+  },
   "navigation": {
     "entries": {
       ":items": {

@@ -267,14 +267,20 @@
                   {
                     "photo": "ČVUT_Severa.png",
                     "name": "Štěpán Severa",
-                    "role": "Vývojář backendu",
-                    "description": "K Uniqway jsem se připojil v létě 2018 a od té doby se podílím na vývoji Android aplikace. V současné době se převážně věnuji vývoji backendu a také tvorbě klientské webové aplikace. Ve volném čase se věnuji cyklistice a lukostřelbě."
+                    "role": "Vedoucí technického týmu",
+                    "description": "K Uniqway jsem se připojil v létě 2018 a od té doby jsem prošel řadou různých pozic - přes Android, web a backend jsem se dostal až na pozici vedoucího technického týmu Uniqway. Nyní se převážně věnuji koordinaci technického týmu a komunikaci s ostatními týmy. Volný čas trávím cyklistikou a lukostřelbou."
                   },
                   {
                     "photo": "ČVUT_Bondarev.png",
                     "name": "Nikita Bondarev",
                     "role": "Vývojář Backendu",
                     "description": "V Uniqway se zabývám softwarovou, zejména backendovou, částí. Připojil jsem se k projektu ne tak dávno, hned po prvním ročníku vysoké školy, a doufám, že můj přínos pro něj bude stejně velký, jako je přínos projektu pro mě."
+                  },
+                  {
+                    "photo": "ČVUT_Hanžlík.png",
+                    "name": "Aleš Hanžlík",
+                    "role": "iOS vývojář",
+                    "description": "K týmu jsem se připojil společně s nástupem na vysokou školu. Uniqway je super možnost, jak při studiu ve skvělém kolektivu vytvářet reálnou službu. Jsem zodpovědný za vývoj iOS aplikace. Těším se, kam společně celý projekt posuneme."
                   }
                 ]
               },
@@ -387,19 +393,19 @@
                   {
                     "photo": "ČZU_Nezbedová.png",
                     "name": "Klára Nezbedová",
-                    "role": "Technical ambassador",
+                    "role": "Technický ambasador",
                     "linkedin": "https://www.linkedin.com/in/kl%C3%A1ra-nezbedov%C3%A1-590b13141/"
                   },
                   {
                     "photo": "ČZU_Babinský.png",
                     "name": "Lukáš Babinský",
-                    "role": "Technical ambassador",
+                    "role": "Technický ambasador",
                     "linkedin": "https://www.linkedin.com/in/lukasbabinsky/"
                   },
                   {
                     "photo": "ČZU_Janoušek.png",
                     "name": "Pavel Janoušek",
-                    "role": "Technical ambassador"
+                    "role": "Technický ambasador"
                   }
                 ]
               }
@@ -488,7 +494,7 @@
                   },
                   {
                     "photo": "VŠE_Henzl.png",
-                    "name": "Henry Henzl",
+                    "name": "Jindřich Henzl",
                     "role": "Zakládající člen",
                     "linkedin": "https://www.linkedin.com/in/jindrichhenzl/"
                   },
@@ -963,14 +969,20 @@
                   {
                     "photo": "ČVUT_Severa.png",
                     "name": "Štěpán Severa",
-                    "role": "Backend developer",
-                    "description": "I joined Uniqway in the summer 2018 and since then I am involved in the Android app development. Presently, I mostly engage on developing backend and in the creation of client web app. In my free time, I ride a bike and practice archery."
+                    "role": "Tech team leader",
+                    "description": "I joined Uniqway in the summer of 2018 and since then I have experienced many different positions - from Android, web and backend developer I have become the tech team leader. Presently, I mostly engage in coordinating the tech team and communicating with other teams. In my free time, I ride a bike and practice archery."
                   },
                   {
                     "photo": "ČVUT_Bondarev.png",
                     "name": "Nikita Bondarev",
                     "role": "Backend developer",
                     "description": "In Uniqway I work on it’s software, exactly backend, part. I’ve joined the project not so long ago and right after the first year of university. I hope, I will be of benefit for it as much, as it is for me."
+                  },
+                  {
+                    "photo": "ČVUT_Hanžlík.png",
+                    "name": "Aleš Hanžlík",
+                    "role": "iOS developer",
+                    "description": "I joined the team when I started university in 2020. Uniqway is a great opportunity to get hands on creating a real service in an amazing team. I am responsible for the iOS app, and I'm looking forward to pushing the whole project to the next level."
                   }
                 ]
               },
@@ -1184,7 +1196,7 @@
                   },
                   {
                     "photo": "VŠE_Henzl.png",
-                    "name": "Henry Henzl",
+                    "name": "Jindřich Henzl",
                     "role": "Founding team member",
                     "linkedin": "https://www.linkedin.com/in/jindrichhenzl/"
                   },
