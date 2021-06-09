@@ -3,8 +3,36 @@
     "documents": {
       "priceList": {
         "link": "/legal/cenik/Cenik_update_Enyaq.pdf",
-        "label": "cenik"
+        "label": ""
+      },
+      "dataProcessing": {
+        "link": "/legal/data/UNIQWAY_IOZOU_2021-01-25_FINAL_CZ.pdf",
+        "label": "Informace o zpracování osobních údajů"
+      },
+      "termsAndConditions": {
+        "link": "/legal/vop/UNIQWAY_VOP_2021-01-25_FINAL_COMPLETE_CZ.pdf",
+        "label": ""
+      },
+      "rewardShopGuide": {
+        "link": "/guides/manual-rs-cz.pdf",
+        "label": ""
+      },
+      "enyaqGuide": {
+        "link": "/guides/enyaq_userguide_cz.pdf",
+        "label": ""
+      },
+      "citigoGuide": {
+        "link": "/guides/citigo_userguide_cz.pdf",
+        "label": ""
+      },
+      "cookiesTerms": {
+        "link": "/legal/Uniqway_cookies_info_20201118_clear.pdf",
+        "label": ""
       }
+    },
+    "cookiesBar": {
+      "message": "Cookies se používají k ukládání vašeho nastavení a preferencí, analýze návštěvnosti stránek, funkcím sociálních médií a k personalizaci obsahu a reklam, včetně spolupráce se třetími stranami. Více info o nastavení a vypnutí cookies viz <a href=\"$COOKIESFILE\">Zásady používání cookies</a>. Kliknutím na tlačítko Potvrdit vyjadřujete souhlas s jejich použitím.",
+      "accept": "Potvrdit"
     },
     "navigation": {
       "entries": [
@@ -702,9 +730,37 @@
   "en": {
     "documents": {
       "priceList": {
-        "link": "/legal/cenik/Cenik_update_Enyaq.pdf",
-        "label": "pricelist"
+        "link": "/legal/cenik/ENG_Cenik_update_Enyaq.pdf",
+        "label": ""
+      },
+      "dataProcessing": {
+        "link": "/legal/data/UNIQWAY_IOZOU_2021-01-25_FINAL_EN.pdf",
+        "label": "Information on personal data processing"
+      },
+      "termsAndConditions": {
+        "link": "/legal/vop/UNIQWAY_VOP_2021-01-25_FINAL_COMPLETE_EN.pdf",
+        "label": ""
+      },
+      "rewardShopGuide": {
+        "link": "/guides/manual-rs-en.pdf",
+        "label": ""
+      },
+      "enyaqGuide": {
+        "link": "/guides/enyaq_userguide_en.pdf",
+        "label": ""
+      },
+      "citigoGuide": {
+        "link": "/guides/citigo_userguide_en.pdf",
+        "label": ""
+      },
+      "cookiesTerms": {
+        "link": "/legal/Uniqway_Cookies_EN-201116_clear.pdf",
+        "label": ""
       }
+    },
+    "cookiesBar": {
+      "message": "Cookies are used to save your settings and preferences, analyze traffic, social media functions and to personalize content and advertisements, including cooperation with third parties. For more information on setting and disabling cookies, see the <a href=\"$COOKIESFILE\">Cookies Policy</a>. By clicking the Confirm button, you agree to their use.",
+      "accept": "Confirm"
     },
     "navigation": {
       "entries": [

@@ -50,6 +50,22 @@
       "label": {
         ":type": "line"
       }
+    },
+    "cookiesTerms": {
+      "link": {
+        ":type": "line"
+      },
+      "label": {
+        ":type": "line"
+      }
+    }
+  },
+  "cookieBar": {
+    "message": {
+      ":type": "text"
+    },
+    "accept": {
+      ":type": "line"
     }
   },
   "navigation": {
