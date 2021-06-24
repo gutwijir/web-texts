@@ -257,6 +257,46 @@
           }
         }
       }
+    },
+    "howDoesItWork": {
+      ":description": "Stránka Jak to funguje je rozdělena na jednotlivé sekce",
+      ":items": {
+        ":description": "Každá ze sekcí má své jméno a podsekce",
+        "name": {
+          ":type": "line"
+        },
+        "subsections": {
+          ":description": "Každá podsekce má své jméno, ikonu, medailonky a video",
+          ":items": {
+            "name": {
+              ":type": "line"
+            },
+            "icon": {
+              ":description": "URL ikony medailonku",
+              ":type": "line"
+            },
+            "medailons": {
+              ":description": "Každý medailonek má nadpis, fotku a krátký text",
+              ":items": {
+                "heading": {
+                  ":type": "line"
+                },
+                "photo": {
+                  ":description": "URL fotografie medailonku",
+                  ":type": "line"
+                },
+                "text": {
+                  ":type": "text"
+                }
+              }
+            },
+            "video": {
+              ":description": "URL příslušného youtube videa",
+              ":type": "line"
+            }
+          }
+        }
+      }
     }
   },
   "cars": {
