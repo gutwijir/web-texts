@@ -65,6 +65,10 @@
               "link": "news"
             }
           ]
+        },
+        {
+          "label": "Kalkulačka",
+          "link": "calculator"
         }
       ]
     },
@@ -1009,6 +1013,10 @@
               "link": "news"
             }
           ]
+        },
+        {
+          "label": "Calculator",
+          "link": "calculator"
         }
       ]
     },
