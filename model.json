@@ -257,6 +257,19 @@
           }
         }
       }
+    },
+    "howDoesItWork": {
+      ":description": "Stránka Jak to funguje je rozdělena na jednotlivé sekce",
+      "title": {
+        ":type": "line"
+      },
+      "motto": {
+        ":type": "line"
+      },
+      "backgroundImage": {
+        ":description": "URL fotografie na pozadí",
+        ":type": "line"
+      }
     }
   },
   "cars": {
