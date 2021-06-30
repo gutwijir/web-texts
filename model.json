@@ -271,6 +271,7 @@
         ":type": "line"
       },
       "sections": {
+        ":description": "Každá ze sekcí má své jméno a podsekce",
         ":items": {
           "name": {
             ":type": "line"
