@@ -269,6 +269,47 @@
       "backgroundImage": {
         ":description": "URL fotografie na pozadí",
         ":type": "line"
+      },
+      "sections": {
+        ":items": {
+          "name": {
+            ":type": "line"
+          },
+          "scroll": {
+            ":type": "line"
+          },
+          "subsections": {
+            ":description": "Každá podsekce má své jméno, ikonu, medailonky a video",
+            ":items": {
+              "name": {
+                ":type": "line"
+              },
+              "icon": {
+                ":description": "URL ikony medailonku",
+                ":type": "line"
+              },
+              "medailons": {
+                ":description": "Každý medailonek má nadpis, fotku a krátký text",
+                ":items": {
+                  "heading": {
+                    ":type": "line"
+                  },
+                  "photo": {
+                    ":description": "URL fotografie medailonku",
+                    ":type": "line"
+                  },
+                  "text": {
+                    ":type": "text"
+                  }
+                }
+              },
+              "video": {
+                ":description": "URL příslušného youtube videa",
+                ":type": "line"
+              }
+            }
+          }
+        }
       }
     }
   },
