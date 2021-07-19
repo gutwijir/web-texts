@@ -686,7 +686,7 @@
       "howDoesItWork": {
         "title": "Jak to funguje?",
         "motto": "Vše potřebné na jednom místě",
-        "backgroundImage": "...",
+        "backgroundImage": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/uvod_uvod_upraveno.jpg",
         "sections":  [
           {
             "name": "Úvod",
@@ -694,7 +694,7 @@
             "subsections": [
               {
                 "name": "Registrace",
-                "icon": "...",
+                "icon": "registration_icon",
                 "medailons": [
                   {
                     "heading": "Zaregistruj se",
@@ -716,7 +716,7 @@
               },
               {
                 "name": "Aplikace",
-                "icon": "...",
+                "icon": "application_icon",
                 "medailons": [
                   {
                     "heading": "Mapa",
@@ -738,7 +738,7 @@
               },
               {
                 "name": "Výhody",
-                "icon": "...",
+                "icon": "benefits_icon",
                 "medailons": [
                   {
                     "heading": "Proč Uniqway?",
@@ -766,7 +766,7 @@
             "subsections": [
               {
                 "name": "Před jízdou",
-                "icon": "...",
+                "icon": "before_ride_icon",
                 "medailons": [
                   {
                     "heading": "Vyber si auto",
@@ -788,7 +788,7 @@
               },
               {
                 "name": "Během jízdy",
-                "icon": "...",
+                "icon": "during_ride_icon",
                 "medailons": [
                   {
                     "heading": "Manuál",
@@ -825,7 +825,7 @@
               },
               {
                 "name": "Ukončení jízdy",
-                "icon": "...",
+                "icon": "finish_ride_icon",
                 "medailons": [
                   {
                     "heading": "Zaparkuj v zóně",
@@ -853,7 +853,7 @@
             "subsections": [
               {
                 "name": "Defekt",
-                "icon": "...",
+                "icon": "defect_icon",
                 "medailons": [
                   {
                     "heading": "Zastav vozidlo",
@@ -875,7 +875,7 @@
               },
               {
                 "name": "Nehoda",
-                "icon": "...",
+                "icon": "accident_icon",
                 "medailons": [
                   {
                     "heading": "První pomoc",
@@ -1642,7 +1642,7 @@
       "howDoesItWork": {
         "title": "How does it work?",
         "motto": "All needed at one place",
-        "backgroundImage": "...",
+        "backgroundImage": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/uvod_uvod_upraveno.jpg",
         "sections": [
           {
             "name": "Introduction",
@@ -1650,7 +1650,7 @@
             "subsections": [
               {
                 "name": "Registration",
-                "icon": "...",
+                "icon": "registration_icon",
                 "medailons": [
                   {
                     "heading": "Register",
@@ -1672,7 +1672,7 @@
               },
               {
                 "name": "App",
-                "icon": "...",
+                "icon": "application_icon",
                 "medailons": [
                   {
                     "heading": "Map",
@@ -1694,7 +1694,7 @@
               },
               {
                 "name": "Benefits",
-                "icon": "...",
+                "icon": "benefits_icon",
                 "medailons": [
                   {
                     "heading": "Why choose Uniqway?",
@@ -1722,7 +1722,7 @@
             "subsections": [
               {
                 "name": "Before a ride",
-                "icon": "...",
+                "icon": "before_ride_icon",
                 "medailons": [
                   {
                     "heading": "Choose a car",
@@ -1744,7 +1744,7 @@
               },
               {
                 "name": "During a ride",
-                "icon": "...",
+                "icon": "during_ride_icon",
                 "medailons": [
                   {
                     "heading": "Manual transmission",
@@ -1781,7 +1781,7 @@
               },
               {
                 "name": "Finishing the ride",
-                "icon": "...",
+                "icon": "finish_ride_icon",
                 "medailons": [
                   {
                     "heading": "Park in the Uniqway zone",
@@ -1809,7 +1809,7 @@
             "subsections": [
               {
                 "name": "Puncture",
-                "icon": "...",
+                "icon": "defect_icon",
                 "medailons": [
                   {
                     "heading": "Pull to a stop",
@@ -1831,7 +1831,7 @@
               },
               {
                 "name": "Traffic accident",
-                "icon": "...",
+                "icon": "accident_icon",
                 "medailons": [
                   {
                     "heading": "First aid",
