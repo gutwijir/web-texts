@@ -699,12 +699,12 @@
                   {
                     "heading": "Zaregistruj se",
                     "photo": "...",
-                    "text": "Vyplň si online registrační formulář. Potřebuješ k tomu občanský a řidičský průkaz + platnou kartu studenta."
+                    "text": "Vyplň si online registrační formulář. Potřebuješ k tomu občanský a řidičský průkaz + kartu studenta."
                   },
                   {
                     "heading": "Aktivuj účet",
                     "photo": "...",
-                    "text": "Po registraci vyplň aktivační formulář. Tam nahraješ fotografie dokladů a jak- mile je zkontrolujeme, aktivujeme Ti účet (zhruba do 48 hodin)."
+                    "text": "Po registraci vyplň aktivační formulář. Tam nahraješ fotografie dokladů a jakmile je zkontrolujeme, aktivujeme Ti účet (zhruba do 48 hodin)."
                   },
                   {
                     "heading": "Stáhni appku",
@@ -731,7 +731,7 @@
                   {
                     "heading": "Obchod",
                     "photo": "...",
-                    "text": "Přidali jsme i Obchod s odměnami pro uživatele. Za každou jízdu s Uniqway sbíráš body, které v můžeš v tomto obchodě uplatnit. Momentálně nabízíme produkty Uniqway a časem zde najdeš i vouchery."
+                    "text": "Přidali jsme i Obchod s odměnami pro uživatele. Za každou jízdu s Uniqway sbíráš body, které můžeš v tomto obchodě uplatnit. Momentálně nabízíme produkty Uniqway a časem zde najdeš i vouchery."
                   }
                 ],
                 "video": "..."
@@ -753,7 +753,7 @@
                   {
                     "heading": "Co potřebuji?",
                     "photo": "...",
-                    "text": "Jediné co potřebuješ je mobilní telefon s internetem, platnou kartu studenta, občanský průkaz, řidičský průkaz a chuť cestovat chytře."
+                    "text": "Jediné, co potřebuješ, je mobilní telefon s internetem, platnou kartu studenta, občanský průkaz, řidičský průkaz a chuť cestovat chytře."
                   }
                 ],
                 "video": "..."
@@ -781,7 +781,7 @@
                   {
                     "heading": "Odemkni",
                     "photo": "...",
-                    "text": "K otevření vozidla stačí v aplikaci kliknout na tlačítko Odemknout a přiložit kartu studenta ke čtečce za čelním sklem u řidiče. Uvnitř zkontroluj čistotu interiéru a podívej se, zda jsou v autě všechny doklady. Případné škody ihned nahlas na Infolinku. Než se rozjedeš, nastav si sedadlo a zrcátka."
+                    "text": "K otevření vozidla  stačí v aplikaci kliknout na tlačítko Odemknout a přiložit kartu studenta ke čtečce za čelním sklem u řidiče. Uvnitř zkontroluj čistotu interiéru a podívej se, zda jsou v autě všechny doklady. Případné škody ihned nahlas na Infolinku. Než se rozjedeš, nastav si sedadlo a zrcátka."
                   }
                 ],
                 "video": "..."
@@ -793,12 +793,12 @@
                   {
                     "heading": "Manuál",
                     "photo": "...",
-                    "text": "Auto nastartuješ sešlápnutím spojky a zmáčknutím tlačítka START/STOP, které najdeš vpravo pod volantem. Pro jízdu musíš řadit pomocí řadicí páky a spojky, tak jak to učí v autoškole. Nemusíš se bát ani rozjezdu do kopce, auto Ti elektronicky podrží brzdu."
+                    "text": "Auto nastartuješ sešlápnutím spojky a zmáčknutím tlačítka START/STOP, které najdeš vpravo pod volantem. Pro jízdu musíš řadit pomocí řadicí páky a spojky, tak jak to učí v autoškole. Nemusíš se bát ani rozjezdu do kopce, auto Ti elektronicky podrží brzdu. "
                   },
                   {
                     "heading": "Automat",
                     "photo": "...",
-                    "text": "Auto nastartuješ sešlápnutím brzdového pedálu a zmáčknutím tlačítka START/STOP, které najdeš vpravo pod volantem. Pro jízdu si pomoci brzdy a zmáčknutím bezpečnostního tlačítka na řadicí páce zvol jízdní režim: D - drive, R - reverse, N - neutral, P - park."
+                    "text": "Auto nastartuješ sešlápnutím brzdového pedálu a zmáčknutím tlačítka START/STOP, které najdeš vpravo pod volantem. Pro jízdu si pomocí brzdy a zmáčknutím bezpečnostního tlačítka na řadicí páce zvol jízdní režim: D - drive, R - reverse, N - neutral, P - park."
                   },
                   {
                     "heading": "Elektro",
@@ -840,7 +840,7 @@
                   {
                     "heading": "Ukonči rezervaci",
                     "photo": "...",
-                    "text": "Pro ukončení jízdy je potřeba zaparkovat v některé z našich Uniqway zón. Jsou to ty zeleně označené zóny na mapě v aplikaci. Uniqway tlačítko v autě se v zóně rozsvítí zeleně. Dávej pozor, abys nezaparkoval na místě, kde je zastavení či stání omezeno nebo zakázáno."
+                    "text": "V aplikaci zaparkované auto zamkni a tlačítkem “Vrátit vozidlo” jej vrátíš a ukončíš rezervaci. Ihned Ti přijde faktura do e-mailu a automaticky se strhne částka za rezervaci z Tvé karty. Jestli si vzpomeneš, že jsi v autě něco zapomněl, zavolej na Infolinku, kde Ti pomohou."
                   }
                 ],
                 "video": "..."
@@ -861,9 +861,9 @@
                     "text": "V případě defektu odstav vozidlo tak, aby co nejméně překáželo provozu a byla zachována bezpečnost všech účastníků provozu."
                   },
                   {
-                    "heading": "Zabezpeč situaci",
+                    "heading": "Zabezpeč místo",
                     "photo": "...",
-                    "text": "Nasaď si vestu a označ místo výstražným trojúhelníkem (v kufru vozidla). Při pohybu mimo vozidlo dávej pozor také na okolní provoz."
+                    "text": "Nasaď si vestu a označ místo výstražným trojúhelníkem (v kufru vozidla)."
                   },
                   {
                     "heading": "Zavolej Infolinku",
@@ -1653,41 +1653,41 @@
                 "icon": "...",
                 "medailons": [
                   {
-                    "heading": "Zaregistruj se",
+                    "heading": "Register",
                     "photo": "...",
-                    "text": "Vyplň si online registrační formulář. Potřebuješ k tomu občanský a řidičský průkaz + platnou kartu studenta."
+                    "text": "Fill out an online registration form. You need an ID card, a driver´s license, and a student card."
                   },
                   {
-                    "heading": "Aktivuj účet",
+                    "heading": "Verify",
                     "photo": "...",
-                    "text": "Po registraci vyplň aktivační formulář. Tam nahraješ fotografie dokladů a jak- mile je zkontrolujeme, aktivujeme Ti účet (zhruba do 48 hodin)."
+                    "text": "Once registered, fill out an activation form. Upload all your identity documents. Afterward, we will verify them and activate your account (this should not take more than 48 hours)."
                   },
                   {
-                    "heading": "Stáhni appku",
+                    "heading": "Download the app",
                     "photo": "...",
-                    "text": "Stáhni si aplikaci Uniqway na Google Play nebo App Store, vytvoř si heslo, přidej platební kartu, zarezervuj si auto a můžeš vyrazit na své cesty!"
+                    "text": "Download the app from App Store or Google Play, set up a password, add a payment card, make your first reservation and you are ready to go!"
                   }
                 ],
                 "video": "..."
               },
               {
-                "name": "Application",
+                "name": "App",
                 "icon": "...",
                 "medailons": [
                   {
-                    "heading": "Mapa",
+                    "heading": "Map",
                     "photo": "...",
-                    "text": "Při otevření aplikace se Ti zobrazí mapa, na které uvidíš aktuálně dostupná auta a jejich polohu. Zelené zóny jsou naše, v těch si můžeš auto půjčit a musíš ho do nějaké zóny také vrátit."
+                    "text": "All available cars and parking zones are displayed on the map after opening the Uniqway app. You can pick up or return a car only within our green zones."
                   },
                   {
-                    "heading": "Vozidla",
+                    "heading": "Vehicles",
                     "photo": "...",
-                    "text": "Po výběru auta uvidíš tzv. “Kartu vozidla”, kde si přečteš základní informace o vozidle. Jakou má převodovku, stav nádrže a dojezd. Tlačítkem “Rezervovat” si ho zarezervuješ a začne Ti běžet 15 min. zdarma do odemčení."
+                    "text": "After tapping on your car, an information card will appear. You can see all the basic information - a type of transmission, fuel level and a range. You make a reservation by tapping on the “Reserve” button. Afterward, you have free 15 minutes to pick up your car."
                   },
                   {
-                    "heading": "Obchod",
+                    "heading": "Reward Shop",
                     "photo": "...",
-                    "text": "Přidali jsme i Obchod s odměnami pro uživatele. Za každou jízdu s Uniqway sbíráš body, které v můžeš v tomto obchodě uplatnit. Momentálně nabízíme produkty Uniqway a časem zde najdeš i vouchery."
+                    "text": "You collect points with every finished ride. These points can be changed in Shop for useful accessories. In the future, vouchers will be available."
                   }
                 ],
                 "video": "..."
@@ -1697,19 +1697,19 @@
                 "icon": "...",
                 "medailons": [
                   {
-                    "heading": "Proč Uniqway?",
+                    "heading": "Why choose Uniqway?",
                     "photo": "...",
-                    "text": "Máme flotilu nových vozů ŠKODA, o které se pečlivě staráme. Každé z nich putuje z výrobní linky přes ruce našich techniků přímo k Tobě."
+                    "text": "Our fleet is made up of new ŠKODA vehicles that we care about every day. Each of them is prepared by our technicians just for you."
                   },
                   {
-                    "heading": "Bez poplatků!",
+                    "heading": "Without any fees!",
                     "photo": "...",
-                    "text": "Se studentským carsharingem to máš bez poplatků za registraci, aktivaci a dalších překážek. Palivo a pojištění je také zahrnuto v ceně."
+                    "text": "There aren't any registration, activation, or hidden fees. Fuel and insurance are included in the price."
                   },
                   {
-                    "heading": "Co potřebuji?",
+                    "heading": "What do I need?",
                     "photo": "...",
-                    "text": "Jediné co potřebuješ je mobilní telefon s internetem, platnou kartu studenta, občanský průkaz, řidičský průkaz a chuť cestovat chytře."
+                    "text": "You only need a smartphone with an internet connection, a valid student card, an ID card, a driver´s license and a desire to travel smart!"
                   }
                 ],
                 "video": "..."
@@ -1721,82 +1721,82 @@
             "scroll": "#ride",
             "subsections": [
               {
-                "name": "Before ride",
+                "name": "Before a ride",
                 "icon": "...",
                 "medailons": [
                   {
-                    "heading": "Vyber si auto",
+                    "heading": "Choose a car",
                     "photo": "...",
-                    "text": "V naší aplikaci si na mapě vyber auto. Appka Tě sama provede nezbytnými kroky k rezervaci. Uvidíš tam, která vozidla jsou k dispozici a kde se nacházejí. Vyber si, které chceš a zarezervuj si ho. V záložce “Vozidla” najdeš volná auta seřazená v seznamu."
+                    "text": "Our app will show you all the necessary steps to reserve a car. You can see the position of all available cars on the map. Choose whichever you want and reserve it. You can also see the list of all available vehicles in the menu as “vehicles”"
                   },
                   {
-                    "heading": "Zkontroluj",
+                    "heading": "Check",
                     "photo": "...",
-                    "text": "Po rezervaci auta máš 15 minut zdarma na jeho vyzvednutí a zběžnou kontrolu. Než do auta nasedneš, je důležité si ho zkontrolovat. Dívej se po případném poškození karoserie, pneumatik a kol, škrábancích a promáčklinách, to vše nám případně nahlas na Infolinku 222 266 244."
+                    "text": "After reserving the car, you have 15 minutes free of charge to pick up and check it. It is important to check the car's condition - pay attention to any damages on the coachwork and tires. If you find any, contact our hotline 222 266 244."
                   },
                   {
-                    "heading": "Odemkni",
+                    "heading": "Unlock",
                     "photo": "...",
-                    "text": "K otevření vozidla stačí v aplikaci kliknout na tlačítko Odemknout a přiložit kartu studenta ke čtečce za čelním sklem u řidiče. Uvnitř zkontroluj čistotu interiéru a podívej se, zda jsou v autě všechny doklady. Případné škody ihned nahlas na Infolinku. Než se rozjedeš, nastav si sedadlo a zrcátka."
+                    "text": "For unlocking the car you need to click on the “unlock” button and scan your student card with a card reader. The card reader is placed behind the widescreen. Afterward, check the cleanliness inside the car and the presence of all entrance cards(VŠE, ČVUT). In case of finding any damages immediately call our hotline. Don´t forget to adjust your seat and car mirrors."
                   }
                 ],
                 "video": "..."
               },
               {
-                "name": "Throughout ride",
+                "name": "During a ride",
                 "icon": "...",
                 "medailons": [
                   {
-                    "heading": "Manuál",
+                    "heading": "Manual transmission",
                     "photo": "...",
-                    "text": "Auto nastartuješ sešlápnutím spojky a zmáčknutím tlačítka START/STOP, které najdeš vpravo pod volantem. Pro jízdu musíš řadit pomocí řadicí páky a spojky, tak jak to učí v autoškole. Nemusíš se bát ani rozjezdu do kopce, auto Ti elektronicky podrží brzdu."
+                    "text": "Start the car by stepping on the clutch and pressing the START/STOP button simultaneously. The START/STOP button is located on the right side behind the steering wheel. You have to change gears with a gear stick and stepping on the clutch. Our cars have a Hill Hold - you don't have to worry about moving off on a hill."
                   },
                   {
-                    "heading": "Automat",
+                    "heading": "Automatic transmission",
                     "photo": "...",
-                    "text": "Auto nastartuješ sešlápnutím brzdového pedálu a zmáčknutím tlačítka START/STOP, které najdeš vpravo pod volantem. Pro jízdu si pomoci brzdy a zmáčknutím bezpečnostního tlačítka na řadicí páce zvol jízdní režim: D - drive, R - reverse, N - neutral, P - park."
+                    "text": "Start the car by stepping on the brake and pressing the START/STOP button simultaneously. The START/STOP button is located on the right side behind the steering wheel. You have to choose a driving mode to D - drive, R - reverse, N - neutral, P - park by pressing the safety button on the gear stick and stepping on the brake."
                   },
                   {
-                    "heading": "Elektro",
+                    "heading": "Electric car",
                     "photo": "...",
-                    "text": "Nastartuješ pomocí tlačítka před řadicí pákou se sešlápnutou brzdou. Zvukový signál a upozornění na přístrojové desce Ti řeknou, že je auto připraveno. Na řadicí páce nalezneš jízdní režimy jako u automatu - D, R, N, P, a také B - nejvyšší stupeň rekuperace. Pro podrobnější informace o obsluze elektromobilu #uniqway si přečti příručku k vozu."
+                    "text": "Start the car by stepping on the brake and pressing the button located in front of a gear stick. You will be notified by an audio signal and information on the dashboard when the car is ready. There are the same driving modes as on the automatic transmission - D, R, N, P and also B - the highest level of recuperation. For more detailed information about #uniqway electric car read our user's manual."
                   },
                   {
-                    "heading": "Světla, klima!",
+                    "heading": "Lights, action, music, air-conditioning!",
                     "photo": "...",
-                    "text": "Zkontroluj světla a případně je zapni (nejlepší je nechat režim AUTO). Nastav si klimatizaci nebo topení. V zimě si zapni vyhřívání sedadel a zrcátek. Připoj si telefon, pusť si hudbu a zapni navigaci. V autech jsou k dispozici i nabíjecí kabely."
+                    "text": "Check if lights are turned on (we recommend choosing the “AUTO” position on a selector). Turn on air conditioning or heating. In winter, turn on seat heating and mirrors heating. Connect your phone, play music and set up a navigation. You can charge your phone during your ride - all of our cars are equipped with charging cables."
                   },
                   {
-                    "heading": "Tankování?",
+                    "heading": "Refueling?",
                     "photo": "...",
-                    "text": "Žádná věda! Když bude potřeba natankovat, zastav na čerpací stanici, natankuj Natural 95 a zaplať kartou CCS, kterou najdeš u dokladů v přihrádce spolujezdce. PIN se Ti po rezervaci auta objeví v aplikaci v sekci Informace o vozidle."
+                    "text": "It's not rocket science. Turn into the petrol station, refuel with Natural 95 petrol and pay with a CSS card, which is a part of vehicle papers. You can find the PIN in the app in the section “About the car” after a successful reservation."
                   },
                   {
-                    "heading": "Nabíjení?",
+                    "heading": "Charging?",
                     "photo": "...",
-                    "text": "Elektrická CITIGOe iV je potřeba nabíjet. K tomuto účelu najdeš nabíjecí čipy ke stanicím ČEZ a PRE v přihrádce spolujezdce. Auto odemkni tlačítkem na řidičových dveřích, jdi k víčku “nádrže”, vyjmi krytky zásuvky a poté postupuj dle pokynů dobíjecí stanice. Můžeš nabíjet na AC (pomalu - pouze horní zásuvka) i DC (rychle - budou použity obě zásuvky)."
+                    "text": "It's needed to charge our electric CITIGIOe iV. You can find charging chips for ČEZ and PRE charging stations in a glove compartment. Unlock the charging socket with a button on the driver´s doors and follow the charging station´s instructions. You can choose to charge slowly(AC - only upper socket) or DC (both upper and bottom sockets)."
                   }
                 ],
                 "video": "..."
               },
               {
-                "name": "End of ride",
+                "name": "Finishing the ride",
                 "icon": "...",
                 "medailons": [
                   {
-                    "heading": "Zaparkuj v zóně",
+                    "heading": "Park in the Uniqway zone",
                     "photo": "...",
-                    "text": "Pro ukončení jízdy je potřeba zaparkovat v některé z našich Uniqway zón. Jsou to ty zeleně označené zóny na mapě v aplikaci. Uniqway tlačítko v autě se v zóně rozsvítí zeleně. Dávej pozor, abys nezaparkoval na místě, kde je zastavení či stání omezeno nebo zakázáno."
+                    "text": "It's required to park in one of our Uniqway zones to finish your ride. These green zones are visible on the map in our mobile app or on the website. When you see the Uniqway button lighting green, it means that you are in this area. When you want to return the car, it can't be in the place where stopping and parking is restricted or forbidden."
                   },
                   {
-                    "heading": "Zkontroluj auto",
+                    "heading": "Check the car",
                     "photo": "...",
-                    "text": "Opět zkontroluj auto a jestli přibyly během cesty nějaké šrámy, nahlas to na Infolinku. V případě znečištění auto umyj a když je potřeba dotankovat, tak ho, prosím, natankuj. Myčku a tankování zaplatíš CCS kartou ve voze."
+                    "text": "Please, check the condition of the car again and report any apparent damages on our hotline. In case of a fouled car, wash it. If needed, please refuel it. Pay for car wash or refueling with a CSS card located in the car."
                   },
                   {
-                    "heading": "Ukonči rezervaci",
+                    "heading": "Finish the reservation",
                     "photo": "...",
-                    "text": "Pro ukončení jízdy je potřeba zaparkovat v některé z našich Uniqway zón. Jsou to ty zeleně označené zóny na mapě v aplikaci. Uniqway tlačítko v autě se v zóně rozsvítí zeleně. Dávej pozor, abys nezaparkoval na místě, kde je zastavení či stání omezeno nebo zakázáno."
+                    "text": "Lock the car and return it in the app using the “return the car” button. You will receive an invoice via email thereafter. The price of reservation will be charged from your card. If you forget something in the car, call our hotline."
                   }
                 ],
                 "video": "..."
@@ -1808,45 +1808,45 @@
             "scroll": "#emergency",
             "subsections": [
               {
-                "name": "Defect",
+                "name": "Puncture",
                 "icon": "...",
                 "medailons": [
                   {
-                    "heading": "Zastav vozidlo",
+                    "heading": "Pull to a stop",
                     "photo": "...",
-                    "text": "V případě defektu odstav vozidlo tak, aby co nejméně překáželo provozu a byla zachována bezpečnost všech účastníků provozu."
+                    "text": "In case of a puncture, make sure that the car is parked in an appropriate location so the traffic isn´t limited."
                   },
                   {
-                    "heading": "Zabezpeč situaci",
+                    "heading": "Stay safe",
                     "photo": "...",
-                    "text": "Nasaď si vestu a označ místo výstražným trojúhelníkem (v kufru vozidla). Při pohybu mimo vozidlo dávej pozor také na okolní provoz."
+                    "text": "Turn on hazard warning lights, put on a high-visibility vest, and place a warning triangle behind a car (at least 50 meters on a road, 100 meters on a motorway)."
                   },
                   {
-                    "heading": "Zavolej Infolinku",
+                    "heading": "Call hotline",
                     "photo": "...",
-                    "text": "Zavolej na Infolinku a postupuj dle pokynů ambasadorů. Telefonní číslo je 222 266 244."
+                    "text": "Call our hotline +420 222 266 244 and follow the provided instructions."
                   }
                 ],
                 "video": "..."
               },
               {
-                "name": "Accident",
+                "name": "Traffic accident",
                 "icon": "...",
                 "medailons": [
                   {
-                    "heading": "První pomoc",
+                    "heading": "First aid",
                     "photo": "...",
-                    "text": "V případě nehody, při které došlo ke zranění, zavolej nejdříve policii a záchranáře, a poté poskytni první pomoc dle instrukcí IZS. Lékárničku najdeš v kufru auta."
+                    "text": "In case of injuries, call a police, an ambulance and give first aid. A first-aid kit is located in a green bag in a trunk."
                   },
                   {
-                    "heading": "Zabezpeč místo",
+                    "heading": "Stay safe",
                     "photo": "...",
-                    "text": "Po zajištění bezpečí osob si obleč reflexní vestu a zabezpeč místo nehody za posledním vozidlem výstražným trojúhelníkem (nejméně 50 m na silnici, 100 m na dálnici)."
+                    "text": "Turn on hazard warning lights, put on a high-visibility vest, and place a warning triangle behind a car (at least 50 meters on a road, 100 meters on a motorway)."
                   },
                   {
-                    "heading": "Zavolej Infolinku",
+                    "heading": "Call hotline",
                     "photo": "...",
-                    "text": "Jakmile budou zranění mimo nebezpečí, zavolej na Infolinku Uniqway, kde Ti poradí, jak postupovat dále."
+                    "text": "After everyone is safe call our hotline +420 222 266 244 and follow the provided instructions."
                   }
                 ],
                 "video": "..."
