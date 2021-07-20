@@ -45,8 +45,8 @@
           "scroll": "#cena"
         },
         {
-          "label": "Kontakt",
-          "scroll": "#contacts"
+          "label": "Kalkulačka",
+          "link": "calculator"
         },
         {
           "label": "O nás",
@@ -67,8 +67,8 @@
           ]
         },
         {
-          "label": "Kalkulačka",
-          "link": "calculator"
+          "label": "Kontakt",
+          "scroll": "#contacts"
         }
       ]
     },
@@ -993,8 +993,8 @@
           "scroll": "#cena"
         },
         {
-          "label": "Contact",
-          "scroll": "#contacts"
+          "label": "Calculator",
+          "link": "calculator"
         },
         {
           "label": "About",
@@ -1015,8 +1015,8 @@
           ]
         },
         {
-          "label": "Calculator",
-          "link": "calculator"
+          "label": "Contact",
+          "scroll": "#contacts"
         }
       ]
     },
