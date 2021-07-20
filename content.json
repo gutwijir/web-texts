@@ -38,7 +38,7 @@
       "entries": [
         {
           "label": "Jak to funguje?",
-          "scroll": "#jak_to_funguje"
+          "link": "how-does-it-work"
         },
         {
           "label": "Cena",
