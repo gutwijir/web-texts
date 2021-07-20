@@ -986,7 +986,7 @@
       "entries": [
         {
           "label": "How does it work?",
-          "scroll": "#jak_to_funguje"
+          "link": "how-does-it-work"
         },
         {
           "label": "Pricing",
