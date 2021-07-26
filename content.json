@@ -195,15 +195,15 @@
             "options": "V aplikaci Uniqway máš možnost:",
             "screenImages": [
               {
-                "path": "car1.png",
+                "path": "car1.webp",
                 "alt": "Snímek obrazovky mobilní aplikace Uniqway zachycující mapu vozidel dostupných k zapůjčení."
               },
               {
-                "path": "car2.png",
+                "path": "car2.webp",
                 "alt": "Snímek obrazovky mobilní aplikace Uniqway zachycující uživatelskou historii jízd v rámci služby (Data a časy počátku a ukončení jízd, použitá vozidla, konečné částky)."
               },
               {
-                "path": "car3.png",
+                "path": "car3.webp",
                 "alt": "Snímek obrazovky mobilní aplikace Uniqway zachycující informace, které jsou v aplikaci dostupné (Krizové situace, asistenční linka, výbava vozidla, komunikační kanály, kontaktní místa, o aplikaci)."
               }
             ]
@@ -225,7 +225,7 @@
                 "id": "1",
                 "carTitle": "ŠKODA FABIA",
                 "shortTitle": "FABIA",
-                "img": "fabia_profil.png",
+                "img": "fabia.png",
                 "minutePriceDriving": "2,99",
                 "minutePriceParking": "1,49",
                 "freeMinutes": "80",
@@ -236,7 +236,7 @@
                 "id": "2",
                 "carTitle": "ŠKODA SCALA",
                 "shortTitle": "SCALA",
-                "img": "scala_profil.png",
+                "img": "scala.png",
                 "minutePriceDriving": "3,99",
                 "minutePriceParking": "1,49",
                 "freeMinutes": "80",
