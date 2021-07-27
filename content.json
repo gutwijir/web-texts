@@ -187,7 +187,7 @@
               },
               {
                 "heading": "Mít přehled o naší službě a novinkách",
-                "paragraph": "Zavolej na naší hotline. Zjisti, co můžeš dělat v případě nehody. Přečti si novinky o Uniqway."
+                "paragraph": "Zavolej na naší infolinku. Zjisti, co můžeš dělat v případě nehody. Přečti si novinky o Uniqway."
               }
             ],
             "heading": "Mobilní aplikace",
@@ -711,17 +711,17 @@
                   {
                     "heading": "Zaregistruj se",
                     "photo": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/01_uvod/01_registrace/01_uvod_PC.png",
-                    "text": "Vyplň si online registrační formulář. Potřebuješ k tomu občanský a řidičský průkaz + kartu studenta."
+                    "text": "Vyplň si online <a class=\"registration-link\" href=\"registrace\">registrační formulář</a>. Potřebuješ k tomu občanský a řidičský průkaz + kartu studenta."
                   },
                   {
                     "heading": "Aktivuj účet",
                     "photo": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/01_uvod/01_registrace/02_uvod_PC.png",
-                    "text": "Po registraci vyplň aktivační formulář. Tam nahraješ fotografie dokladů a jakmile je zkontrolujeme, aktivujeme Ti účet (zhruba do 48 hodin)."
+                    "text": "Po registraci vyplň <a class=\"activation-link\" href=\"verification\">aktivační formulář</a>. Tam nahraješ fotografie dokladů a jakmile je zkontrolujeme, aktivujeme Ti účet (zhruba do 48 hodin)."
                   },
                   {
                     "heading": "Stáhni appku",
                     "photo": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/01_uvod/01_registrace/03_uvod_PC.png",
-                    "text": "Stáhni si aplikaci Uniqway na Google Play nebo App Store, vytvoř si heslo, přidej platební kartu, zarezervuj si auto a můžeš vyrazit na své cesty!"
+                    "text": "Stáhni si aplikaci Uniqway na <a href=\"https://play.google.com/store/apps/details?id=cz.uniqway.uniqway\">Google Play</a> nebo <a href=\"https://itunes.apple.com/cz/app/uniqway/id1444585149?mt=8\">App Store</a>, vytvoř si heslo, přidej platební kartu, zarezervuj si auto a můžeš vyrazit na své cesty!"
                   }
                 ],
                 "video": "https://www.youtube.com/watch?v=uz8v9fCifRc"
@@ -1155,7 +1155,7 @@
               },
               {
                 "heading": "Keep up with our service and the news",
-                "paragraph": "Call our hotline. Learn what to do in case of an accident. Read the news about Uniqway."
+                "paragraph": "Call our Infoline. Learn what to do in case of an accident. Read the news about Uniqway."
               }
             ],
             "heading": "Mobile application",
@@ -1679,17 +1679,17 @@
                   {
                     "heading": "Register",
                     "photo": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/01_uvod/01_registrace/01_uvod_PC.png",
-                    "text": "Fill out an online registration form. You need an ID card, a driver´s license, and a student card."
+                    "text": "Fill out an online <a class=\"registration-link\" href=\"registrace\">registration form</a>. You need an ID card, a driver´s license, and a student card."
                   },
                   {
                     "heading": "Verify",
                     "photo": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/01_uvod/01_registrace/02_uvod_PC.png",
-                    "text": "Once registered, fill out an activation form. Upload all your identity documents. Afterward, we will verify them and activate your account (this should not take more than 48 hours)."
+                    "text": "Once registered, fill out an <a class=\"activation-link\" href=\"verification\">activation form</a>. Upload all your identity documents. Afterward, we will verify them and activate your account (this should not take more than 48 hours)."
                   },
                   {
                     "heading": "Download the app",
                     "photo": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/01_uvod/01_registrace/03_uvod_PC.png",
-                    "text": "Download the app from App Store or Google Play, set up a password, add a payment card, make your first reservation and you are ready to go!"
+                    "text": "Download the app from <a href=\"https://itunes.apple.com/cz/app/uniqway/id1444585149?mt=8\">App Store</a> or <a href=\"https://play.google.com/store/apps/details?id=cz.uniqway.uniqway\">Google Play</a>, set up a password, add a payment card, make your first reservation and you are ready to go!"
                   }
                 ],
                 "video": "https://www.youtube.com/watch?v=uz8v9fCifRc"
@@ -1756,12 +1756,12 @@
                   {
                     "heading": "Check",
                     "photo": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/02_jizda/01_pred_jizdou/02_pred_jizdou_PC.png",
-                    "text": "After reserving the car, you have 15 minutes free of charge to pick up and check it. It is important to check the car's condition - pay attention to any damages on the coachwork and tires. If you find any, contact our hotline 222 266 244."
+                    "text": "After reserving the car, you have 15 minutes free of charge to pick up and check it. It is important to check the car's condition - pay attention to any damages on the coachwork and tires. If you find any, contact our Infoline 222 266 244."
                   },
                   {
                     "heading": "Unlock",
                     "photo": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/02_jizda/01_pred_jizdou/03_pred_jizdou_PC.png",
-                    "text": "For unlocking the car you need to click on the “unlock” button and scan your student card with a card reader. The card reader is placed behind the widescreen. Afterward, check the cleanliness inside the car and the presence of all entrance cards(VŠE, ČVUT). In case of finding any damages immediately call our hotline. Don´t forget to adjust your seat and car mirrors."
+                    "text": "For unlocking the car you need to click on the “unlock” button and scan your student card with a card reader. The card reader is placed behind the widescreen. Afterward, check the cleanliness inside the car and the presence of all entrance cards(VŠE, ČVUT). In case of finding any damages immediately call our Infoline. Don´t forget to adjust your seat and car mirrors."
                   }
                 ],
                 "video": "https://www.youtube.com/watch?v=AeMXgSexiS0"
@@ -1815,12 +1815,12 @@
                   {
                     "heading": "Check the car",
                     "photo": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/02_jizda/03_ukonceni_jizdy/02_ukonceni_PC.png",
-                    "text": "Please, check the condition of the car again and report any apparent damages on our hotline. In case of a fouled car, wash it. If needed, please refuel it. Pay for car wash or refueling with a CSS card located in the car."
+                    "text": "Please, check the condition of the car again and report any apparent damages on our Infoline. In case of a fouled car, wash it. If needed, please refuel it. Pay for car wash or refueling with a CSS card located in the car."
                   },
                   {
                     "heading": "Finish the reservation",
                     "photo": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/02_jizda/03_ukonceni_jizdy/03_ukonceni_PC.png",
-                    "text": "Lock the car and return it in the app using the “return the car” button. You will receive an invoice via email thereafter. The price of reservation will be charged from your card. If you forget something in the car, call our hotline."
+                    "text": "Lock the car and return it in the app using the “return the car” button. You will receive an invoice via email thereafter. The price of reservation will be charged from your card. If you forget something in the car, call our Infoline."
                   }
                 ],
                 "video": "https://www.youtube.com/watch?v=xmLULLhwvfM"
@@ -1846,9 +1846,9 @@
                     "text": "Turn on hazard warning lights, put on a high-visibility vest, and place a warning triangle behind a car (at least 50 meters on a road, 100 meters on a motorway)."
                   },
                   {
-                    "heading": "Call hotline",
+                    "heading": "Call Infoline",
                     "photo": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/03_nouze/01_Defekt/03_defekt_PC.png",
-                    "text": "Call our hotline +420 222 266 244 and follow the provided instructions."
+                    "text": "Call our Infoline +420 222 266 244 and follow the provided instructions."
                   }
                 ],
                 "video": "https://www.youtube.com/watch?v=xqOnkwOqnG8"
@@ -1868,9 +1868,9 @@
                     "text": "Turn on hazard warning lights, put on a high-visibility vest, and place a warning triangle behind a car (at least 50 meters on a road, 100 meters on a motorway)."
                   },
                   {
-                    "heading": "Call hotline",
+                    "heading": "Call Infoline",
                     "photo": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/03_nouze/02_Nehoda/03_nehoda_PC.png",
-                    "text": "After everyone is safe call our hotline +420 222 266 244 and follow the provided instructions."
+                    "text": "After everyone is safe call our Infoline +420 222 266 244 and follow the provided instructions."
                   }
                 ],
                 "video": "https://www.youtube.com/watch?v=xqOnkwOqnG8"
