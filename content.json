@@ -709,7 +709,7 @@
                   {
                     "heading": "Stáhni appku",
                     "photo": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/01_uvod/01_registrace/03_uvod_PC.png",
-                    "text": "Stáhni si aplikaci Uniqway na Google Play nebo App Store, vytvoř si heslo, přidej platební kartu, zarezervuj si auto a můžeš vyrazit na své cesty!"
+                    "text": "Stáhni si aplikaci Uniqway na <a href=\"https://play.google.com/store/apps/details?id=cz.uniqway.uniqway\">Google Play</a> nebo <a href=\"https://itunes.apple.com/cz/app/uniqway/id1444585149?mt=8\">App Store</a>, vytvoř si heslo, přidej platební kartu, zarezervuj si auto a můžeš vyrazit na své cesty!"
                   }
                 ],
                 "video": "https://www.youtube.com/watch?v=uz8v9fCifRc"
@@ -1665,7 +1665,7 @@
                   {
                     "heading": "Download the app",
                     "photo": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/01_uvod/01_registrace/03_uvod_PC.png",
-                    "text": "Download the app from App Store or Google Play, set up a password, add a payment card, make your first reservation and you are ready to go!"
+                    "text": "Download the app from <a href=\"https://itunes.apple.com/cz/app/uniqway/id1444585149?mt=8\">App Store</a> or <a href=\"https://play.google.com/store/apps/details?id=cz.uniqway.uniqway\">Google Play</a>, set up a password, add a payment card, make your first reservation and you are ready to go!"
                   }
                 ],
                 "video": "https://www.youtube.com/watch?v=uz8v9fCifRc"
