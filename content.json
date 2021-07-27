@@ -212,6 +212,18 @@
             "cars": [
               {
                 "id": "0",
+                "carTitle": "ŠKODA ENYAQ iV",
+                "shortTitle": "ENYAQ iV",
+                "img": "enyaq.png",
+                "minutePriceDriving": "5,99",
+                "minutePriceParking": "2,99",
+                "freeMinutes": "20",
+                "perKilometer": "4,90",
+                "dayMax": "1290",
+                "newLabel": true
+              },
+              {
+                "id": "0",
                 "carTitle": "ŠKODA CITIGOᵉ iV",
                 "shortTitle": "CITIGOᵉ iV",
                 "img": "citigo.png",
@@ -1151,21 +1163,33 @@
             "options": "With Uniqway app you are able to:",
             "screenImages": [
               {
-                "path": "car1.png",
+                "path": "car1.webp",
                 "alt": "Screenshot of Uniqway mobile application containing map of vehicles available for rent."
               },
               {
-                "path": "car2.png",
+                "path": "car2.webp",
                 "alt": "Screenshot of Uniqway mobile application containing personal history of rides within Uniqway. (Times of starts and ends of rides, used vehicles, final prices)."
               },
               {
-                "path": "car3.png",
+                "path": "car3.webp",
                 "alt": "Screenshot of Uniqway mobile application containing information available in the appliaction. (Crisis situations, helpline, vehicle equipment, communication channels, contact places, about the application)."
               }
             ]
           },
           "pricing": {
             "cars": [
+              {
+                "id": "0",
+                "carTitle": "ŠKODA ENYAQ iV",
+                "shortTitle": "ENYAQ iV",
+                "img": "enyaq.png",
+                "minutePriceDriving": "5,99",
+                "minutePriceParking": "2,99",
+                "freeMinutes": "20",
+                "perKilometer": "4,90",
+                "dayMax": "1290",
+                "newLabel": true
+              },
               {
                 "id": "0",
                 "carTitle": "ŠKODA CITIGOᵉ iV",
@@ -1181,7 +1205,7 @@
                 "id": "1",
                 "carTitle": "ŠKODA FABIA",
                 "shortTitle": "FABIA",
-                "img": "fabia_profil.png",
+                "img": "fabia.png",
                 "minutePriceDriving": "2,99",
                 "minutePriceParking": "1,49",
                 "freeMinutes": "80",
@@ -1192,7 +1216,7 @@
                 "id": "2",
                 "carTitle": "ŠKODA SCALA",
                 "shortTitle": "SCALA",
-                "img": "scala_profil.png",
+                "img": "scala.png",
                 "minutePriceDriving": "3,99",
                 "minutePriceParking": "1,49",
                 "freeMinutes": "80",
