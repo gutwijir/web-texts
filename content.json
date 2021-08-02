@@ -788,7 +788,7 @@
                   {
                     "heading": "Zkontroluj",
                     "photo": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/02_jizda/01_pred_jizdou/02_pred_jizdou_PC.png",
-                    "text": "Po rezervaci auta máš 15 minut zdarma na jeho vyzvednutí a zběžnou kontrolu. Než do auta nasedneš, je důležité si ho zkontrolovat. Dívej se po případném poškození karoserie, pneumatik a kol, škrábancích a promáčklinách, to vše nám případně nahlas na Infolinku 222 266 244."
+                    "text": "Po rezervaci auta máš 15 minut zdarma na jeho vyzvednutí a zběžnou kontrolu. Než do auta nasedneš, je důležité si ho zkontrolovat. Dívej se po případném poškození karoserie, pneumatik a kol, škrábancích a promáčklinách, to vše nám případně nahlas na Infolinku <a href=\"tel:+420222266244\">222 266 244</a>."
                   },
                   {
                     "heading": "Odemkni",
@@ -1756,7 +1756,7 @@
                   {
                     "heading": "Check",
                     "photo": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/02_jizda/01_pred_jizdou/02_pred_jizdou_PC.png",
-                    "text": "After reserving the car, you have 15 minutes free of charge to pick up and check it. It is important to check the car's condition - pay attention to any damages on the coachwork and tires. If you find any, contact our Infoline 222 266 244."
+                    "text": "After reserving the car, you have 15 minutes free of charge to pick up and check it. It is important to check the car's condition - pay attention to any damages on the coachwork and tires. If you find any, contact our Infoline <a href=\"tel:+420222266244\">222 266 244</a>."
                   },
                   {
                     "heading": "Unlock",
