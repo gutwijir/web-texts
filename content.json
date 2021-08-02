@@ -880,7 +880,7 @@
                   {
                     "heading": "Zavolej Infolinku",
                     "photo": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/03_nouze/01_Defekt/03_defekt_PC.png",
-                    "text": "Zavolej na Infolinku a postupuj dle pokynů ambasadorů. Telefonní číslo je 222 266 244."
+                    "text": "Zavolej na Infolinku a postupuj dle pokynů ambasadorů. Telefonní číslo je <a href=\"tel:+420222266244\">222 266 244</a>."
                   }
                 ],
                 "video": "https://www.youtube.com/watch?v=xqOnkwOqnG8"
@@ -1848,7 +1848,7 @@
                   {
                     "heading": "Call Infoline",
                     "photo": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/03_nouze/01_Defekt/03_defekt_PC.png",
-                    "text": "Call our Infoline +420 222 266 244 and follow the provided instructions."
+                    "text": "Call our Infoline <a href=\"tel:+420222266244\">+420 222 266 244</a> and follow the provided instructions."
                   }
                 ],
                 "video": "https://www.youtube.com/watch?v=xqOnkwOqnG8"
@@ -1870,7 +1870,7 @@
                   {
                     "heading": "Call Infoline",
                     "photo": "https://uniqway-assets.s3.eu-west-1.amazonaws.com/HowDoesItWork/03_nouze/02_Nehoda/03_nehoda_PC.png",
-                    "text": "After everyone is safe call our Infoline +420 222 266 244 and follow the provided instructions."
+                    "text": "After everyone is safe call our Infoline <a href=\"tel:+420222266244\">+420 222 266 244</a> and follow the provided instructions."
                   }
                 ],
                 "video": "https://www.youtube.com/watch?v=xqOnkwOqnG8"
