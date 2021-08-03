@@ -223,7 +223,7 @@
                 "newLabel": true
               },
               {
-                "id": "0",
+                "id": "1",
                 "carTitle": "ŠKODA CITIGOᵉ iV",
                 "shortTitle": "CITIGOᵉ iV",
                 "img": "citigo.png",
@@ -234,7 +234,7 @@
                 "dayMax": "890"
               },
               {
-                "id": "1",
+                "id": "2",
                 "carTitle": "ŠKODA FABIA",
                 "shortTitle": "FABIA",
                 "img": "fabia.png",
@@ -245,7 +245,7 @@
                 "dayMax": "890"
               },
               {
-                "id": "2",
+                "id": "3",
                 "carTitle": "ŠKODA SCALA",
                 "shortTitle": "SCALA",
                 "img": "scala.png",
