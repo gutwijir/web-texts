@@ -171,6 +171,11 @@
                 "question": "Co je minimální cena rezervace?",
                 "answer": "Minimální cena každé rezervace je stanovena na 99 Kč. Při rezervaci kratší, kde by cena výpůjčky nepřesáhla 99 Kč Ti bude zaúčtována cena 99 Kč. Při rezervaci delší se bude počítat klasicky dle platného ceníku.",
                 "id": "faq-minimal-price"
+              },
+              {
+                "question": "Jsem absolventem ČVUT, ČZU, VŠE nebo ŠAVŠ, mohu Uniqway využívat?",
+                "answer": "Ano, otevřeli jsme službu absolventům partnerských univerzit Uniqway.",
+                "id": "faq-graduate"
               }
             ],
             "heading": "FAQ"
@@ -1131,6 +1136,11 @@
                 "question": "What is the minimum price of reservation?",
                 "answer": "The minimum price of each reservation is set at 99 CZK. Shorter reservation, where the price would not exceed 99 CZK, will be charged with the price of 99 CZK. Price for longer reservation will be calculated according to the valid price list.",
                 "id": "faq-minimal-price"
+              },
+              {
+                "question": "I am a graduate of CTU, CULS, VŠE or ŠAVŠ, can I ride with Uniqway?",
+                "answer": "Yes, we have opened our service for graduates of Uniqway partner universities.",
+                "id": "faq-graduate"
               }
             ],
             "heading": "FAQ"
