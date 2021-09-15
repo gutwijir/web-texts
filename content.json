@@ -296,6 +296,12 @@
                 "title": "Software",
                 "members": [
                   {
+                    "photo": "ČVUT_Severa.png",
+                    "name": "Štěpán Severa",
+                    "role": "Vedoucí technického týmu",
+                    "description": "K Uniqway jsem se připojil v létě 2018 a od té doby jsem prošel řadou různých pozic - přes Android, web a backend jsem se dostal až na pozici vedoucího technického týmu Uniqway. Nyní se převážně věnuji koordinaci technického týmu a komunikaci s ostatními týmy. Volný čas trávím cyklistikou a lukostřelbou."
+                  },
+                  {
                     "photo": "ČVUT_Šidlovský.png",
                     "name": "Marko Šidlovský",
                     "role": "Koordinátor projektu",
@@ -306,12 +312,6 @@
                     "name": "Filip Ravas",
                     "role": "Správce backendu",
                     "description": "V prvních fázích projektu jsem zodpovídal za infrastrukturu a vývoj mobilní aplikace. Tu jsem přenechal novým členům a kromě infrastruktury se soustředím na backend naší služby."
-                  },
-                  {
-                    "photo": "ČVUT_Severa.png",
-                    "name": "Štěpán Severa",
-                    "role": "Vedoucí technického týmu",
-                    "description": "K Uniqway jsem se připojil v létě 2018 a od té doby jsem prošel řadou různých pozic - přes Android, web a backend jsem se dostal až na pozici vedoucího technického týmu Uniqway. Nyní se převážně věnuji koordinaci technického týmu a komunikaci s ostatními týmy. Volný čas trávím cyklistikou a lukostřelbou."
                   },
                   {
                     "photo": "ČVUT_Bondarev.png",
@@ -1269,6 +1269,12 @@
                 "title": "Software",
                 "members": [
                   {
+                    "photo": "ČVUT_Severa.png",
+                    "name": "Štěpán Severa",
+                    "role": "Tech team leader",
+                    "description": "I joined Uniqway in the summer of 2018 and since then I have experienced many different positions - from Android, web and backend developer I have become the tech team leader. Presently, I mostly engage in coordinating the tech team and communicating with other teams. In my free time, I ride a bike and practice archery."
+                  },
+                  {
                     "photo": "ČVUT_Šidlovský.png",
                     "name": "Marko Šidlovský",
                     "role": "Project coordinator",
@@ -1279,12 +1285,6 @@
                     "name": "Filip Ravas",
                     "role": "Backend administrator",
                     "description": "In the first stages of the project, I was responsible for the infrastructure and the development of a mobile app. I have yielded the app to the new members. Now I concentrate on the infrastructure and backend of our service."
-                  },
-                  {
-                    "photo": "ČVUT_Severa.png",
-                    "name": "Štěpán Severa",
-                    "role": "Tech team leader",
-                    "description": "I joined Uniqway in the summer of 2018 and since then I have experienced many different positions - from Android, web and backend developer I have become the tech team leader. Presently, I mostly engage in coordinating the tech team and communicating with other teams. In my free time, I ride a bike and practice archery."
                   },
                   {
                     "photo": "ČVUT_Bondarev.png",
