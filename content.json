@@ -308,12 +308,6 @@
                     "description": "V prvních fázích projektu jsem zodpovídal za infrastrukturu a vývoj mobilní aplikace. Tu jsem přenechal novým členům a kromě infrastruktury se soustředím na backend naší služby."
                   },
                   {
-                    "photo": "ČVUT_Osvald.png",
-                    "name": "Rostislav Osvald",
-                    "role": "Vývojář Android aplikace",
-                    "description": "Součástí Uniqway jsem se stal na konci léta 2018. Jsem zapojen do vývoje Android aplikace, což mi nejen přináší osobní i profesní růst, ale také mě velmi baví. Uniqway je pro mě zajímavý projekt s ještě zajímavějšími lidmi."
-                  },
-                  {
                     "photo": "ČVUT_Severa.png",
                     "name": "Štěpán Severa",
                     "role": "Vedoucí technického týmu",
@@ -382,6 +376,12 @@
                     "name": "Jakub Jun",
                     "role": "Vývojář webového frontendu",
                     "linkedin": "https://www.linkedin.com/in/jakubjun/"
+                  },
+                  {
+                    "photo": "ČVUT_Osvald.png",
+                    "name": "Rostislav Osvald",
+                    "role": "Vývojář Android aplikace",
+                    "linkedin": "https://www.linkedin.com/in/rostislav-osvald-082854183/"
                   }
                 ]
               }
@@ -1281,12 +1281,6 @@
                     "description": "In the first stages of the project, I was responsible for the infrastructure and the development of a mobile app. I have yielded the app to the new members. Now I concentrate on the infrastructure and backend of our service."
                   },
                   {
-                    "photo": "ČVUT_Osvald.png",
-                    "name": "Rostislav Osvald",
-                    "role": "Android developer",
-                    "description": "I am a member of Uniqway team since summer 2018. I am involved in the development of the Android app, which brings me personal and career growth, but most importantly, I enjoy it a lot. I find Uniqway as an exciting project with great people."
-                  },
-                  {
                     "photo": "ČVUT_Severa.png",
                     "name": "Štěpán Severa",
                     "role": "Tech team leader",
@@ -1355,6 +1349,12 @@
                     "name": "Jakub Jun",
                     "role": "Web frontend developer",
                     "linkedin": "https://www.linkedin.com/in/jakubjun/"
+                  },
+                  {
+                    "photo": "ČVUT_Osvald.png",
+                    "name": "Rostislav Osvald",
+                    "role": "Android developer",
+                    "linkedin": "https://www.linkedin.com/in/rostislav-osvald-082854183/"
                   }
                 ]
               }
