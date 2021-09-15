@@ -308,12 +308,6 @@
                     "description": "V prvních fázích projektu jsem zodpovídal za infrastrukturu a vývoj mobilní aplikace. Tu jsem přenechal novým členům a kromě infrastruktury se soustředím na backend naší služby."
                   },
                   {
-                    "photo": "ČVUT_Jun.png",
-                    "name": "Jakub Jun",
-                    "role": "Vývojář webového frontendu",
-                    "description": "K Uniqway jsem se připojil na začátku roku 2019, jsem tedy naprostý nováček. Na starosti mám programování tváře webu Uniqway.cz. Mezi mé koníčky patří fitness a rekreační volejbal s přáteli."
-                  },
-                  {
                     "photo": "ČVUT_Osvald.png",
                     "name": "Rostislav Osvald",
                     "role": "Vývojář Android aplikace",
@@ -382,6 +376,12 @@
                     "name": "Michal Černý",
                     "role": "Vývojář iOS aplikace",
                     "linkedin": "https://www.linkedin.com/in/cernymihal/"
+                  },
+                  {
+                    "photo": "ČVUT_Jun.png",
+                    "name": "Jakub Jun",
+                    "role": "Vývojář webového frontendu",
+                    "linkedin": "https://www.linkedin.com/in/jakubjun/"
                   }
                 ]
               }
@@ -1281,12 +1281,6 @@
                     "description": "In the first stages of the project, I was responsible for the infrastructure and the development of a mobile app. I have yielded the app to the new members. Now I concentrate on the infrastructure and backend of our service."
                   },
                   {
-                    "photo": "ČVUT_Jun.png",
-                    "name": "Jakub Jun",
-                    "role": "Web frontend developer",
-                    "description": "I have joined Uniqway at the beginning of 2019, so I am still quite new. I am in charge of programming the face of web Uniqway.cz. My hobbies are fitness and volleyball with my friends."
-                  },
-                  {
                     "photo": "ČVUT_Osvald.png",
                     "name": "Rostislav Osvald",
                     "role": "Android developer",
@@ -1355,6 +1349,12 @@
                     "name": "Michal Černý",
                     "role": "iOS developer",
                     "linkedin": "https://www.linkedin.com/in/cernymihal/"
+                  },
+                  {
+                    "photo": "ČVUT_Jun.png",
+                    "name": "Jakub Jun",
+                    "role": "Web frontend developer",
+                    "linkedin": "https://www.linkedin.com/in/jakubjun/"
                   }
                 ]
               }
