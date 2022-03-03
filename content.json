@@ -2,15 +2,15 @@
   "cs": {
     "documents": {
       "priceList": {
-        "link": "/legal/cenik/Cenik_update_Enyaq.pdf",
+        "link": "/legal/cenik/price_list_cs.pdf",
         "label": ""
       },
       "dataProcessing": {
-        "link": "/legal/data/UNIQWAY_IOZOU_2021-08-23_FINAL_CZ.pdf",
+        "link": "/legal/data/uniqway_privacy_policy_cs.pdf",
         "label": "Informace o zpracování osobních údajů"
       },
       "termsAndConditions": {
-        "link": "/legal/vop/UNIQWAY_VOP_2021-08-23_ALUMNI_FINAL.pdf",
+        "link": "/legal/vop/uniqway_vop_cs.pdf",
         "label": "Všeobecné obchodní podmínky"
       },
       "rewardShopGuide": {
@@ -26,7 +26,7 @@
         "label": ""
       },
       "cookiesTerms": {
-        "link": "/legal/Uniqway_cookies_info_20201118_clear.pdf",
+        "link": "/legal/uniqway_cookies_cs.pdf",
         "label": ""
       }
     },
@@ -63,12 +63,12 @@
             {
               "label": "Novinky",
               "link": "news"
+            },
+            {
+              "label": "Kontakt",
+              "scroll": "#contacts"
             }
           ]
-        },
-        {
-          "label": "Kontakt",
-          "scroll": "#contacts"
         }
       ]
     },
@@ -967,15 +967,15 @@
   "en": {
     "documents": {
       "priceList": {
-        "link": "/legal/cenik/ENG_Cenik_update_Enyaq.pdf",
+        "link": "/legal/cenik/price_list_en.pdf",
         "label": ""
       },
       "dataProcessing": {
-        "link": "/legal/data/UNIQWAY_IOZOU_2021-08-23_FINAL_EN.pdf",
+        "link": "/legal/data/uniqway_privacy_policy_en.pdf",
         "label": "Information on personal data processing"
       },
       "termsAndConditions": {
-        "link": "/legal/vop/UNIQWAY_VOP_2021-08-20_EN_ALUMNI_FINAL.pdf",
+        "link": "/legal/vop/uniqway_vop_en.pdf",
         "label": "General terms and conditions"
       },
       "rewardShopGuide": {
@@ -991,7 +991,7 @@
         "label": ""
       },
       "cookiesTerms": {
-        "link": "/legal/Uniqway_Cookies_EN-201116_clear.pdf",
+        "link": "/legal/uniqway_cookies_en.pdf",
         "label": ""
       }
     },
@@ -1028,12 +1028,12 @@
             {
               "label": "News",
               "link": "news"
+            },
+            {
+              "label": "Contact",
+              "scroll": "#contacts"
             }
           ]
-        },
-        {
-          "label": "Contact",
-          "scroll": "#contacts"
         }
       ]
     },
