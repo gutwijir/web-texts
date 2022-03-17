@@ -279,13 +279,13 @@
                 "title": "Hardware",
                 "members": [
                   {
-                    "photo": "ČVUT_Tomlain.png",
+                    "photo": "CVUT_Tomlain.png",
                     "name": "Ján Tomlain",
                     "role": "Profík přes elektroniku",
                     "description": "Na projektu Uniqway intenzivně pracuji od jeho samého počátku. V úvodních fázích jsem se věnoval technickým vizím systému a jeho možným směrováním. V poslední době intenzivně pracujeme v rámci HW skupiny technického týmu na modulech systému pro vozidla. Jsem hlavním návrhářem elektroniky a programového vybavení zařízení pro Uniqway."
                   },
                   {
-                    "photo": "ČVUT_Tereň.png",
+                    "photo": "CVUT_Teren.png",
                     "name": "Ondrej Tereň",
                     "role": "Vizionář vozidel",
                     "description": "Na projektu Uniqway pracujeme od roku 2016. Mojí úlohou je kooperovat v rámci hardwarového týmu na vývoji, výrobě a montáži elektronických modulů pro vozidla umožňujících jim začlenění do systému Uniqway. Ve volném čase se věnuji cyklistice a motorovému létání."
@@ -296,31 +296,31 @@
                 "title": "Software",
                 "members": [
                   {
-                    "photo": "ČVUT_Severa.png",
+                    "photo": "CVUT_Severa.png",
                     "name": "Štěpán Severa",
                     "role": "Vedoucí technického týmu",
                     "description": "K Uniqway jsem se připojil v létě 2018 a od té doby jsem prošel řadou různých pozic - přes Android, web a backend jsem se dostal až na pozici vedoucího technického týmu Uniqway. Nyní se převážně věnuji koordinaci technického týmu a komunikaci s ostatními týmy. Volný čas trávím cyklistikou a lukostřelbou."
                   },
                   {
-                    "photo": "ČVUT_Šidlovský.png",
+                    "photo": "CVUT_Sidlovsky.png",
                     "name": "Marko Šidlovský",
                     "role": "Koordinátor projektu",
                     "description": "V projektu Uniqway jsem vyrůstal v technickém týmu, kde dodnes navrhuji a implementuji webovou správcovskou aplikaci. Aktuálně jsem na pozici studentského CEO, většinu času trávím koordinací spolupráce mezi všemi týmy. Uniqway mi dalo hodně, hlavně profesní zkušenosti, odborné znalosti a partu kamarádů."
                   },
                   {
-                    "photo": "ČVUT_Ravas.png",
+                    "photo": "CVUT_Ravas.png",
                     "name": "Filip Ravas",
                     "role": "Správce backendu",
                     "description": "V prvních fázích projektu jsem zodpovídal za infrastrukturu a vývoj mobilní aplikace. Tu jsem přenechal novým členům a kromě infrastruktury se soustředím na backend naší služby."
                   },
                   {
-                    "photo": "ČVUT_Bondarev.png",
+                    "photo": "CVUT_Bondarev.png",
                     "name": "Nikita Bondarev",
                     "role": "Vývojář Backendu",
                     "description": "V Uniqway se zabývám softwarovou, zejména backendovou, částí. Připojil jsem se k projektu ne tak dávno, hned po prvním ročníku vysoké školy, a doufám, že můj přínos pro něj bude stejně velký, jako je přínos projektu pro mě."
                   },
                   {
-                    "photo": "ČVUT_Hanžlík.png",
+                    "photo": "CVUT_Hanzlik.png",
                     "name": "Aleš Hanžlík",
                     "role": "iOS vývojář",
                     "description": "K týmu jsem se připojil společně s nástupem na vysokou školu. Uniqway je super možnost, jak při studiu ve skvělém kolektivu vytvářet reálnou službu. Jsem zodpovědný za vývoj iOS aplikace. Těším se, kam společně celý projekt posuneme."
@@ -331,7 +331,7 @@
                 "title": "Design",
                 "members": [
                   {
-                    "photo": "ČVUT_Ondroušek.png",
+                    "photo": "CVUT_Ondrousek.png",
                     "name": "David Ondroušek",
                     "role": "Designér",
                     "description": "Do projektu Uniqway jsem se zapojil rok po spuštění služby. A za tu dobu jsem poznal partu super lidí, naučil se hodně nových věcí a zjistil, jak to v praxi vlastně chodí. Jsem součástí týmu designérů, kde pracuji převážně na vzhledu mobilní aplikace a webových stránek. Také se podílím na grafice pro marketing."
@@ -342,43 +342,43 @@
                 "title": "Alumni",
                 "members": [
                   {
-                    "photo": "ČVUT_Horáček.png",
+                    "photo": "CVUT_Horacek.png",
                     "name": "Marek Horáček",
                     "role": "Designér",
                     "linkedin": "https://www.linkedin.com/in/marek-horacek/"
                   },
                   {
-                    "photo": "ČVUT_Hámek.png",
+                    "photo": "CVUT_Hamek.png",
                     "name": "Filip Hámek",
                     "role": "Designér",
                     "linkedin": "https://www.linkedin.com/in/filiphamek90/"
                   },
                   {
-                    "photo": "ČVUT_Vachula.png",
+                    "photo": "CVUT_Vachula.png",
                     "name": "Richard Vachula",
                     "role": "Správce backendu",
                     "linkedin": "https://www.linkedin.com/in/richardvachula/"
                   },
                   {
-                    "photo": "ČVUT_Švec.png",
+                    "photo": "CVUT_Svec.png",
                     "name": "Václav Švec",
                     "role": "Vývojář backendu",
                     "linkedin": "https://www.linkedin.com/in/v%C3%A1clav-%C5%A1vec-781ba695/"
                   },
                   {
-                    "photo": "ČVUT_Černý.png",
+                    "photo": "CVUT_Cerny.png",
                     "name": "Michal Černý",
                     "role": "Vývojář iOS aplikace",
                     "linkedin": "https://www.linkedin.com/in/cernymihal/"
                   },
                   {
-                    "photo": "ČVUT_Jun.png",
+                    "photo": "CVUT_Jun.png",
                     "name": "Jakub Jun",
                     "role": "Vývojář webového frontendu",
                     "linkedin": "https://www.linkedin.com/in/jakubjun/"
                   },
                   {
-                    "photo": "ČVUT_Osvald.png",
+                    "photo": "CVUT_Osvald.png",
                     "name": "Rostislav Osvald",
                     "role": "Vývojář Android aplikace",
                     "linkedin": "https://www.linkedin.com/in/rostislav-osvald-082854183/"
@@ -400,13 +400,13 @@
                 "title": "Provoz a Finance",
                 "members": [
                   {
-                    "photo": "ČZU_Brecklová.png",
+                    "photo": "CZU_Brecklova.png",
                     "name": "Veronika Brecklová",
                     "role": "Ekonomická analytička",
                     "description": "Do týmu Uniqway jsem se přidala s vidinou tvorby unikátní studentské služby, která sdílením aut přispívá ke zlepšení dopravy po Praze a také snižuje ekologickou zátěž. V projektu se zabývám finanční analýzou a ekonomickými modely, které jsou potřeba k fungování Uniqway. Ve svém volném čase ráda jezdím na kole a hraji na bicí."
                   },
                   {
-                    "photo": "ČZU_Kluger.png",
+                    "photo": "CZU_Kluger.png",
                     "name": "Vít Kluger",
                     "role": "Provoz a marketing",
                     "description": "Do projektu jsem se nejdříve zapojil jako tester v prvotní fázi, kdy mě Uniqway nesmírně nadchlo a rozhodl jsem se, že bych se rád na vývoji podílel i nadále. Starám se o činnosti spojené s provozem a podílím se na marketingu za ČZU. Oddychem je pro mě čas strávený na golfovém hřišti, nebo v přírodě, zejména na horách."
@@ -417,25 +417,25 @@
                 "title": "Ambassadoři",
                 "members": [
                   {
-                    "photo": "ČZU_Pilch.png",
+                    "photo": "CZU_Pilch.png",
                     "name": "Ondřej Pilch",
                     "role": "Koordinátor ambasadorů",
                     "description": "Možnost spolupráce na Uniqway mě velice zaujala, protože se jedná o projekt, který má svou budoucnost a pracovat na něm je zábava. V našem carsharingu se podílím na pravidelných kontrolách aut. Zajišťuji, aby byla vždy připravena k jízdě. Zčásti dělám telefonickou podporu a registruji nové uživatele. Volný čas trávím hlavně s přáteli, rád hraji na kytaru a posiluji."
                   },
                   {
-                    "photo": "ČZU_Krhoun.png",
+                    "photo": "CZU_Krhoun.png",
                     "name": "Lukáš Krhoun",
                     "role": "Technický ambasador",
                     "description": "Podílení se na tomto unikátním studentském projektu mi umožňuje získat spoustu nových znalostí spojených s automobily a provozem carsharingové služby. Kromě kontroly a údržby aut také pomáhám našim uživatelům prostřednictvím Infolinky. Ve volném čase si zahraju s kamarády fotbal, v zimě si rád zajezdím na prkně."
                   },
                   {
-                    "photo": "ČZU_Tůma.png",
+                    "photo": "CZU_Tuma.png",
                     "name": "Vlastislav Tůma",
                     "role": "Technický ambasador",
                     "description": "Jelikož mne baví moderní trendy a mezi ně patří i sdílená ekonomika, viděl jsem v Uniqway příležitost se na ní podílet, a proto jsem se přidal k týmu. Starám se o flotilu aut a jsem k dispozici uživatelům na Infolince. Je pro mě důležité, aby byli spokojeni při každé jízdě. Rád cestuji a ve volném čase si zahraji fotbal."
                   },
                   {
-                    "photo": "ČZU_Vondráček.png",
+                    "photo": "CZU_Vondracek.png",
                     "name": "Martin Vondráček",
                     "role": "Technický ambasador",
                     "description": "V Uniqway patřím do týmu ambasadorů, který má na starost týdenní péči o naši flotilu. Dbáme na to, aby byla auta vždy připravená a dotankovaná pro cesty našich uživatelů. Podílím se také na podpoře Infolinky. Ve volném čase je ze mě hudebník, rekreační fotbalista na pražské Hanspaulské lize a občas si zahraji i squash."
@@ -446,19 +446,19 @@
                 "title": "Alumni",
                 "members": [
                   {
-                    "photo": "ČZU_Nezbedová.png",
+                    "photo": "CZU_Nezbedova.png",
                     "name": "Klára Nezbedová",
                     "role": "Technický ambasador",
                     "linkedin": "https://www.linkedin.com/in/kl%C3%A1ra-nezbedov%C3%A1-590b13141/"
                   },
                   {
-                    "photo": "ČZU_Babinský.png",
+                    "photo": "CZU_Babinsky.png",
                     "name": "Lukáš Babinský",
                     "role": "Technický ambasador",
                     "linkedin": "https://www.linkedin.com/in/lukasbabinsky/"
                   },
                   {
-                    "photo": "ČZU_Janoušek.png",
+                    "photo": "CZU_Janousek.png",
                     "name": "Pavel Janoušek",
                     "role": "Technický ambasador"
                   }
@@ -479,31 +479,31 @@
                 "title": "Marketing & PR",
                 "members": [
                   {
-                    "photo": "VŠE_Svárovská.png",
+                    "photo": "VSE_Svarovska.png",
                     "name": "Dominika Svárovská",
                     "role": "Markeťačka",
                     "description": "Rok po svém zapojení jsem dostala v Uniqway na starost koordinaci marketingu a PR celého projektu. Nejvíce mě naplňuje, že jsem součástí skvělého studentského projektu a unique týmu. Díky Uniqway jsem získala cenné profesní zkušenosti nejen v marketingu, ale i v jiných oblastech projektu."
                   },
                   {
-                    "photo": "VŠE_Sucháček.png",
+                    "photo": "VSE_Suchacek.png",
                     "name": "Radek Sucháček",
                     "role": "Auťák",
                     "description": "V Uniqway patřím do marketingového týmu a také pomáhám s péčí o naši flotilu. Je to pro mě skvělá kombinace kreativní práce a provozního zapojení. Na projektu mě nejvíce baví nespočet možností a celkové zapojení do služby. Čas mimo Uniqway trávím v práci, s přáteli a také odpočinkem, bez kterého by se to nedalo zvládat."
                   },
                   {
-                    "photo": "VŠE_Stuchlíková.png",
+                    "photo": "VSE_Stuchlikova.png",
                     "name": "Marie Stuchlíková",
                     "role": "Online markeťačka",
                     "description": "Pracovat na Uniqway je pro mě zkrátka radost. Máme tým skvělých lidí, se kterými je všechna práce vlastně zábava. Z marketingu mám na starosti zejména sponzorování příspěvků, správu Google Ads kampaní a také LinkedInu, ale ráda se podílím i na dalších aktivitách. Když mám volno, vždy nazuju běžecké tenisky a jdu si pár kilometry vyčistit hlavu."
                   },
                   {
-                    "photo": "VŠE_Trinhová.png",
+                    "photo": "VSE_Trinhova.png",
                     "name": "Kieu Anh Trinhová",
                     "role": "Holka z mailu",
                     "description": "Do Uniqway týmu jsem se přihlásila, abych nasbírala cenné zkušenosti, což naplnilo mé očekávání. Díky skvělému VŠE týmu můžu načerpat mnoho inspirace a zároveň přispívat svými nápady. Mým primárním úkolem bylo připravit a následně rozeslat emaily našim uživatelům. Nyní mám na starost správu Uniqway Instagramu.  Ve volném čase ráda kafíčkuji s přáteli anebo relaxuji v posteli u seriálů."
                   },
                   {
-                    "photo": "VŠE_Kalmár.png",
+                    "photo": "VSE_Kalmar.png",
                     "name": "Jakub Kalmár",
                     "role": "Kluk přes online a data",
                     "description": "Do projektu Uniqway jsem se zapojil začátkem roku 2018, kdy sa celý projekt právě připravoval na oficiální spuštění služby. Jsem členem marketingového týmu, ve kterém mám na starosti jak online marketing, převážně sponzorované příspěvky na sociálních médiích a PPC reklamy, tak i účast na různých eventech a analýzu dat. Dále také pomáhám s kontrolou a údržbou našeho vozového parku. Ve volném čase rád cestuji, hraji badminton, jezdím na kole, chodím na turistiku a trávím čas s kamarády."
@@ -514,7 +514,7 @@
                 "title": "Design",
                 "members": [
                   {
-                    "photo": "VŠE_Moreová.png",
+                    "photo": "VSE_Moreova.png",
                     "name": "Barbara Moreová",
                     "role": "Designérka",
                     "description": "V projektu Uniqway je mým úkolem připravovat grafiku pro různé reklamní a marketingové projekty. Uniqway není jen skvělá služba, ale hlavně skvělý tým mladých lidí a příležitost se hodně naučit a posouvat své schopnosti. Když se právě nevěnuji grafice, tak ráda plavu, cvičím nebo doháním spánkový deficit."
@@ -525,7 +525,7 @@
                 "title": "HR & Eventy",
                 "members": [
                   {
-                    "photo": "ČVUT_Motejlová.png",
+                    "photo": "CVUT_Motejlova.png",
                     "name": "Kateřina Motejlová",
                     "role": "Evenťačka",
                     "description": "Za možnost připojit se do skvělého marketingového týmu VŠE a tohoto výjimečného projektu jsem opravdu vděčná! Mám na starost zejména organizaci unique akcí, týmové HR a “vidíme” se spolu také každý měsíc prostřednictvím newsletteru. Volné chvíle vyplňuji knihami, přáteli a sportem."
@@ -536,25 +536,25 @@
                 "title": "Alumni",
                 "members": [
                   {
-                    "photo": "VŠE_Stránská.png",
+                    "photo": "VSE_Stranska.png",
                     "name": "Míša Stránská",
                     "role": "Koordinátorka projektu",
                     "linkedin": "https://www.linkedin.com/in/michaelastranska/"
                   },
                   {
-                    "photo": "VŠE_Dvořák.png",
+                    "photo": "VSE_Dvorak.png",
                     "name": "Jan Dvořák",
                     "role": "Koordinátor projektu",
                     "linkedin": "https://www.linkedin.com/in/jdjandvorak/"
                   },
                   {
-                    "photo": "VŠE_Henzl.png",
+                    "photo": "VSE_Henzl.png",
                     "name": "Jindřich Henzl",
                     "role": "Zakládající člen",
                     "linkedin": "https://www.linkedin.com/in/jindrichhenzl/"
                   },
                   {
-                    "photo": "VŠE_Listová.png",
+                    "photo": "VSE_Listova.png",
                     "name": "Míša Listová",
                     "role": "Zakládající členka",
                     "linkedin": "https://www.linkedin.com/in/michaela-listova"
@@ -1252,13 +1252,13 @@
                 "title": "Hardware",
                 "members": [
                   {
-                    "photo": "ČVUT_Tomlain.png",
+                    "photo": "CVUT_Tomlain.png",
                     "name": "Ján Tomlain",
                     "role": "Electronics master",
                     "description": "I have been working on the project Uniqway from the very beginning. In the preliminary phases, I dedicated technical visions of the system and its future routing. Recently, we work intensively within the HW group of tech team on the system modules for vehicles. I am the principal designer of electronics and programmatic equipment for Uniqway."
                   },
                   {
-                    "photo": "ČVUT_Tereň.png",
+                    "photo": "CVUT_Teren.png",
                     "name": "Ondrej Tereň",
                     "role": "Vehicle visionary",
                     "description": "I have been working on the project Uniqway since 2016. My task is the cooperation within the hardware team on development, production and assembly of electronics modules for vehicles so that they can integrate into the system of Uniqway. In my free time, I enjoy cycling and motor flying."
@@ -1269,31 +1269,31 @@
                 "title": "Software",
                 "members": [
                   {
-                    "photo": "ČVUT_Severa.png",
+                    "photo": "CVUT_Severa.png",
                     "name": "Štěpán Severa",
                     "role": "Tech team leader",
                     "description": "I joined Uniqway in the summer of 2018 and since then I have experienced many different positions - from Android, web and backend developer I have become the tech team leader. Presently, I mostly engage in coordinating the tech team and communicating with other teams. In my free time, I ride a bike and practice archery."
                   },
                   {
-                    "photo": "ČVUT_Šidlovský.png",
+                    "photo": "CVUT_Sidlovsky.png",
                     "name": "Marko Šidlovský",
                     "role": "Project coordinator",
                     "description": "In the project Uniqway, I have grown up in the technical team, within I still design and implement the web admin app. Now I work as the student CEO, and I spend most of my time by coordinating all team members and cooperating within all teams."
                   },
                   {
-                    "photo": "ČVUT_Ravas.png",
+                    "photo": "CVUT_Ravas.png",
                     "name": "Filip Ravas",
                     "role": "Backend administrator",
                     "description": "In the first stages of the project, I was responsible for the infrastructure and the development of a mobile app. I have yielded the app to the new members. Now I concentrate on the infrastructure and backend of our service."
                   },
                   {
-                    "photo": "ČVUT_Bondarev.png",
+                    "photo": "CVUT_Bondarev.png",
                     "name": "Nikita Bondarev",
                     "role": "Backend developer",
                     "description": "In Uniqway I work on it’s software, exactly backend, part. I’ve joined the project not so long ago and right after the first year of university. I hope, I will be of benefit for it as much, as it is for me."
                   },
                   {
-                    "photo": "ČVUT_Hanžlík.png",
+                    "photo": "CVUT_Hanzlik.png",
                     "name": "Aleš Hanžlík",
                     "role": "iOS developer",
                     "description": "I joined the team when I started university in 2020. Uniqway is a great opportunity to get hands on creating a real service in an amazing team. I am responsible for the iOS app, and I'm looking forward to pushing the whole project to the next level."
@@ -1304,7 +1304,7 @@
                 "title": "Design",
                 "members": [
                   {
-                    "photo": "ČVUT_Ondroušek.png",
+                    "photo": "CVUT_Ondrousek.png",
                     "name": "David Ondroušek",
                     "role": "Designer",
                     "description": "I joined Uniqway one year after the launch. I have met group of amazing people, learnt many new things and found how things work in a real life since that time. I am a part of design team where I mostly work on mobile app design and website design. I also participate in graphics for marketing projects."
@@ -1315,43 +1315,43 @@
                 "title": "Alumni",
                 "members": [
                   {
-                    "photo": "ČVUT_Horáček.png",
+                    "photo": "CVUT_Horacek.png",
                     "name": "Marek Horáček",
                     "role": "Designer",
                     "linkedin": "https://www.linkedin.com/in/marek-horacek/"
                   },
                   {
-                    "photo": "ČVUT_Hámek.png",
+                    "photo": "CVUT_Hamek.png",
                     "name": "Filip Hámek",
                     "role": "Designer",
                     "linkedin": "https://www.linkedin.com/in/filiphamek90/"
                   },
                   {
-                    "photo": "ČVUT_Vachula.png",
+                    "photo": "CVUT_Vachula.png",
                     "name": "Richard Vachula",
                     "role": "Backend administrator",
                     "linkedin": "https://www.linkedin.com/in/richardvachula/"
                   },
                   {
-                    "photo": "ČVUT_Švec.png",
+                    "photo": "CVUT_Svec.png",
                     "name": "Václav Švec",
                     "role": "Backend developer",
                     "linkedin": "https://www.linkedin.com/in/v%C3%A1clav-%C5%A1vec-781ba695/"
                   },
                   {
-                    "photo": "ČVUT_Černý.png",
+                    "photo": "CVUT_Cerny.png",
                     "name": "Michal Černý",
                     "role": "iOS developer",
                     "linkedin": "https://www.linkedin.com/in/cernymihal/"
                   },
                   {
-                    "photo": "ČVUT_Jun.png",
+                    "photo": "CVUT_Jun.png",
                     "name": "Jakub Jun",
                     "role": "Web frontend developer",
                     "linkedin": "https://www.linkedin.com/in/jakubjun/"
                   },
                   {
-                    "photo": "ČVUT_Osvald.png",
+                    "photo": "CVUT_Osvald.png",
                     "name": "Rostislav Osvald",
                     "role": "Android developer",
                     "linkedin": "https://www.linkedin.com/in/rostislav-osvald-082854183/"
@@ -1373,13 +1373,13 @@
                 "title": "Operation and Finance",
                 "members": [
                   {
-                    "photo": "ČZU_Brecklová.png",
+                    "photo": "CZU_Brecklova.png",
                     "name": "Veronika Brecklová",
                     "role": "Economical analyst",
                     "description": "I joined Uniqway because I believed in the creation of unique student service, that will improve the traffic in Prague by sharing cars and will also decrease the ecological load. In the project, I am responsible for the financial analysis and economic models, which are necessary for the function of Uniqway. In my free time, I ride a bike and play drums."
                   },
                   {
-                    "photo": "ČZU_Kluger.png",
+                    "photo": "CZU_Kluger.png",
                     "name": "Vít Kluger",
                     "role": "Operation and marketing",
                     "description": "I joined this project as a tester in the beginning phase, Uniqway amused me and I decided that I am interested in a long term cooperation. I take care of the operational activities and I am engaged in Marketing at CULS. I rest by playing golf or spending my time in nature, mountains."
@@ -1390,25 +1390,25 @@
                 "title": "Ambassadors",
                 "members": [
                   {
-                    "photo": "ČZU_Pilch.png",
+                    "photo": "CZU_Pilch.png",
                     "name": "Ondřej Pilch",
                     "role": "Coordinator of the ambassadors",
                     "description": "The opportunity to cooperate with Uniqway interested me because it is a project that has a future and working on it includes even fun. In our carsharing, I am engaged in regular weekly car checks. I prepare them for a ride. I am involved in the phone support and registration of new users. I spend my free time with my friends. I play guitar and workout."
                   },
                   {
-                    "photo": "ČZU_Tůma.png",
+                    "photo": "CZU_Tuma.png",
                     "name": "Vlastislav Tůma",
                     "role": "Technical ambassador",
                     "description": "I like modern trends in which the sharing economy belongs, thanks to Uniqway I am part of it. I take care of our car fleet and I am available for our users at the Infoline. Their satisfaction is important  for me. I like traveling and playing football."
                   },
                   {
-                    "photo": "ČZU_Krhoun.png",
+                    "photo": "CZU_Krhoun.png",
                     "name": "Lukáš Krhoun",
                     "role": "Technical ambassador",
                     "description": "The participation at this unique student project enables me to gain new knowledge connected with automotive and the carsharing service operation. Besides the car care and checks, I help our users via the Infoline. In my free time, I play football with my friends and during the winter I go snowboarding."
                   },
                   {
-                    "photo": "ČZU_Vondráček.png",
+                    "photo": "CZU_Vondracek.png",
                     "name": "Martin Vondráček",
                     "role": "Technical ambassador",
                     "description": "In Uniqway, I am a member of the ambassador team, which takes weekly care of our fleet. We look after the condition of cars and make them ready for the rides of our users. I also participate in the Infoline support. In my free time I am a musician, I play football and squash."
@@ -1419,19 +1419,19 @@
                 "title": "Alumni",
                 "members": [
                   {
-                    "photo": "ČZU_Nezbedová.png",
+                    "photo": "CZU_Nezbedova.png",
                     "name": "Klára Nezbedová",
                     "role": "Technical ambassador",
                     "linkedin": "https://www.linkedin.com/in/kl%C3%A1ra-nezbedov%C3%A1-590b13141/"
                   },
                   {
-                    "photo": "ČZU_Babinský.png",
+                    "photo": "CZU_Babinsky.png",
                     "name": "Lukáš Babinský",
                     "role": "Technical ambassador",
                     "linkedin": "https://www.linkedin.com/in/lukasbabinsky/"
                   },
                   {
-                    "photo": "ČZU_Janoušek.png",
+                    "photo": "CZU_Janousek.png",
                     "name": "Pavel Janoušek",
                     "role": "Technical ambassador"
                   }
@@ -1452,31 +1452,31 @@
                 "title": "Marketing & PR",
                 "members": [
                   {
-                    "photo": "VŠE_Svárovská.png",
+                    "photo": "VSE_Svarovska.png",
                     "name": "Dominika Svárovská",
                     "role": "Marketing specialist",
                     "description": "After a year in Uniqway, I am on the position as a team leader of the Marketing & PR team. Being a part of an exceptional student project with a unique team, is what I enjoy the most. Thanks to Uniqway, I gain valuable professional experience not only in Marketing but also in other fields of our project."
                   },
                   {
-                    "photo": "VŠE_Sucháček.png",
+                    "photo": "VSE_Suchacek.png",
                     "name": "Radek Sucháček",
                     "role": "The car guy",
                     "description": "I am a part of the marketing team in Uniqway and I help with the care of our fleet as well. For me it is an excellent combination of creative and operation work. I admire the number of opportunities in this project. Besides Uniqway, I work, spend time with friends and relax."
                   },
                   {
-                    "photo": "VŠE_Stuchlíková.png",
+                    "photo": "VSE_Stuchlikova.png",
                     "name": "Marie Stuchlíková",
                     "role": "Online marketing specialist",
                     "description": "Working on Uniqway is a joy for me. We have a team of great people, with whom the work is actually a fun. I am responsible for post sponzoring, Google Ads campaigns and LinkedIn, but I love to help with the other stuff. When I am free, I put on the running shoes and clear my head."
                   },
                   {
-                    "photo": "VŠE_Trinhová.png",
+                    "photo": "VSE_Trinhova.png",
                     "name": "Kieu Anh Trinhová",
                     "role": "The e-mail girl",
                     "description": "I joined Uniqway to gain valuable experience, which has really happened. The great VŠE team inspires me and I can contribute also with my ideas. My primary task is to prepare and send e-mails to our users. Now I am in charge of Uniqway Instagram. I love to have a coffee with my friends or relax with serials in my bed."
                   },
                   {
-                    "photo": "VŠE_Kalmár.png",
+                    "photo": "VSE_Kalmar.png",
                     "name": "Jakub Kalmár",
                     "role": "The online & data guy",
                     "description": "I joined Uniqway project at the beginning of 2018, when the whole project was just being prepared for the official launch of the service. Being a member of a marketing team, I am responsible for both, online marketing, mostly sponsored online marketing posts and CPC advertising, as well as, participation on the various events. Data analysis and maintenance of our fleet are my other subtasks. In case of free time I like travelling, playing badminton, cycling, hiking and chilling with my friends."
@@ -1487,7 +1487,7 @@
                 "title": "Design",
                 "members": [
                   {
-                    "photo": "VŠE_Moreová.png",
+                    "photo": "VSE_Moreova.png",
                     "name": "Barbara Moreová",
                     "role": "Designer",
                     "description": "As a member of Uniqway, my job is to prepare graphics for various advertising and marketing projects. Uniqway is not only a great service, but also a great team of young people and an opportunity to learn a lot and improve my skills. When I am not working on graphics, I like to go swimming, to gym or I am repaying my sleep debt."
@@ -1498,7 +1498,7 @@
                 "title": "HR & Events",
                 "members": [
                   {
-                    "photo": "ČVUT_Motejlová.png",
+                    "photo": "CVUT_Motejlova.png",
                     "name": "Kateřina Motejlová",
                     "role": "Eventer",
                     "description": "I am so grateful for the opportunity to join the excellent marketing team VŠE and this fantastic project. I am responsible for  event organization, team HR and you can see me hidden in the newsletter. In my free time I read, I am with friends or do some sport activities."
@@ -1509,25 +1509,25 @@
                 "title": "Alumni",
                 "members": [
                   {
-                    "photo": "VŠE_Stránská.png",
+                    "photo": "VSE_Stranska.png",
                     "name": "Míša Stránská",
                     "role": "Project coordinator",
                     "linkedin": "https://www.linkedin.com/in/michaelastranska/"
                   },
                   {
-                    "photo": "VŠE_Dvořák.png",
+                    "photo": "VSE_Dvorak.png",
                     "name": "Jan Dvořák",
                     "role": "Project coordinator",
                     "linkedin": "https://www.linkedin.com/in/jdjandvorak/"
                   },
                   {
-                    "photo": "VŠE_Henzl.png",
+                    "photo": "VSE_Henzl.png",
                     "name": "Jindřich Henzl",
                     "role": "Founding team member",
                     "linkedin": "https://www.linkedin.com/in/jindrichhenzl/"
                   },
                   {
-                    "photo": "VŠE_Listová.png",
+                    "photo": "VSE_Listova.png",
                     "name": "Míša Listová",
                     "role": "Founding team member",
                     "linkedin": "https://www.linkedin.com/in/michaela-listova"
