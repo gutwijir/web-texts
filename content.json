@@ -442,16 +442,16 @@
                 "title": "Provoz a Finance",
                 "members": [
                   {
-                    "photo": "CZU_Brecklova.png",
-                    "name": "Veronika Brecklová",
-                    "role": "Ekonomická analytička",
-                    "description": "Do týmu Uniqway jsem se přidala s vidinou tvorby unikátní studentské služby, která sdílením aut přispívá ke zlepšení dopravy po Praze a také snižuje ekologickou zátěž. V projektu se zabývám finanční analýzou a ekonomickými modely, které jsou potřeba k fungování Uniqway. Ve svém volném čase ráda jezdím na kole a hraji na bicí."
-                  },
-                  {
                     "photo": "CZU_Kluger.png",
                     "name": "Vít Kluger",
                     "role": "Studentský CEO",
                     "description": "Do projektu jsem se nejdříve zapojil jako tester v prvotní fázi, kdy mě Uniqway nesmírně nadchlo a rozhodl jsem se, že bych se rád na vývoji podílel i nadále. Poté jsem přišel do provozního týmu, kde jsem se staral o činnosti spojené se samotným provozem služby. Dále jsem se podílel na marketingových aktivitách za ČZU. Nyní se nacházím na pozici studentského CEO, kdy je mým úkolem řídit jednotlivé týmy a dohlížet nad růstem projektu. Oddychem je pro mě čas strávený na golfovém hřišti, nebo v přírodě, zejména na horách v zimě i v létě."
+                  },
+                  {
+                    "photo": "CZU_Brecklova.png",
+                    "name": "Veronika Brecklová",
+                    "role": "Ekonomická analytička",
+                    "description": "Do týmu Uniqway jsem se přidala s vidinou tvorby unikátní studentské služby, která sdílením aut přispívá ke zlepšení dopravy po Praze a také snižuje ekologickou zátěž. V projektu se zabývám finanční analýzou a ekonomickými modely, které jsou potřeba k fungování Uniqway. Ve svém volném čase ráda jezdím na kole a hraji na bicí."
                   }
                 ]
               },
@@ -485,13 +485,13 @@
                   {
                     "photo": "CZU_Landsmann.png",
                     "name": "Jakub Landsmann",
-                    "role": "Technický ambassador, organizátor ČZU eventů",
+                    "role": "Technický ambassador, ČZU evenťák",
                     "description": "Již od roku 2020 s UNIQWAY vesele kráčím ruku v ruce. Tým ČZU je dozajista nepřekonatelný svým skvělým přístupem k jednotlivým lidem a najití jejich předností, díky čemuž jsem po započetí působení jako ambassador taktéž přičichnul k promotion, events a z lehka i marketingu. Volnočasově se věnuji zážitkové pedagogice, hraním na bicí a baskytaru, tancováním folklóru a strategickým hrám."
                   },
                   {
                     "photo": "CZU_Horvathova.png",
                     "name": "Adriana Horváthová",
-                    "role": "Registrace, organizátor ČZU eventů",
+                    "role": "Registrace, ČZU evenťák",
                     "description": "Uniqway mě zachytila hned při nástupu na ČZU. Během chvilky mě uchvátil týmový duch a kamarádské vazby. Našla jsem se v administrativní části práce, v projektu se kromě ambassadorství zabývám online registrací uživatelů a přípravou promoakcí ČZU teamu. Mezi mé hlavní záliby patří ježdění na koních a procházky v přírodě."
                   }
                 ]
@@ -1504,16 +1504,16 @@
                 "title": "Operation and Finance",
                 "members": [
                   {
-                    "photo": "CZU_Brecklova.png",
-                    "name": "Veronika Brecklová",
-                    "role": "Economical analyst",
-                    "description": "I joined Uniqway because I believed in the creation of unique student service, that will improve the traffic in Prague by sharing cars and will also decrease the ecological load. In the project, I am responsible for the financial analysis and economic models, which are necessary for the function of Uniqway. In my free time, I ride a bike and play drums."
-                  },
-                  {
                     "photo": "CZU_Kluger.png",
                     "name": "Vít Kluger",
                     "role": "Student CEO",
                     "description": "I first joined the project as a tester in the early stages, when Uniqway thrilled me immensely, and I decided that I would like to continue participating in the development. Then I joined the operations team, where I took care of activities related to the operation of the service itself. I also participated in marketing activities for the CULS. I am now in the position of student CEO, where my task is to manage individual teams and oversee the growth of the project. For me, I like spending time on the golf course or in nature, especially in the mountains in winter and summer."
+                  },
+                  {
+                    "photo": "CZU_Brecklova.png",
+                    "name": "Veronika Brecklová",
+                    "role": "Economical analyst",
+                    "description": "I joined Uniqway because I believed in the creation of unique student service, that will improve the traffic in Prague by sharing cars and will also decrease the ecological load. In the project, I am responsible for the financial analysis and economic models, which are necessary for the function of Uniqway. In my free time, I ride a bike and play drums."
                   }
                 ]
               },
@@ -1547,13 +1547,13 @@
                   {
                     "photo": "CZU_Landsmann.png",
                     "name": "Jakub Landsmann",
-                    "role": "Technical ambassador, ČZU events organizer",
+                    "role": "Technical ambassador, ČZU eventer",
                     "description": "Since 2020, I have been walking happily hand in hand with UNIQWAY. The CULS team is certainly unbeatable with its great approach to individual people and finding their strengths, thanks to which, after starting my role as ambassador, I also sniffed at promotions, events and, lightly, marketing. In my free time I am engaged in experiential pedagogy, playing drums and bass guitar, dancing folklore and strategy games."
                   },
                   {
                     "photo": "CZU_Horvathova.png",
                     "name": "Adriana Horváthová",
-                    "role": "Registrations, ČZU events organizer",
+                    "role": "Registrations, ČZU eventer",
                     "description": "Uniqway caught me as soon as I joined the CULS. In a moment, I was captivated by the team spirit and friendships. I found myself in the administrative part of the work, in the project, in addition to embassies, I deal with online user registration and preparation of CULS team promotions. My main hobbies include horse riding and nature walks."
                   }
                 ]
