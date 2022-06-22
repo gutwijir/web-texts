@@ -450,8 +450,8 @@
                   {
                     "photo": "CZU_Kluger.png",
                     "name": "Vít Kluger",
-                    "role": "Provoz a marketing",
-                    "description": "Do projektu jsem se nejdříve zapojil jako tester v prvotní fázi, kdy mě Uniqway nesmírně nadchlo a rozhodl jsem se, že bych se rád na vývoji podílel i nadále. Starám se o činnosti spojené s provozem a podílím se na marketingu za ČZU. Oddychem je pro mě čas strávený na golfovém hřišti, nebo v přírodě, zejména na horách."
+                    "role": "Studentský CEO",
+                    "description": "Do projektu jsem se nejdříve zapojil jako tester v prvotní fázi, kdy mě Uniqway nesmírně nadchlo a rozhodl jsem se, že bych se rád na vývoji podílel i nadále. Poté jsem přišel do provozního týmu, kde jsem se staral o činnosti spojené se samotným provozem služby. Dále jsem se podílel na marketingových aktivitách za ČZU. Nyní se nacházím na pozici studentského CEO, kdy je mým úkolem řídit jednotlivé týmy a dohlížet nad růstem projektu. Oddychem je pro mě čas strávený na golfovém hřišti, nebo v přírodě, zejména na horách v zimě i v létě."
                   }
                 ]
               },
@@ -459,16 +459,10 @@
                 "title": "Ambassadoři",
                 "members": [
                   {
-                    "photo": "CZU_Pilch.png",
-                    "name": "Ondřej Pilch",
-                    "role": "Koordinátor ambasadorů",
-                    "description": "Možnost spolupráce na Uniqway mě velice zaujala, protože se jedná o projekt, který má svou budoucnost a pracovat na něm je zábava. V našem carsharingu se podílím na pravidelných kontrolách aut. Zajišťuji, aby byla vždy připravena k jízdě. Zčásti dělám telefonickou podporu a registruji nové uživatele. Volný čas trávím hlavně s přáteli, rád hraji na kytaru a posiluji."
-                  },
-                  {
-                    "photo": "CZU_Krhoun.png",
-                    "name": "Lukáš Krhoun",
-                    "role": "Technický ambasador",
-                    "description": "Podílení se na tomto unikátním studentském projektu mi umožňuje získat spoustu nových znalostí spojených s automobily a provozem carsharingové služby. Kromě kontroly a údržby aut také pomáhám našim uživatelům prostřednictvím Infolinky. Ve volném čase si zahraju s kamarády fotbal, v zimě si rád zajezdím na prkně."
+                    "photo": "CZU_Plzak.png",
+                    "name": "Tomáš Plzák",
+                    "role": "Koordinátor ambasadorů, equip manager",
+                    "description": "Do projektu Uniqway jsem se přidal v září 2020. Uniqway mě zaujal možností podílet se na rozvoji studentského carsharingu a zlepšování služby samotné. V projektu mám na starost veškeré věci spojené s flotilou aut a péči o auta včetně výbavy a připravenost naší flotily k jízdě. Volný čas trávím s kamarády na různých akcích jako fotbal nebo v zimě lyže a rád si zahraji PC hry."
                   },
                   {
                     "photo": "CZU_Tuma.png",
@@ -481,6 +475,24 @@
                     "name": "Martin Vondráček",
                     "role": "Technický ambasador",
                     "description": "V Uniqway patřím do týmu ambasadorů, který má na starost týdenní péči o naši flotilu. Dbáme na to, aby byla auta vždy připravená a dotankovaná pro cesty našich uživatelů. Podílím se také na podpoře Infolinky. Ve volném čase je ze mě hudebník, rekreační fotbalista na pražské Hanspaulské lize a občas si zahraji i squash."
+                  },
+                  {
+                    "photo": "CZU_Borakova.png",
+                    "name": "Anna Boráková",
+                    "role": "Registrace, infomail",
+                    "description": "V Uniqway jsem začínala jako ambasador a na starosti jsem měla kontrolu a údržbu našeho vozového parku. Nyní obstarávám převážně komunikaci s našimi uživateli, ale do terénu se občas také dostanu. Potkáváme se prostřednictvím emailů, jako telefonní podpora na infolince, ale též při online registracích. Pokud zrovna neodepisuji na emaily, tak trávím volný čas na procházce nebo poslechem hudby."
+                  },
+                  {
+                    "photo": "CZU_Landsmann.png",
+                    "name": "Jakub Landsmann",
+                    "role": "Technický ambassador, organizátor ČZU eventů",
+                    "description": "Již od roku 2020 s UNIQWAY vesele kráčím ruku v ruce. Tým ČZU je dozajista nepřekonatelný svým skvělým přístupem k jednotlivým lidem a najití jejich předností, díky čemuž jsem po započetí působení jako ambassador taktéž přičichnul k promotion, events a z lehka i marketingu. Volnočasově se věnuji zážitkové pedagogice, hraním na bicí a baskytaru, tancováním folklóru a strategickým hrám."
+                  },
+                  {
+                    "photo": "CZU_Horvathova.png",
+                    "name": "Adriana Horváthová",
+                    "role": "Registrace, organizátor ČZU eventů",
+                    "description": "Uniqway mě zachytila hned při nástupu na ČZU. Během chvilky mě uchvátil týmový duch a kamarádské vazby. Našla jsem se v administrativní části práce, v projektu se kromě ambassadorství zabývám online registrací uživatelů a přípravou promoakcí ČZU teamu. Mezi mé hlavní záliby patří ježdění na koních a procházky v přírodě."
                   }
                 ]
               },
@@ -503,6 +515,17 @@
                     "photo": "CZU_Janousek.png",
                     "name": "Pavel Janoušek",
                     "role": "Technický ambasador"
+                  },
+                  {
+                    "photo": "CZU_Pilch.png",
+                    "name": "Ondřej Pilch",
+                    "role": "Koordinátor ambasadorů"
+                  },
+                  {
+                    "photo": "CZU_Krhoun.png",
+                    "name": "Lukáš Krhoun",
+                    "role": "Technický ambasador",
+                    "linkedin": "https://www.linkedin.com/in/lukáš-krhoun-625b201aa/"
                   }
                 ]
               }
@@ -1465,8 +1488,8 @@
                   {
                     "photo": "CZU_Kluger.png",
                     "name": "Vít Kluger",
-                    "role": "Operation and marketing",
-                    "description": "I joined this project as a tester in the beginning phase, Uniqway amused me and I decided that I am interested in a long term cooperation. I take care of the operational activities and I am engaged in Marketing at CULS. I rest by playing golf or spending my time in nature, mountains."
+                    "role": "Student CEO",
+                    "description": "I first joined the project as a tester in the early stages, when Uniqway thrilled me immensely, and I decided that I would like to continue participating in the development. Then I joined the operations team, where I took care of activities related to the operation of the service itself. I also participated in marketing activities for the CULS. I am now in the position of student CEO, where my task is to manage individual teams and oversee the growth of the project. For me, I like spending time on the golf course or in nature, especially in the mountains in winter and summer."
                   }
                 ]
               },
@@ -1474,10 +1497,10 @@
                 "title": "Ambassadors",
                 "members": [
                   {
-                    "photo": "CZU_Pilch.png",
-                    "name": "Ondřej Pilch",
-                    "role": "Coordinator of the ambassadors",
-                    "description": "The opportunity to cooperate with Uniqway interested me because it is a project that has a future and working on it includes even fun. In our carsharing, I am engaged in regular weekly car checks. I prepare them for a ride. I am involved in the phone support and registration of new users. I spend my free time with my friends. I play guitar and workout."
+                    "photo": "CZU_Plzak.png",
+                    "name": "Tomáš Plzák",
+                    "role": "Coordinator of the ambassadors, equip manager",
+                    "description": "I joined the Uniqway project in September 2020. I was fascinated by Uniqway's opportunity to participate in the development of student carsharing and the improvement of the services themselves. In the project, I am in charge of all things related to the car fleet and car care, including the equipment and readiness of our fleet to drive. I spend my free time with friends at various events such as football or skiing in the winter and I like to play PC games."
                   },
                   {
                     "photo": "CZU_Tuma.png",
@@ -1486,16 +1509,28 @@
                     "description": "I like modern trends in which the sharing economy belongs, thanks to Uniqway I am part of it. I take care of our car fleet and I am available for our users at the Infoline. Their satisfaction is important  for me. I like traveling and playing football."
                   },
                   {
-                    "photo": "CZU_Krhoun.png",
-                    "name": "Lukáš Krhoun",
-                    "role": "Technical ambassador",
-                    "description": "The participation at this unique student project enables me to gain new knowledge connected with automotive and the carsharing service operation. Besides the car care and checks, I help our users via the Infoline. In my free time, I play football with my friends and during the winter I go snowboarding."
-                  },
-                  {
                     "photo": "CZU_Vondracek.png",
                     "name": "Martin Vondráček",
                     "role": "Technical ambassador",
                     "description": "In Uniqway, I am a member of the ambassador team, which takes weekly care of our fleet. We look after the condition of cars and make them ready for the rides of our users. I also participate in the Infoline support. In my free time I am a musician, I play football and squash."
+                  },
+                  {
+                    "photo": "CZU_Borakova.png",
+                    "name": "Anna Boráková",
+                    "role": "Registrations, infomail",
+                    "description": "At Uniqway, I started as an ambassador and was in charge of inspecting and maintaining our fleet. Now I mainly provide communication with our users, but sometimes I also get into the field. We meet via emails, as telephone support on the infoline, but also during online registrations. If I'm not writing to emails, I spend my free time walking or listening to music."
+                  },
+                  {
+                    "photo": "CZU_Landsmann.png",
+                    "name": "Jakub Landsmann",
+                    "role": "Technical ambassador, ČZU events organizer",
+                    "description": "Since 2020, I have been walking happily hand in hand with UNIQWAY. The CULS team is certainly unbeatable with its great approach to individual people and finding their strengths, thanks to which, after starting my role as ambassador, I also sniffed at promotions, events and, lightly, marketing. In my free time I am engaged in experiential pedagogy, playing drums and bass guitar, dancing folklore and strategy games."
+                  },
+                  {
+                    "photo": "CZU_Horvathova.png",
+                    "name": "Adriana Horváthová",
+                    "role": "Registrations, ČZU events organizer",
+                    "description": "Uniqway caught me as soon as I joined the CULS. In a moment, I was captivated by the team spirit and friendships. I found myself in the administrative part of the work, in the project, in addition to embassies, I deal with online user registration and preparation of CULS team promotions. My main hobbies include horse riding and nature walks."
                   }
                 ]
               },
@@ -1518,6 +1553,17 @@
                     "photo": "CZU_Janousek.png",
                     "name": "Pavel Janoušek",
                     "role": "Technical ambassador"
+                  },
+                  {
+                    "photo": "CZU_Pilch.png",
+                    "name": "Ondřej Pilch",
+                    "role": "Coordinator of the ambassadors"
+                  },
+                  {
+                    "photo": "CZU_Krhoun.png",
+                    "name": "Lukáš Krhoun",
+                    "role": "Technical ambassador",
+                    "linkedin": "https://www.linkedin.com/in/lukáš-krhoun-625b201aa/"
                   }
                 ]
               }
