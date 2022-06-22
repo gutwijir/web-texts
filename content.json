@@ -296,16 +296,10 @@
                 "title": "Software",
                 "members": [
                   {
-                    "photo": "CVUT_Severa.png",
-                    "name": "Štěpán Severa",
-                    "role": "Vedoucí technického týmu",
-                    "description": "K Uniqway jsem se připojil v létě 2018 a od té doby jsem prošel řadou různých pozic - přes Android, web a backend jsem se dostal až na pozici vedoucího technického týmu Uniqway. Nyní se převážně věnuji koordinaci technického týmu a komunikaci s ostatními týmy. Volný čas trávím cyklistikou a lukostřelbou."
-                  },
-                  {
                     "photo": "CVUT_Sidlovsky.png",
                     "name": "Marko Šidlovský",
-                    "role": "Koordinátor projektu",
-                    "description": "V projektu Uniqway jsem vyrůstal v technickém týmu, kde dodnes navrhuji a implementuji webovou správcovskou aplikaci. Aktuálně jsem na pozici studentského CEO, většinu času trávím koordinací spolupráce mezi všemi týmy. Uniqway mi dalo hodně, hlavně profesní zkušenosti, odborné znalosti a partu kamarádů."
+                    "role": "Data specialist",
+                    "description": "Na projektu Uniqway jsem začínal jako vývojář webové správcovské aplikaci, následně jsem dva a půl roku působil na pozici studentského CEO, kde jsem koordinoval spolupráci napříč všemi týmy a dnes zodpovídám za zpracování a vyhodnocání dat v projektu. Uniqway mi dalo hodně, hlavně profesní zkušenosti, odborné znalosti a partu kamarádů."
                   },
                   {
                     "photo": "CVUT_Ravas.png",
@@ -314,16 +308,52 @@
                     "description": "V prvních fázích projektu jsem zodpovídal za infrastrukturu a vývoj mobilní aplikace. Tu jsem přenechal novým členům a kromě infrastruktury se soustředím na backend naší služby."
                   },
                   {
-                    "photo": "CVUT_Bondarev.png",
-                    "name": "Nikita Bondarev",
-                    "role": "Vývojář Backendu",
-                    "description": "V Uniqway se zabývám softwarovou, zejména backendovou, částí. Připojil jsem se k projektu ne tak dávno, hned po prvním ročníku vysoké školy, a doufám, že můj přínos pro něj bude stejně velký, jako je přínos projektu pro mě."
-                  },
-                  {
                     "photo": "CVUT_Hanzlik.png",
                     "name": "Aleš Hanžlík",
                     "role": "iOS vývojář",
                     "description": "K týmu jsem se připojil společně s nástupem na vysokou školu. Uniqway je super možnost, jak při studiu ve skvělém kolektivu vytvářet reálnou službu. Jsem zodpovědný za vývoj iOS aplikace. Těším se, kam společně celý projekt posuneme."
+                  },
+                  {
+                    "photo": "CVUT_Nurkhozhin.png",
+                    "name": "Arlan Nurkhozhin",
+                    "role": "Vývojář infrastruktury",
+                    "description": "K technickému týmu jsem se připojil během prvního ročníku na vysoké a od té doby pracuji na infrastruktuře, na které běží náš backend a mnoho jiných věcí. Díky Uniqway poznávám každý den v práci něco nového."
+                  },
+                  {
+                    "photo": "CVUT_Norek.png",
+                    "name": "Lukáš Norek",
+                    "role": "Vedoucí technického týmu",
+                    "description": "Do týmu Uniqway jsem se přidal po zpracování bakalářské práce a převzal jsem vývoj Android aplikace. Následně mi byla nabídnuta pozice vedoucího technického týmu, což jsem vzal jako příležitost k vyzkoušení něčeho nového. Jako technický vedoucí se věnuji hlavně koordinaci týmu a komunikaci s ostatními týmy."
+                  },
+                  {
+                    "photo": "CVUT_Gutwirth.png",
+                    "name": "Jiří Gutwirth",
+                    "role": "Vývojář webu",
+                    "description": "K Uniqway týmu jsem se připojil na podzim 2020, nejprve v rámci bakalářské práce a poté i pracovně. Na Uniqway mě baví skvělý tým lidí ochotných jet naplno a posunout službu o úroveň výše. Mám na starost vývoj a správu webových aplikací."
+                  },
+                  {
+                    "photo": "CVUT_Skala.png",
+                    "name": "Martin Skala",
+                    "role": "Android vývojář",
+                    "description": "Do projektu jsem se připojil krátce po příchodu na vysokou školu jako vývojář mobilní aplikace pro Android. I když jsem teprve na začátku, mohu s jistotou říct, že již nyní jsem získal spoustu zkušeností a věřím, že ještě víc na mě v budoucnu čeká."
+                  },
+                  {
+                    "photo": "CVUT_Puta.png",
+                    "name": "Štěpán Půta",
+                    "role": "Android vývojář",
+                    "description": "Do Uniqway jsem se připojil nedlouho po nástupu na ČVUT. V technickém týmu se podílím na rozvoji Android aplikace. Je to skvělá možnost, jak získat spoustu zkušeností a potkat super lidi."
+                  },
+                  {
+                    "photo": "VSE_Anh_Do.png",
+                    "name": "Viet Anh Do",
+                    "role": "Vývojář backendu",
+                    "description": "K týmu Uniqway, kde se věnuji backendové části aplikace, jsem se připojil ne tak dávno. Pevně věřím, že společnými silami dokážeme krok po kroku překonat mnoho reálných překážek a projekt posunout ještě dál."
+                  },
+                  {
+                    "photo": "CVUT_Korpas.png",
+                    "name": "Petr Korpas",
+                    "role": "Procesní analytik",
+                    "description": "K uniqway jsem se přidal na konci roku 2021, a to na úplně novou pozici - softwarovou analýzu. Toto místo je pro mě super možnost k poznání nejen, jak jednotlivé týmy spolupracují, ale i mnoho nových lidí při naší společné komunikaci. Věřím, že se během mého působení v týmu projekt posune o velký kus dál."
                   }
                 ]
               },
@@ -382,6 +412,18 @@
                     "name": "Rostislav Osvald",
                     "role": "Vývojář Android aplikace",
                     "linkedin": "https://www.linkedin.com/in/rostislav-osvald-082854183/"
+                  },
+                  {
+                    "photo": "CVUT_Severa.png",
+                    "name": "Štěpán Severa",
+                    "role": "Vedoucí technického týmu, vývojář backendu",
+                    "linkedin": "https://www.linkedin.com/in/severastepan/"
+                  },
+                  {
+                    "photo": "CVUT_Bondarev.png",
+                    "name": "Nikita Bondarev",
+                    "role": "Vývojář backendu",
+                    "linkedin": "https://www.linkedin.com/in/nikita-bondarev-4670b81b7/"
                   }
                 ]
               }
@@ -1269,16 +1311,10 @@
                 "title": "Software",
                 "members": [
                   {
-                    "photo": "CVUT_Severa.png",
-                    "name": "Štěpán Severa",
-                    "role": "Tech team leader",
-                    "description": "I joined Uniqway in the summer of 2018 and since then I have experienced many different positions - from Android, web and backend developer I have become the tech team leader. Presently, I mostly engage in coordinating the tech team and communicating with other teams. In my free time, I ride a bike and practice archery."
-                  },
-                  {
                     "photo": "CVUT_Sidlovsky.png",
                     "name": "Marko Šidlovský",
-                    "role": "Project coordinator",
-                    "description": "In the project Uniqway, I have grown up in the technical team, within I still design and implement the web admin app. Now I work as the student CEO, and I spend most of my time by coordinating all team members and cooperating within all teams."
+                    "role": "Data specialist",
+                    "description": "On the Uniqway project, I started as a web administration app developer, then I worked for two and a half years as a student CEO, where I coordinated cooperation across all teams and today I am responsible for the processing and evaluation of data in the project. Uniqway gave me a lot of knowledge and a bunch of friends."
                   },
                   {
                     "photo": "CVUT_Ravas.png",
@@ -1287,16 +1323,52 @@
                     "description": "In the first stages of the project, I was responsible for the infrastructure and the development of a mobile app. I have yielded the app to the new members. Now I concentrate on the infrastructure and backend of our service."
                   },
                   {
-                    "photo": "CVUT_Bondarev.png",
-                    "name": "Nikita Bondarev",
-                    "role": "Backend developer",
-                    "description": "In Uniqway I work on it’s software, exactly backend, part. I’ve joined the project not so long ago and right after the first year of university. I hope, I will be of benefit for it as much, as it is for me."
-                  },
-                  {
                     "photo": "CVUT_Hanzlik.png",
                     "name": "Aleš Hanžlík",
                     "role": "iOS developer",
-                    "description": "I joined the team when I started university in 2020. Uniqway is a great opportunity to get hands on creating a real service in an amazing team. I am responsible for the iOS app, and I'm looking forward to pushing the whole project to the next level."
+                    "description": "I joined the team when I started college. Uniqway is a great way to create real service while studying in a great team. I am responsible for iOS application development. I'm looking forward to moving the whole project together."
+                  },
+                  {
+                    "photo": "CVUT_Nurkhozhin.png",
+                    "name": "Arlan Nurkhozhin",
+                    "role": "Infrastructure developer",
+                    "description": "I joined the technical team during my first year at university and since then I have been working on the infrastructure on which our backend and many other things run. Thanks to Uniqway, I learn something new every day at work."
+                  },
+                  {
+                    "photo": "CVUT_Norek.png",
+                    "name": "Lukáš Norek",
+                    "role": "Tech team leader",
+                    "description": "I joined the Uniqway team after processing my bachelor's thesis and took over the development of the Android application. Subsequently, I was offered the position of technical team leader, which I took as an opportunity to try something new. As a technical leader, I mainly focus on team coordination and communication with other teams."
+                  },
+                  {
+                    "photo": "CVUT_Gutwirth.png",
+                    "name": "Jiří Gutwirth",
+                    "role": "Web developer",
+                    "description": "I joined Uniqway autumn 2020, first in terms of my bachelor's thesis and then even workwise. What I like about Uniqway is a great team of people willing to go 100% in for the service to level up. I am in charge of development and maintenance of the web applications."
+                  },
+                  {
+                    "photo": "CVUT_Skala.png",
+                    "name": "Martin Skala",
+                    "role": "Android developer",
+                    "description": "I joined the project shortly after coming to the college as a developer of a mobile app for Android. Even though I am only at the beginning, I can say with confidence that I have already gained a lot of experience and I believe that even more awaits me in the future."
+                  },
+                  {
+                    "photo": "CVUT_Puta.png",
+                    "name": "Štěpán Půta",
+                    "role": "Android developer",
+                    "description": "I joined Uniqway shortly after joining CTU. In the technical team, I participate in the development of the Android application. It's a great opportunity to gain a lot of experience and meet great people."
+                  },
+                  {
+                    "photo": "VSE_Anh_Do.png",
+                    "name": "Viet Anh Do",
+                    "role": "Backend developer",
+                    "description": "I joined the Uniqway team not so long ago as a backend developer. I firmly believe that together we can overcome many real obstacles step by step and move the project even further."
+                  },
+                  {
+                    "photo": "CVUT_Korpas.png",
+                    "name": "Petr Korpas",
+                    "role": "Process analyst",
+                    "description": "I joined the Uniqway team in the end of 2021. The work I do here was completely new to the project up until this point - software analysis. This job is a great opportunity to not only get to know how different teams work and interact between themselves but also meet new people when discussing new things. I believe that our project will achieve great leaps forward during the period I will be working at Uniqway."
                   }
                 ]
               },
@@ -1355,6 +1427,18 @@
                     "name": "Rostislav Osvald",
                     "role": "Android developer",
                     "linkedin": "https://www.linkedin.com/in/rostislav-osvald-082854183/"
+                  },
+                  {
+                    "photo": "CVUT_Severa.png",
+                    "name": "Štěpán Severa",
+                    "role": "Tech team leader, backend developer",
+                    "linkedin": "https://www.linkedin.com/in/severastepan/"
+                  },
+                  {
+                    "photo": "CVUT_Bondarev.png",
+                    "name": "Nikita Bondarev",
+                    "role": "Backend developer",
+                    "linkedin": "https://www.linkedin.com/in/nikita-bondarev-4670b81b7/"
                   }
                 ]
               }
