@@ -296,6 +296,12 @@
                 "title": "Software",
                 "members": [
                   {
+                    "photo": "CVUT_Norek.png",
+                    "name": "Lukáš Norek",
+                    "role": "Vedoucí technického týmu",
+                    "description": "Do týmu Uniqway jsem se přidal po zpracování bakalářské práce a převzal jsem vývoj Android aplikace. Následně mi byla nabídnuta pozice vedoucího technického týmu, což jsem vzal jako příležitost k vyzkoušení něčeho nového. Jako technický vedoucí se věnuji hlavně koordinaci týmu a komunikaci s ostatními týmy."
+                  },
+                  {
                     "photo": "CVUT_Sidlovsky.png",
                     "name": "Marko Šidlovský",
                     "role": "Data specialist",
@@ -308,6 +314,12 @@
                     "description": "V prvních fázích projektu jsem zodpovídal za infrastrukturu a vývoj mobilní aplikace. Tu jsem přenechal novým členům a kromě infrastruktury se soustředím na backend naší služby."
                   },
                   {
+                    "photo": "CVUT_Gutwirth.png",
+                    "name": "Jiří Gutwirth",
+                    "role": "Vývojář webu",
+                    "description": "K Uniqway týmu jsem se připojil na podzim 2020, nejprve v rámci bakalářské práce a poté i pracovně. Na Uniqway mě baví skvělý tým lidí ochotných jet naplno a posunout službu o úroveň výše. Mám na starost vývoj a správu webových aplikací."
+                  },
+                  {
                     "photo": "CVUT_Hanzlik.png",
                     "name": "Aleš Hanžlík",
                     "role": "iOS vývojář",
@@ -318,18 +330,6 @@
                     "name": "Arlan Nurkhozhin",
                     "role": "Vývojář infrastruktury",
                     "description": "K technickému týmu jsem se připojil během prvního ročníku na vysoké a od té doby pracuji na infrastruktuře, na které běží náš backend a mnoho jiných věcí. Díky Uniqway poznávám každý den v práci něco nového."
-                  },
-                  {
-                    "photo": "CVUT_Norek.png",
-                    "name": "Lukáš Norek",
-                    "role": "Vedoucí technického týmu",
-                    "description": "Do týmu Uniqway jsem se přidal po zpracování bakalářské práce a převzal jsem vývoj Android aplikace. Následně mi byla nabídnuta pozice vedoucího technického týmu, což jsem vzal jako příležitost k vyzkoušení něčeho nového. Jako technický vedoucí se věnuji hlavně koordinaci týmu a komunikaci s ostatními týmy."
-                  },
-                  {
-                    "photo": "CVUT_Gutwirth.png",
-                    "name": "Jiří Gutwirth",
-                    "role": "Vývojář webu",
-                    "description": "K Uniqway týmu jsem se připojil na podzim 2020, nejprve v rámci bakalářské práce a poté i pracovně. Na Uniqway mě baví skvělý tým lidí ochotných jet naplno a posunout službu o úroveň výše. Mám na starost vývoj a správu webových aplikací."
                   },
                   {
                     "photo": "CVUT_Skala.png",
@@ -1311,6 +1311,12 @@
                 "title": "Software",
                 "members": [
                   {
+                    "photo": "CVUT_Norek.png",
+                    "name": "Lukáš Norek",
+                    "role": "Tech team leader",
+                    "description": "I joined the Uniqway team after processing my bachelor's thesis and took over the development of the Android application. Subsequently, I was offered the position of technical team leader, which I took as an opportunity to try something new. As a technical leader, I mainly focus on team coordination and communication with other teams."
+                  },
+                  {
                     "photo": "CVUT_Sidlovsky.png",
                     "name": "Marko Šidlovský",
                     "role": "Data specialist",
@@ -1323,6 +1329,12 @@
                     "description": "In the first stages of the project, I was responsible for the infrastructure and the development of a mobile app. I have yielded the app to the new members. Now I concentrate on the infrastructure and backend of our service."
                   },
                   {
+                    "photo": "CVUT_Gutwirth.png",
+                    "name": "Jiří Gutwirth",
+                    "role": "Web developer",
+                    "description": "I joined Uniqway autumn 2020, first in terms of my bachelor's thesis and then even workwise. What I like about Uniqway is a great team of people willing to go 100% in for the service to level up. I am in charge of development and maintenance of the web applications."
+                  },
+                  {
                     "photo": "CVUT_Hanzlik.png",
                     "name": "Aleš Hanžlík",
                     "role": "iOS developer",
@@ -1333,18 +1345,6 @@
                     "name": "Arlan Nurkhozhin",
                     "role": "Infrastructure developer",
                     "description": "I joined the technical team during my first year at university and since then I have been working on the infrastructure on which our backend and many other things run. Thanks to Uniqway, I learn something new every day at work."
-                  },
-                  {
-                    "photo": "CVUT_Norek.png",
-                    "name": "Lukáš Norek",
-                    "role": "Tech team leader",
-                    "description": "I joined the Uniqway team after processing my bachelor's thesis and took over the development of the Android application. Subsequently, I was offered the position of technical team leader, which I took as an opportunity to try something new. As a technical leader, I mainly focus on team coordination and communication with other teams."
-                  },
-                  {
-                    "photo": "CVUT_Gutwirth.png",
-                    "name": "Jiří Gutwirth",
-                    "role": "Web developer",
-                    "description": "I joined Uniqway autumn 2020, first in terms of my bachelor's thesis and then even workwise. What I like about Uniqway is a great team of people willing to go 100% in for the service to level up. I am in charge of development and maintenance of the web applications."
                   },
                   {
                     "photo": "CVUT_Skala.png",
