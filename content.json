@@ -3,7 +3,7 @@
     "documents": {
       "priceList": {
         "link": "/legal/cenik/price_list_cs.pdf",
-        "label": ""
+        "label": "Ceník"
       },
       "dataProcessing": {
         "link": "/legal/data/uniqway_privacy_policy_cs.pdf",
@@ -1057,7 +1057,7 @@
     "documents": {
       "priceList": {
         "link": "/legal/cenik/price_list_en.pdf",
-        "label": ""
+        "label": "Price list"
       },
       "dataProcessing": {
         "link": "/legal/data/uniqway_privacy_policy_en.pdf",
