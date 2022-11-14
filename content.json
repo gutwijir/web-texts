@@ -217,9 +217,9 @@
             "cars": [
               {
                 "id": "0",
-                "carTitle": "ŠKODA ENYAQ iV",
+                "carTitle": "ŠKODA ENYAQ Coupé RS iV",
                 "shortTitle": "ENYAQ iV",
-                "img": "enyaq.png",
+                "img": "enyaq.webp",
                 "minutePriceDriving": "5,99",
                 "minutePriceParking": "2,99",
                 "freeMinutes": "20",
@@ -1010,13 +1010,13 @@
       {
         "code": "enyaq",
         "id": "0",
-        "name": "ŠKODA ENYAQ iV",
-        "image": "/img/cars/enyaq.png",
-        "alt": "ŠKODA ENYAQ iV",
+        "name": "ŠKODA ENYAQ Coupé RS iV",
+        "image": "/img/cars/enyaq.webp",
+        "alt": "ŠKODA ENYAQ Coupé RS iV",
         "specs": [
           {
-            "value": "Rok výroby: 2021",
-            "bold": "Motor: 150 kW, 82 kWh baterie"
+            "value": "Rok výroby: 2022",
+            "bold": "Motor: 220 kW, 82 kWh baterie"
           },
           {
             "value": "Palivo: Elektřina"
@@ -1025,28 +1025,30 @@
             "value": "Převodovka: 1-stup. automat"
           },
           {
-            "value": "Barva: Šedá Quartz metalíza"
+            "value": "Barva: Zelená Mamba"
           }
         ],
         "features": [
           {
-            "value": "Asistovaná jízda 2.0"
+            "value": "Head-up displej"
           },
           {
-            "value": "Adaptivní Matrix LED světla",
-            "bold": "true"
+            "value": "Bezdrátové nabíjení telefonu"
           },
           {
-            "value": "Adaptivní podvozek"
+            "value": "Hlasové ovládání"
           },
           {
-            "value": "Bezklíčové odemykání a startování"
+            "value": "Automatické udržování vzdálenosti"
           },
           {
-            "value": "Nabíjecí přihrádka na telefon"
+            "value": "Rozpoznávání dopravních značek"
           },
           {
-            "value": "Vyhřívaná sedadla, volant a čelní sklo"
+            "value": "Panoramatická střecha"
+          },
+          {
+            "value": "Ambientní osvětlení"
           }
         ],
         "guideLink": "/guides/enyaq_userguide_cz.pdf"
@@ -1279,9 +1281,9 @@
             "cars": [
               {
                 "id": "0",
-                "carTitle": "ŠKODA ENYAQ iV",
+                "carTitle": "ŠKODA ENYAQ Coupé RS iV",
                 "shortTitle": "ENYAQ iV",
-                "img": "enyaq.png",
+                "img": "enyaq.webp",
                 "minutePriceDriving": "5,99",
                 "minutePriceParking": "2,99",
                 "freeMinutes": "20",
@@ -2070,10 +2072,16 @@
     },
     "cars": [
       {
+        "code": "enyaq",
+        "id": "0",
+        "name": "ŠKODA ENYAQ Coupé RS iV",
+        "image": "/img/cars/enyaq.webp",
+        "alt": "ŠKODA ENYAQ Coupé RS iV",
+        "guideLink": "/guides/enyaq_userguide_en.pdf",
         "specs": [
           {
-            "bold": "Engine: 150 kW, 82 kWh battery",
-            "value": "The year of production: 2021"
+            "value": "The year of production: 2022",
+            "bold": "Engine: 220 kW, 82 kWh battery"
           },
           {
             "value": "Fuel: Electricity"
@@ -2082,35 +2090,32 @@
             "value": "Gearbox: Automatic 1-speed"
           },
           {
-            "value": "Colour: Grey Quartz metallic"
+            "value": "Colour: Green Mamba"
           }
         ],
         "features": [
           {
-            "value": "Assisted drive 2.0"
+            "value": "Head-up display"
           },
           {
-            "value": "Adaptive Matrix LED lights"
+            "value": "Wireless mobile phone charging"
           },
           {
-            "value": "Adaptive rolling chassis"
+            "value": "Voice command"
           },
           {
-            "value": "Keyless locking and starting"
+            "value": "Adaptive cruise control"
           },
           {
-            "value": "Charging compartment for phone"
+            "value": "Traffic signs recognition"
           },
           {
-            "value": "Heated seats, steering wheel and wind shield"
+            "value": "Panoramatic roof"
+          },
+          {
+            "value": "Ambient lighting"
           }
-        ],
-        "code": "enyaq",
-        "id": "0",
-        "name": "ŠKODA ENYAQ iV",
-        "image": "/img/cars/enyaq.png",
-        "alt": "ŠKODA ENYAQ iV",
-        "guideLink": "/guides/enyaq_userguide_en.pdf"
+        ]
       }
     ]
   }
