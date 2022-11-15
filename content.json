@@ -217,7 +217,7 @@
             "cars": [
               {
                 "id": "0",
-                "carTitle": "ŠKODA ENYAQ Coupé RS iV",
+                "carTitle": "ŠKODA ENYAQ COUPÉ RS iV",
                 "shortTitle": "ENYAQ iV",
                 "img": "enyaq.webp",
                 "minutePriceDriving": "5,99",
@@ -1281,7 +1281,7 @@
             "cars": [
               {
                 "id": "0",
-                "carTitle": "ŠKODA ENYAQ Coupé RS iV",
+                "carTitle": "ŠKODA ENYAQ COUPÉ RS iV",
                 "shortTitle": "ENYAQ iV",
                 "img": "enyaq.webp",
                 "minutePriceDriving": "5,99",
